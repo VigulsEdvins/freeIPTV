@@ -8,12 +8,14 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - name: Клонирование репозитория
         uses: actions/checkout@v4
 
       - name: Установка Python
-        uses: setup-python@v5
+        uses: actions/setup-python@v5
         with:
           python-version: '3.x'
 
