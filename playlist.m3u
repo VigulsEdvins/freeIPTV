@@ -1,0 +1,774 @@
+#EXTM3U
+#EXTINF:-1 group-title="🍿 Кинозалы и Фильмы" tvg-id="mosfilm" tvg-logo="https://ngrch.github.io/iptv/logos/mosfilm.png", Мосфильм Золотая коллекция
+http://stream.mcquack.net/369/index.m3u8
+#EXTINF:-1 group-title="🍿 Кинозалы и Фильмы" tvg-id="mosfilm" tvg-logo="https://ngrch.github.io/iptv/logos/mosfilm.png", Мосфильм Золотая коллекция (2)
+http://185.121.1.163:8083/Mosfilm/index.m3u8
+#EXTINF:-1 group-title="🍿 Кинозалы и Фильмы", Мультфильмы
+https://lbgo.bozztv.com/07/ushba80/index.m3u8
+#EXTINF:-1 group-title="🍿 Кинозалы и Фильмы", Союзмультфильмы
+http://194.26.229.213/souzmultfilm/index.m3u8
+#EXTINF:-1 group-title="🍿 Кинозалы и Фильмы", .black
+http://stream.mcquack.net/263/index.m3u8
+#EXTINF:-1 group-title="🍿 Кинозалы и Фильмы", .Red
+http://stream.mcquack.net/69/index.m3u8
+#EXTINF:-1 group-title="🍿 Кинозалы и Фильмы", .Red (2)
+http://176.100.46.245:90/red/index.m3u8
+#EXTINF:-1 group-title="🍿 Кинозалы и Фильмы", .Sci-Fi
+http://stream.mcquack.net/180/index.m3u8
+#EXTINF:-1 group-title="🍿 Кинозалы и Фильмы", FX
+http://stream.mcquack.net/182/index.m3u8
+#EXTINF:-1 group-title="🍿 Кинозалы и Фильмы", FX Life
+http://stream.mcquack.net/129/index.m3u8
+#EXTINF:-1 group-title="🍿 Кинозалы и Фильмы", Дорама
+https://stream8.cinerama.uz/1273/index.m3u8
+#EXTINF:-1 group-title="🍿 Кинозалы и Фильмы", Дорама (2)
+http://stream.mcquack.net/412/index.m3u8
+#EXTINF:-1 group-title="🍿 Кинозалы и Фильмы", Кино ТВ
+http://176.118.197.101/KinoTvHD/index.m3u8
+#EXTINF:-1 group-title="🍿 Кинозалы и Фильмы", OVAA
+http://tv.tuva.ru/ovaa/index.m3u8
+#EXTINF:-1 group-title="🍿 Кинозалы и Фильмы", Viju+ Premiere
+http://stream.mcquack.net/202/index.m3u8
+#EXTINF:-1 group-title="🍿 Кинозалы и Фильмы", Viju+ Serial
+http://stream.mcquack.net/311/index.m3u8
+#EXTINF:-1 group-title="🍿 Кинозалы и Фильмы", Viju+ Megahit
+http://stream.mcquack.net/200/index.m3u8
+#EXTINF:-1 group-title="🍿 Кинозалы и Фильмы", Viju+ Comedy
+https://stream8.cinerama.uz/1061/index.m3u8
+#EXTINF:-1 group-title="🍿 Кинозалы и Фильмы", Viju+ Comedy (2)
+http://stream.mcquack.net/201/index.m3u8
+#EXTINF:-1 group-title="🍿 Кинозалы и Фильмы", Amedia 1
+http://stream.mcquack.net/117/index.m3u8
+#EXTINF:-1 group-title="🍿 Кинозалы и Фильмы", Amedia Hit
+http://stream.mcquack.net/162/index.m3u8
+#EXTINF:-1 group-title="🍿 Кинозалы и Фильмы", Amedia Premium
+http://stream.mcquack.net/151/index.m3u8
+#EXTINF:-1 group-title="🍿 Кинозалы и Фильмы", Viasat Kino Comedy
+http://ukr2.ukrainske.tv/493/video.m3u8
+#EXTINF:-1 group-title="🍿 Кинозалы и Фильмы", Start Air
+http://stream.mcquack.net/128/index.m3u8
+#EXTINF:-1 group-title="🍿 Кинозалы и Фильмы", НТВ Сериал
+https://cdn.ntv.ru/th_serial/index.m3u8
+#EXTINF:-1 group-title="🍿 Кинозалы и Фильмы", НТВ Сериал (2)
+http://stream.mcquack.net/301/index.m3u8
+#EXTINF:-1 group-title="🍿 Кинозалы и Фильмы", Ретро
+http://176.118.197.101/Retro/index.m3u8
+#EXTINF:-1 group-title="🍿 Кинозалы и Фильмы", Ретро (2)
+https://stream8.cinerama.uz/1047/index.m3u8
+#EXTINF:-1 group-title="🍿 Кинозалы и Фильмы", Ретро (3)
+http://stream.mcquack.net/191/index.m3u8
+#EXTINF:-1 group-title="🍿 Кинозалы и Фильмы", Star Cinema
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4158
+#EXTINF:-1 group-title="🍿 Кинозалы и Фильмы", Star Family
+https://dash2.antik.sk/live/test_star_family_atktv/playlist.m3u8
+#EXTINF:-1 group-title="🍿 Кинозалы и Фильмы", Комедия
+http://176.118.197.101/Komediya/index.m3u8
+#EXTINF:-1 group-title="🍿 Кинозалы и Фильмы", Комедия (2)
+http://stream.mcquack.net/68/index.m3u8
+#EXTINF:-1 group-title="🍿 Кинозалы и Фильмы", Комедийное
+http://stream.mcquack.net/74/index.m3u8
+#EXTINF:-1 group-title="🍿 Кинозалы и Фильмы", Киноужас
+http://stream.mcquack.net/278/index.m3u8
+#EXTINF:-1 group-title="🍿 Кинозалы и Фильмы", Остросюжетное
+http://stream.mcquack.net/214/index.m3u8
+#EXTINF:-1 group-title="🍿 Кинозалы и Фильмы", Шокирующее
+http://stream.mcquack.net/75/index.m3u8
+#EXTINF:-1 group-title="🍿 Кинозалы и Фильмы", Премиальное
+http://stream.mcquack.net/421/index.m3u8
+#EXTINF:-1 group-title="🍿 Кинозалы и Фильмы", Киномикс
+https://stream8.cinerama.uz/1233/index.m3u8
+#EXTINF:-1 group-title="🍿 Кинозалы и Фильмы", Киномикс (2)
+http://176.118.197.101/Kinomix/index.m3u8
+#EXTINF:-1 group-title="🍿 Кинозалы и Фильмы", Киномикс (3)
+http://stream.mcquack.net/133/index.m3u8
+#EXTINF:-1 group-title="🍿 Кинозалы и Фильмы", Киносвидание
+http://5.188.159.128:8070/kinosvidanie/index.m3u8
+#EXTINF:-1 group-title="🍿 Кинозалы и Фильмы", Киносвидание (2)
+https://stream8.cinerama.uz/1203/index.m3u8
+#EXTINF:-1 group-title="🍿 Кинозалы и Фильмы", Киносвидание (3)
+http://stream.mcquack.net/171/index.m3u8
+#EXTINF:-1 group-title="🍿 Кинозалы и Фильмы", Киносемья
+https://stream8.cinerama.uz/1234/index.m3u8
+#EXTINF:-1 group-title="🍿 Кинозалы и Фильмы", Киносемья (2)
+http://stream.mcquack.net/170/index.m3u8
+#EXTINF:-1 group-title="🍿 Кинозалы и Фильмы", Киносемья (3)
+http://185.121.1.163:8083/Kinosemya/index.m3u8
+#EXTINF:-1 group-title="🍿 Кинозалы и Фильмы", Киноман
+http://185.121.1.163:8083/Kinoman/index.m3u8
+#EXTINF:-1 group-title="🍿 Кинозалы и Фильмы", Киносезон
+https://stitch.teletarget.ru/vintera/movieseason/index.m3u8
+#EXTINF:-1 group-title="🍿 Кинозалы и Фильмы", КиноМеню
+https://stitch.teletarget.ru/vintera/kinomenu/index.m3u8
+#EXTINF:-1 group-title="🍿 Кинозалы и Фильмы", Родное кино
+https://stream8.cinerama.uz/1052/index.m3u8
+#EXTINF:-1 group-title="🍿 Кинозалы и Фильмы", Родное кино (2)
+http://stream.mcquack.net/242/index.m3u8
+#EXTINF:-1 group-title="🍿 Кинозалы и Фильмы", Родное кино (3)
+http://176.118.197.101/RodnoeKino/index.m3u8
+#EXTINF:-1 group-title="🍿 Кинозалы и Фильмы", Наше новое кино
+https://stream8.cinerama.uz/1051/index.m3u8
+#EXTINF:-1 group-title="🍿 Кинозалы и Фильмы", Кинопоказ
+https://stream8.cinerama.uz/1057/index.m3u8
+#EXTINF:-1 group-title="🍿 Кинозалы и Фильмы", Кинопоказ (2)
+http://stream.mcquack.net/64/index.m3u8
+#EXTINF:-1 group-title="🍿 Кинозалы и Фильмы", Кинопоказ (3)
+http://176.118.197.101/Kinopokaz/index.m3u8
+#EXTINF:-1 group-title="🍿 Кинозалы и Фильмы", Любимое кино
+http://176.118.197.101/LubimoeKino/index.m3u8
+#EXTINF:-1 group-title="🍿 Кинозалы и Фильмы", Hollywood
+https://stream8.cinerama.uz/1443/index.m3u8
+#EXTINF:-1 group-title="🍿 Кинозалы и Фильмы", Иллюзион+
+http://176.118.197.101/Illuzion+/index.m3u8
+#EXTINF:-1 group-title="🍿 Кинозалы и Фильмы", Всё ТВ HD
+https://zabava-htlive.cdn.ngenix.net/hls/CH_VSETVHD/variant.m3u8
+#EXTINF:-1 group-title="🍿 Кинозалы и Фильмы", Русский бестселлер
+http://stream.mcquack.net/208/index.m3u8
+#EXTINF:-1 group-title="🍿 Кинозалы и Фильмы", Индийское кино
+https://stream8.cinerama.uz/1060/index.m3u8
+#EXTINF:-1 group-title="🍿 Кинозалы и Фильмы", Еврокино
+http://176.118.197.101/Evrokino/index.m3u8
+#EXTINF:-1 group-title="🍿 Кинозалы и Фильмы", Еврокино (2)
+http://stream.mcquack.net/385/index.m3u8
+#EXTINF:-1 group-title="🍿 Кинозалы и Фильмы", Советское кино
+http://stitch.teletarget.ru/vintera/sovietmovie/index.m3u8
+#EXTINF:-0 group-title="🍿 Кинозалы и Фильмы", Следствие вели...
+https://cdn-dvr.ntv.ru/sledstvie/tracks-v1a1/rewind-240.ts.m3u8
+#EXTINF:-0 group-title="🍿 Кинозалы и Фильмы", Пёс
+https://cdn-dvr.ntv.ru/Pes/tracks-v1a1/rewind-240.ts.m3u8
+#EXTINF:-0 group-title="🍿 Кинозалы и Фильмы", Скорая помощь
+https://cdn-dvr.ntv.ru/Skoraja_pomosh/tracks-v1a1/rewind-240.ts.m3u8
+#EXTINF:-0 group-title="🍿 Кинозалы и Фильмы", Ты супер!
+https://cdn-dvr.ntv.ru/Super/tracks-v1a1/rewind-240.ts.m3u8
+#EXTINF:-1 group-title="🍿 Кинозалы и Фильмы", Смотрим
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/playlist.m3u8
+#EXTINF:-1 group-title="🍿 Кинозалы и Фильмы", TV12
+http://185.221.213.254:8080/Mafia2/index.m3u8
+#EXTINF:-1 group-title="🍿 Кинозалы и Фильмы", Dunyo bo'ylab
+https://stream8.cinerama.uz/1006/index.m3u8
+#EXTINF:-1 group-title="🍿 Кинозалы и Фильмы", Хит
+http://stream.mcquack.net/363/index.m3u8
+#EXTINF:-1 group-title="🍿 Кинозалы и Фильмы", Bolt
+http://stream.mcquack.net/73/index.m3u8
+#EXTINF:-1 group-title="🍿 Кинозалы и Фильмы", Bollywood
+https://stream8.cinerama.uz/1444/index.m3u8
+#EXTINF:-1 group-title="🍿 Кинозалы и Фильмы", Blokbaster
+http://stream.mcquack.net/364/index.m3u8
+#EXTINF:-1 group-title="🍿 Кинозалы и Фильмы", Душевное
+http://stream.mcquack.net/213/index.m3u8
+#EXTINF:-1 group-title="🍿 Кинозалы и Фильмы", Кино 1
+http://stream.mcquack.net/395/index.m3u8
+#EXTINF:-1 group-title="🍿 Кинозалы и Фильмы", Кино 2
+http://stream.mcquack.net/465/index.m3u8
+#EXTINF:-1 group-title="🍿 Кинозалы и Фильмы", Наше
+http://stream.mcquack.net/217/index.m3u8
+#EXTINF:-1 group-title="🍿 Кинозалы и Фильмы", Наше Мужское
+http://stream.mcquack.net/362/index.m3u8
+#EXTINF:-1 group-title="🍿 Кинозалы и Фильмы", ТВ21
+http://stream.mcquack.net/152/index.m3u8
+#EXTINF:-1 group-title="🍿 Кинозалы и Фильмы", Арт
+http://185.23.80.23:8080/ART/index.m3u8
+#EXTINF:-1 group-title="🍿 Кинозалы и Фильмы", Классика Кино
+https://serv25.vintera.tv/dai/k_kino_dai_scte-35/playlist.m3u8
+#EXTINF:-1 group-title="🍿 Кинозалы и Фильмы", Классика Кино (2)
+https://stitch.teletarget.ru/vintera/movieclassic/index.m3u8
+#EXTINF:-1 group-title="🍿 Кинозалы и Фильмы", Тайна
+https://bl.rutube.ru/livestream/a11c890a0ec0730ad33bdaaf2d244e1a/index.m3u8?s=hCc3BqSwghCQ0GRhDJ967A&e=2070623490&scheme=https
+#EXTINF:-1 group-title="🍿 Кинозалы и Фильмы", KinoLiving
+http://stream.mcquack.net/445/index.m3u8
+#EXTINF:-1 group-title="🍿 Кинозалы и Фильмы", Fresh Fantastic
+http://stream.mcquack.net/429/index.m3u8
+#EXTINF:-1 group-title="🍿 Кинозалы и Фильмы", Disney XD
+https://kinowalk.hopto.org/disneyxd_live
+#EXTINF:-1 group-title="🍿 Кинозалы и Фильмы", JTX
+https://kinowalk.hopto.org/jtxonline_live
+#EXTINF:-1 group-title="🍿 Кинозалы и Фильмы", FoxKids
+https://kinowalk.hopto.org/foxkids_remastered_live
+#EXTINF:-1 group-title="🍿 Кинозалы и Фильмы", Мультфильмы VHS
+https://kinowalk.hopto.org/myvhs_live
+#EXTINF:-1 group-title="🍿 Кинозалы и Фильмы", grislytoe
+https://kinowalk.hopto.org/grislytoe_live
+#EXTINF:-1 group-title="🍿 Кинозалы и Фильмы", ВсеТВ
+https://kinowalk.hopto.org/maldrvsetv_live
+#EXTINF:-1 group-title="🍿 Кинозалы и Фильмы", Kinowalk
+https://kinowalk.hopto.org/kinowalk_live
+#EXTINF:-1 group-title="🍿 Кинозалы и Фильмы", Legion
+https://kinowalk.hopto.org/legion-tv_live
+#EXTINF:-1 group-title="🍿 Кинозалы и Фильмы", Video_Prokat
+https://kinowalk.hopto.org/video_prokat_live
+#EXTINF:-1 group-title="🍿 Кинозалы и Фильмы", MovieToper
+https://kinowalk.hopto.org/movietoper_live
+#EXTINF:-1 group-title="🍿 Кинозалы и Фильмы", TimeToHorror
+https://kinowalk.hopto.org/timetohorror_live
+#EXTINF:-1 group-title="🍿 Кинозалы и Фильмы", TimeToMovie
+https://kinowalk.hopto.org/timetomovie_live
+#EXTINF:-1 group-title="🍿 Кинозалы и Фильмы", Blockbusters Time
+https://kinowalk.hopto.org/blockbusterstime_live
+#EXTINF:-1 group-title="🍿 Кинозалы и Фильмы", Kinolampa
+https://kinowalk.hopto.org/kinolampa_live
+#EXTINF:-1 group-title="🍿 Кинозалы и Фильмы", VideoArsenal
+https://kinowalk.hopto.org/videoarsenal_live
+#EXTINF:-1 group-title="🍿 Кинозалы и Фильмы", Kino Jam
+https://kinowalk.hopto.org/kinojam_live
+#EXTINF:-1 group-title="🍿 Кинозалы и Фильмы", Scripach
+https://kinowalk.hopto.org/scripachtv_live
+#EXTINF:-1 group-title="🍿 Кинозалы и Фильмы", SeleCaoTV
+https://kinowalk.hopto.org/selecaotv_live
+#EXTINF:-1 group-title="🍿 Кинозалы и Фильмы", SeleCaoTV1
+https://kinowalk.hopto.org/selecaotv1_live
+#EXTINF:-1 group-title="🍿 Кинозалы и Фильмы", SerialTV
+https://kinowalk.hopto.org/serialtv_live
+#EXTINF:-1 group-title="🍿 Кинозалы и Фильмы", Serial4u
+https://kinowalk.hopto.org/serial4u_live
+#EXTINF:-1 group-title="🍿 Кинозалы и Фильмы", Киноужас
+https://kinowalk.hopto.org/kinouzhas_live
+#EXTINF:-1 group-title="🍿 Кинозалы и Фильмы", Alex.Films
+https://kinowalk.hopto.org/alex.films_live
+#EXTINF:-1 group-title="🍿 Кинозалы и Фильмы", Первый ряд
+https://kinowalk.hopto.org/perviryad_live
+#EXTINF:-1 group-title="🍿 Кинозалы и Фильмы", Baragozz
+https://kinowalk.hopto.org/baragozz_tv_live
+#EXTINF:-1 group-title="🍿 Кинозалы и Фильмы", Кассета
+https://kinowalk.hopto.org/kasseta_live
+#EXTINF:-1 group-title="🍿 Кинозалы и Фильмы", Мы из 90-х
+https://kinowalk.hopto.org/miiz90x_live
+#EXTINF:-1 group-title="🍿 Кинозалы и Фильмы", Aisman
+https://kinowalk.hopto.org/aisman_live
+#EXTINF:-0 group-title="🍿 Кинозалы и Фильмы", VHS Forever
+https://kinowalk.hopto.org/vhs-forever_live
+#EXTINF:-0 group-title="🍿 Кинозалы и Фильмы", LampoTV
+https://kinowalk.hopto.org/lampotv_live
+#EXTINF:-1 group-title="🍿 Кинозалы и Фильмы", Video Channel
+https://kinowalk.hopto.org/video_channel_live
+#EXTINF:-0 group-title="🍿 Кинозалы и Фильмы", swat2k
+https://kinowalk.hopto.org/swat2k_live
+#EXTINF:-0 group-title="🍿 Кинозалы и Фильмы", Wfliq
+https://kinowalk.hopto.org/wfliq_live
+#EXTINF:-1 group-title="🍿 Кинозалы и Фильмы", Комедии
+https://kinowalk.hopto.org/cmexye4ku_live
+#EXTINF:-1 group-title="🍿 Кинозалы и Фильмы", Эквилибриум
+https://kinowalk.hopto.org/equilibrium_live
+#EXTINF:-1 group-title="🍿 Кинозалы и Фильмы", ChowAmigo
+https://kinowalk.hopto.org/chowamigo_live
+#EXTINF:-1 group-title="🍿 Кинозалы и Фильмы", TopMoment
+https://kinowalk.hopto.org/topmoment_live
+#EXTINF:-1 group-title="🍿 Кинозалы и Фильмы", TopMoment Live
+https://kinowalk.hopto.org/topmomentlive_live
+#EXTINF:-1 group-title="🍿 Кинозалы и Фильмы", Назад в СССР
+https://kinowalk.hopto.org/backtotheussr_live
+#EXTINF:-1 group-title="🍿 Кинозалы и Фильмы", InMuNa
+https://kinowalk.hopto.org/inmuna_live
+#EXTINF:-1 group-title="🍿 Кинозалы и Фильмы", VHS кино
+https://kinowalk.hopto.org/and7610_live
+#EXTINF:-1 group-title="🍿 Кинозалы и Фильмы", Cinema Time
+https://kinowalk.hopto.org/cinematime_live
+#EXTINF:-1 group-title="🍿 Кинозалы и Фильмы", IGROComp
+https://kinowalk.hopto.org/igrocomp_live
+#EXTINF:-1 group-title="🍿 Кинозалы и Фильмы", Kycman
+https://kinowalk.hopto.org/kycman_live
+#EXTINF:-1 group-title="🍿 Кинозалы и Фильмы", dj Zour
+https://kinowalk.hopto.org/zsmedia_live
+#EXTINF:-1 group-title="🍿 Кинозалы и Фильмы", Priest_kod
+https://kinowalk.hopto.org/priest_kod_live
+#EXTINF:-1 group-title="🍿 Кинозалы и Фильмы", Kinofon
+https://kinowalk.hopto.org/kinofon_live
+#EXTINF:-1 group-title="🍿 Кинозалы и Фильмы", KinoMix 1
+https://kinowalk.hopto.org/yurich_kinomix_live
+#EXTINF:-1 group-title="🍿 Кинозалы и Фильмы", KinoMix 2
+https://kinowalk.hopto.org/dak3767_live
+#EXTINF:-1 group-title="🍿 Кинозалы и Фильмы", Тоха Киноман
+https://kinowalk.hopto.org/kinomania_stream_live
+#EXTINF:-1 group-title="🍿 Кинозалы и Фильмы", Тоха Стрим
+https://kinowalk.hopto.org/toxa_stream_live
+#EXTINF:-1 group-title="🍿 Кинозалы и Фильмы", Осторожно Модерн
+https://kinowalk.hopto.org/ostorozhnomodern2_live
+#EXTINF:-1 group-title="🍿 Кинозалы и Фильмы", У края бездны
+https://kinowalk.hopto.org/ddator_live
+#EXTINF:-1 group-title="🍿 Кинозалы и Фильмы", MAX
+https://kinowalk.hopto.org/maximum_live
+#EXTINF:-1 group-title="🍿 Кинозалы и Фильмы", NEZABUDKA
+https://kinowalk.hopto.org/nezabudka_live
+#EXTINF:-1 group-title="🍿 Кинозалы и Фильмы", FRXNKL1N
+https://kinowalk.hopto.org/frxnkl1n_live
+#EXTINF:-1 group-title="🍿 Кинозалы и Фильмы", Кладовая Фильмов
+https://kinowalk.hopto.org/skladfilm_live
+#EXTINF:-1 group-title="🍿 Кинозалы и Фильмы", RE_BOOT
+https://kinowalk.hopto.org/re_boot_live
+#EXTINF:-1 group-title="🍿 Кинозалы и Фильмы", 1st_witch
+https://kinowalk.hopto.org/witch_live
+#EXTINF:-1 group-title="🍿 Кинозалы и Фильмы", Мир Ехо
+https://kinowalk.hopto.org/mirdobro_live
+#EXTINF:-1 group-title="🍿 Кинозалы и Фильмы", film4khdLIVE
+https://kinowalk.hopto.org/film4khdclub_live
+#EXTINF:-1 group-title="🍿 Кинозалы и Фильмы", Эра VHS
+https://kinowalk.hopto.org/vhs90s_live
+#EXTINF:-1 group-title="🍿 Кинозалы и Фильмы", АPRICUS
+https://kinowalk.hopto.org/apricus_live
+#EXTINF:-1 group-title="🍿 Кинозалы и Фильмы", ВИДЕОКАССЕТА
+https://kinowalk.hopto.org/vhs90e_live
+#EXTINF:-1 group-title="🍿 Кинозалы и Фильмы", Фильмоскоп
+https://kinowalk.hopto.org/filmscope_live
+#EXTINF:-1 group-title="🍿 Кинозалы и Фильмы", Х-TV
+https://kinowalk.hopto.org/durkalive_live
+#EXTINF:-1 group-title="🍿 Кинозалы и Фильмы", Kira_freak
+https://kinowalk.hopto.org/kirafreak_live
+#EXTINF:-1 group-title="🍿 Кинозалы и Фильмы", Dimpon
+http://kinowalk.hopto.org/dimpon_live
+#EXTINF:-1 group-title="🍿 Кинозалы и Фильмы", 100% Детское
+https://stream.smotrim.ru/hls3/fasttv05/playlist_3.m3u8
+#EXTINF:-1 group-title="🍿 Кинозалы и Фильмы", 100% Классика
+https://stream.smotrim.ru/hls3/fasttv03/playlist_3.m3u8
+#EXTINF:-1 group-title="🍿 Кинозалы и Фильмы", 100% Любовь
+https://stream.smotrim.ru/hls3/fasttv01/playlist_3.m3u8
+#EXTINF:-1 group-title="🍿 Кинозалы и Фильмы", 100% Мужское
+https://stream.smotrim.ru/hls3/fasttv02/playlist_3.m3u8
+#EXTINF:-1 group-title="🍿 Кинозалы и Фильмы", 100% Праздник
+https://stream.smotrim.ru/hls3/fasttv04/playlist_3.m3u8
+#EXTINF:-1 group-title="🍿 Кинозалы и Фильмы", 100% Факты
+https://stream.smotrim.ru/hls3/fasttv06/playlist_3.m3u8
+#EXTINF:-1 group-title="🍿 Кинозалы и Фильмы", Кино 1 International
+https://kino-1.catcast.tv/content/38617/index.m3u8
+#EXTINF:-1 group-title="🍿 Кинозалы и Фильмы", Детское кино
+https://kino-1.catcast.tv/content/40427/index.m3u8
+#EXTINF:-1 group-title="🍿 Кинозалы и Фильмы", КиноАзия
+https://cityeden.catcast.tv/content/34393/index.m3u8
+#EXTINF:-1 group-title="🍿 Кинозалы и Фильмы", КиноКлассика
+https://cityeden.catcast.tv/content/34185/index.m3u8
+#EXTINF:-1 group-title="🍿 Кинозалы и Фильмы", КиноМистика
+https://cityeden.catcast.tv/content/40783/index.m3u8
+#EXTINF:-1 group-title="🍿 Кинозалы и Фильмы", КиноЭкшен
+https://cityeden.catcast.tv/content/41333/index.m3u8
+#EXTINF:-1 group-title="🍿 Кинозалы и Фильмы", КиноАрт
+https://cityeden.catcast.tv/content/38398/index.m3u8
+#EXTINF:-1 group-title="🍿 Кинозалы и Фильмы", КиноДетектив
+https://cityeden.catcast.tv/content/41327/index.m3u8
+#EXTINF:-1 group-title="🍿 Кинозалы и Фильмы", КиноДок
+https://cityeden.catcast.tv/content/38354/index.m3u8
+#EXTINF:-1 group-title="🍿 Кинозалы и Фильмы", КиноДрама
+https://cityeden.catcast.tv/content/45269/index.m3u8
+#EXTINF:-1 group-title="🍿 Кинозалы и Фильмы", КиноКомедия
+https://cityeden.catcast.tv/content/41331/index.m3u8
+#EXTINF:-1 group-title="🍿 Кинозалы и Фильмы", КиноФантастика
+https://cityeden.catcast.tv/content/45268/index.m3u8
+#EXTINF:-1 group-title="🍿 Кинозалы и Фильмы", МедЗдрав
+https://cityeden.catcast.tv/content/47519/index.m3u8
+#EXTINF:-1 group-title="🍿 Кинозалы и Фильмы", Рецепты Гурмана
+https://cityeden.catcast.tv/content/47516/index.m3u8
+#EXTINF:-1 group-title="🍿 Кинозалы и Фильмы", ТелеНовелла
+https://cityeden.catcast.tv/content/46209/index.m3u8
+#EXTINF:-1 group-title="🍿 Кинозалы и Фильмы", TVBoom
+https://kb.catcast.tv/content/49702/index.m3u8
+#EXTINF:-1 group-title="🍿 Кинозалы и Фильмы", Андийцы
+https://v2.catcast.tv/content/34114/index.m3u8
+#EXTINF:-1 group-title="🍿 Кинозалы и Фильмы", HGTN
+https://v2.catcast.tv/content/34251/index.m3u8
+#EXTINF:-1 group-title="🍿 Кинозалы и Фильмы", Шоу Бенни Хилла
+https://lbgo.bozztv.com/07/ushba62/index.m3u8
+#EXTINF:-1 group-title="🍿 Кинозалы и Фильмы", Мистер Бин
+https://lbgo.bozztv.com/07/ushba45/index.m3u8
+#EXTINF:-1 group-title="🍿 Кинозалы и Фильмы", Retrovision
+https://lbgo.bozztv.com/07/ushba-rvision/index.m3u8
+#EXTINF:-1 group-title="🍿 Кинозалы и Фильмы", Retrovision Motor
+https://lbgo.bozztv.com/07/ushba-rvisionmotor/index.m3u8
+#EXTINF:-1 group-title="🍿 Кинозалы и Фильмы", Retrovision Кинопанорама
+https://lbgo.bozztv.com/07/ushba-rvisionkinopanorama/index.m3u8
+#EXTINF:-1 group-title="🍿 Кинозалы и Фильмы", Retrovision Movies
+https://lbgo.bozztv.com/07/ushba-rvisionmovies/index.m3u8
+#EXTINF:-1 group-title="🍿 Кинозалы и Фильмы", Retrovision Classic
+https://lbgo.bozztv.com/07/ushba-rvisionclassic/index.m3u8
+#EXTINF:-1 group-title="🍿 Кинозалы и Фильмы", Кинозалы 1
+https://lbgo.bozztv.com/07/ushba82/index.m3u8
+#EXTINF:-1 group-title="🍿 Кинозалы и Фильмы", Кинозалы 2
+https://lbgo.bozztv.com/07/ushba-rfilrms-0/index.m3u8
+#EXTINF:-1 group-title="🍿 Кинозалы и Фильмы", Кинозалы 3
+https://lbgo.bozztv.com/07/ushba-rfilrms-a/index.m3u8
+#EXTINF:-1 group-title="🍿 Кинозалы и Фильмы", Кинозалы 4
+https://lbgo.bozztv.com/07/ushba-rfilrms-b/index.m3u8
+#EXTINF:-1 group-title="🍿 Кинозалы и Фильмы", Кинозалы 5
+https://lbgo.bozztv.com/07/ushba-rfilrms-c/index.m3u8
+#EXTINF:-1 group-title="🍿 Кинозалы и Фильмы", Кинозалы 6
+https://lbgo.bozztv.com/07/ushba-rfilrms-d/index.m3u8
+#EXTINF:-1 group-title="🍿 Кинозалы и Фильмы", Кинозалы 7
+https://lbgo.bozztv.com/07/ushba-rfilrms-e/index.m3u8
+#EXTINF:-1 group-title="🍿 Кинозалы и Фильмы", Кинозалы 8
+https://lbgo.bozztv.com/07/ushba-rfilrms-g/index.m3u8
+#EXTINF:-1 group-title="🍿 Кинозалы и Фильмы", Кинозалы 9
+https://lbgo.bozztv.com/07/ushba-rfilrms-i/index.m3u8
+#EXTINF:-1 group-title="🍿 Кинозалы и Фильмы", Кинозалы 10
+https://lbgo.bozztv.com/07/ushba-rfilrms-p/index.m3u8
+#EXTINF:-1 group-title="🍿 Кинозалы и Фильмы", Кинозалы 11
+https://lbgo.bozztv.com/07/ushba-rfilrms-v/index.m3u8
+#EXTINF:-1 group-title="🍿 Кинозалы и Фильмы", Кинозалы 12
+https://lbgo.bozztv.com/07/ushba-rfilrms-z/index.m3u8
+#EXTINF:-1 group-title="🍿 Кинозалы и Фильмы", Кинозалы 13
+https://lbgo.bozztv.com/07/ushba64/index.m3u8
+#EXTINF:-1 group-title="🍿 Кинозалы и Фильмы", Кинозалы 14
+https://lbgo.bozztv.com/07/ushba65/index.m3u8
+#EXTINF:-1 group-title="🎉 Развлекательные" tvg-id="sts" tvg-logo="https://ngrch.github.io/iptv/logos/sts.png", СТС
+https://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8
+#EXTINF:-1 group-title="🎉 Развлекательные" tvg-id="sts" tvg-logo="https://ngrch.github.io/iptv/logos/sts.png", СТС (2)
+http://stream.mcquack.net/138/index.m3u8
+#EXTINF:-1 group-title="🎉 Развлекательные" tvg-id="piatnica" tvg-logo="https://ngrch.github.io/iptv/logos/pyatnica.png", Пятница
+https://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8
+#EXTINF:-1 group-title="🎉 Развлекательные" tvg-id="piatnica" tvg-logo="https://ngrch.github.io/iptv/logos/pyatnica.png", Пятница (2)
+http://stream.mcquack.net/181/index.m3u8
+#EXTINF:-1 group-title="🎉 Развлекательные" tvg-id="tnt" tvg-logo="https://ngrch.github.io/iptv/logos/tnt.png", ТНТ
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8
+#EXTINF:-1 group-title="🎉 Развлекательные" tvg-id="tnt" tvg-logo="https://ngrch.github.io/iptv/logos/tnt.png", ТНТ (2)
+http://stream.mcquack.net/135/index.m3u8
+#EXTINF:-1 group-title="🎉 Развлекательные" tvg-id="tnt" tvg-logo="https://ngrch.github.io/iptv/logos/tnt.png", ТНТ (3)
+https://bl.rutube.ru/livestream/546602986e6a424d74d594876ddb3f04/index.m3u8?s=K-z3nz49R1oGQ-5yPSd8pg&e=2082157024&scheme=https
+#EXTINF:-1 group-title="🎉 Развлекательные" tvg-logo="https://ngrch.github.io/iptv/logos/sts.png", СТС (+2)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_STS_2/variant.m3u8
+#EXTINF:-1 group-title="🎉 Развлекательные" tvg-logo="https://ngrch.github.io/iptv/logos/sts.png", СТС (+4)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_STS_4/variant.m3u8
+#EXTINF:-1 group-title="🎉 Развлекательные" tvg-logo="https://ngrch.github.io/iptv/logos/sts.png", СТС (+7)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_STS_7/variant.m3u8
+#EXTINF:-1 group-title="🎉 Развлекательные" tvg-logo="https://ngrch.github.io/iptv/logos/pyatnica.png", Пятница (+2)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_FRIDAY_2/variant.m3u8
+#EXTINF:-1 group-title="🎉 Развлекательные" tvg-logo="https://ngrch.github.io/iptv/logos/pyatnica.png", Пятница (+4)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA_4/variant.m3u8
+#EXTINF:-1 group-title="🎉 Развлекательные" tvg-logo="https://ngrch.github.io/iptv/logos/pyatnica.png", Пятница (+7)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_FRIDAY_7/variant.m3u8
+#EXTINF:-1 group-title="🎉 Развлекательные" tvg-logo="https://ngrch.github.io/iptv/logos/tnt.png", ТНТ (+2)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_2/variant.m3u8
+#EXTINF:-1 group-title="🎉 Развлекательные" tvg-logo="https://ngrch.github.io/iptv/logos/tnt.png", ТНТ (+4)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_4/variant.m3u8
+#EXTINF:-1 group-title="🎉 Развлекательные" tvg-logo="https://ngrch.github.io/iptv/logos/tnt.png", ТНТ (+7)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_7/variant.m3u8
+#EXTINF:-1 group-title="🎉 Развлекательные" tvg-id="che" tvg-logo="https://ngrch.github.io/iptv/logos/che.png", Че
+https://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/variant.m3u8
+#EXTINF:-1 group-title="🎉 Развлекательные" tvg-id="super" tvg-logo="https://ngrch.github.io/iptv/logos/subbota.png", Суббота
+https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/variant.m3u8
+#EXTINF:-1 group-title="🎉 Развлекательные" tvg-id="super" tvg-logo="https://ngrch.github.io/iptv/logos/subbota.png", Суббота (2)
+http://stream.mcquack.net/269/index.m3u8
+#EXTINF:-1 group-title="🎉 Развлекательные" tvg-id="super" tvg-logo="https://ngrch.github.io/iptv/logos/subbota.png", Суббота (3)
+https://bl.rutube.ru/livestream/310744c10a5809da38aa445c952976da/index.m3u8?e=2066519758&s=dmUf6BUQzDBTwtQOseAfog&scheme=https
+#EXTINF:-1 group-title="🎉 Развлекательные" tvg-id="tnt4" tvg-logo="https://ngrch.github.io/iptv/logos/tnt4.png", ТНТ4
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8
+#EXTINF:-1 group-title="🎉 Развлекательные" tvg-id="tnt4" tvg-logo="https://ngrch.github.io/iptv/logos/tnt4.png", ТНТ4 (2)
+https://bl.rutube.ru/livestream/c801a7087e29a097192d74c270fbc6c1/index.m3u8?s=zhnm9INH7ysOhS2LQStm2A&e=2070623480&scheme=https
+#EXTINF:-1 group-title="🎉 Развлекательные" tvg-id="sts-love" tvg-logo="https://ngrch.github.io/iptv/logos/sts_love.png", СТС Love
+https://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE/variant.m3u8
+#EXTINF:-1 group-title="🎉 Развлекательные" tvg-id="sts-love" tvg-logo="https://ngrch.github.io/iptv/logos/sts_love.png", СТС Love (2)
+https://flussonic.mkpnet.ru/tv-b9f0884f9a81b8c6/video.m3u8
+#EXTINF:-1 group-title="🎉 Развлекательные" tvg-logo="https://ngrch.github.io/iptv/logos/sts_love.png", СТС Love (+2)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE_2/variant.m3u8
+#EXTINF:-1 group-title="🎉 Развлекательные" tvg-logo="https://ngrch.github.io/iptv/logos/sts_love.png", СТС Love (+4)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE_4/variant.m3u8
+#EXTINF:-1 group-title="🎉 Развлекательные" tvg-logo="https://ngrch.github.io/iptv/logos/subbota.png", Суббота (+2)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_2/variant.m3u8
+#EXTINF:-1 group-title="🎉 Развлекательные" tvg-logo="https://ngrch.github.io/iptv/logos/subbota.png", Суббота (+4)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_4/variant.m3u8
+#EXTINF:-1 group-title="🎉 Развлекательные" tvg-logo="https://ngrch.github.io/iptv/logos/subbota.png", Суббота (+7)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_7/variant.m3u8
+#EXTINF:-1 group-title="🎉 Развлекательные" tvg-logo="https://ngrch.github.io/iptv/logos/tnt4.png", ТНТ4 (+2)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_2/variant.m3u8
+#EXTINF:-1 group-title="🎉 Развлекательные" tvg-logo="https://ngrch.github.io/iptv/logos/tnt4.png", ТНТ4 (+4)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_4/variant.m3u8
+#EXTINF:-1 group-title="🎉 Развлекательные" tvg-logo="https://ngrch.github.io/iptv/logos/tnt4.png", ТНТ4 (+7)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_7/variant.m3u8
+#EXTINF:-1 group-title="🎉 Развлекательные" tvg-logo="https://ngrch.github.io/iptv/logos/che.png", Че (+2)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_CHE_2/variant.m3u8
+#EXTINF:-1 group-title="🎉 Развлекательные" tvg-logo="https://ngrch.github.io/iptv/logos/che.png", Че (+4)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_CHE_4/variant.m3u8
+#EXTINF:-1 group-title="🎉 Развлекательные" tvg-logo="https://ngrch.github.io/iptv/logos/che.png", Че (+7)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ_7/variant.m3u8
+#EXTINF:-1 group-title="🎉 Развлекательные", СТС Kids
+https://stream8.cinerama.uz/1437/index.m3u8
+#EXTINF:-1 group-title="🎉 Развлекательные", СТС Kids (2)
+http://stream.mcquack.net/197/index.m3u8
+#EXTINF:-1 group-title="🎉 Развлекательные", Продвижение
+http://origin5.mediacdn.ru/live/prodvizhenie_new/index.m3u8
+#EXTINF:-1 group-title="🎉 Развлекательные", Продвижение (2)
+https://prodvizhenie.mediacdn.ru/cdn/prodvizhenie/playlist.m3u8
+#EXTINF:-1 group-title="🎉 Развлекательные", Ностальгия
+http://176.118.197.101/Nostalgiya/index.m3u8
+#EXTINF:-1 group-title="🎉 Развлекательные", Твоё ТВ
+https://tvoetv.space/tvoetv/index.m3u8
+#EXTINF:-1 group-title="🎉 Развлекательные", Твоё ТВ Юмор
+http://tvoetv.space:8080/tvoetv_humor/index.m3u8
+#EXTINF:-1 group-title="🎉 Развлекательные", Перец
+http://stream.mcquack.net/121/index.m3u8
+#EXTINF:-1 group-title="🎉 Развлекательные", TLC
+http://stream.mcquack.net/168/index.m3u8
+#EXTINF:-1 group-title="🎉 Развлекательные", Сарафан
+https://stream8.cinerama.uz/1249/index.m3u8
+#EXTINF:-1 group-title="🎉 Развлекательные", Сарафан (2)
+http://stream.mcquack.net/81/index.m3u8
+#EXTINF:-1 group-title="🎉 Развлекательные", Теледом
+http://iam-profi.ru/hls-live/livepkgr/_definst_/liveevent/td720.m3u8
+#EXTINF:-1 group-title="🎉 Развлекательные", Тео-ТВ
+https://stream.teotv.ru/live/site360/playlist.m3u8
+#EXTINF:-1 group-title="🎉 Развлекательные", НТВ Стиль
+https://cdn.ntv.ru/th_style/index.m3u8
+#EXTINF:-1 group-title="🎉 Развлекательные", Fashion
+https://stream8.cinerama.uz/1053/index.m3u8
+#EXTINF:-1 group-title="🎉 Развлекательные", Fashion (2)
+https://lbgo.bozztv.com/07/ushba93/index.m3u8
+#EXTINF:-1 group-title="🎉 Развлекательные", Fashion (3)
+https://fashionlive.mediacdn.ru/cdn/fashiontv/index.m3u8
+#EXTINF:-1 group-title="🎉 Развлекательные", World Fashion
+http://live-3.otcnet.ru/wfcrus/index.m3u8
+#EXTINF:-1 group-title="🎉 Развлекательные", World Fashion (2)
+https://cdn.wfc.tv/cdn/stream-rus.m3u8
+#EXTINF:-1 group-title="🎉 Развлекательные", Luxury
+https://s1.tv-nano.com/Luxury_rec/video.m3u8
+#EXTINF:-1 group-title="🎉 Развлекательные", 7 TV
+https://v4.proofix.ru/7tv-live/index.m3u8
+#EXTINF:-1 group-title="🎉 Развлекательные", Толк
+https://rt-sib-bul-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_BUL_TOLK/variant.m3u8
+#EXTINF:-1 group-title="🎉 Развлекательные", Толк (2)
+https://live-tolknews.cdnvideo.ru/tolknews/stream/playlist.m3u8
+#EXTINF:-1 group-title="🎉 Развлекательные", RuTube
+https://bl.rutube.ru/livestream/9ae8e8a6dc58bdad66190475f9872ecd/index.m3u8?s=U_og5iHG6xVp0V3KXYMB0g&e=2070623479&scheme=https
+#EXTINF:-1 group-title="🎉 Развлекательные", Инсайт
+https://stream8.cinerama.uz/1416/index.m3u8
+#EXTINF:-1 group-title="🎉 Развлекательные", Инсайт (2)
+http://stream.mcquack.net/361/index.m3u8
+#EXTINF:-1 group-title="🎉 Развлекательные", Gagsnetwork
+http://stream.mcquack.net/458/index.m3u8
+#EXTINF:-1 group-title="🎉 Развлекательные", PV+
+http://stream.mcquack.net/397/index.m3u8
+#EXTINF:-1 group-title="🎉 Развлекательные", Приключения
+https://stream8.cinerama.uz/1420/index.m3u8
+#EXTINF:-1 group-title="🎉 Развлекательные", Приключения (2)
+http://stream.mcquack.net/198/index.m3u8
+#EXTINF:-1 group-title="🎉 Развлекательные", Первый космический
+https://stream8.cinerama.uz/1415/index.m3u8
+#EXTINF:-1 group-title="🎉 Развлекательные", 31 канал | Челябинск
+http://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_OTT_31TVK_CHEL/variant.m3u8
+#EXTINF:-1 group-title="🎉 Развлекательные", ОТВ | Челябинск
+https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R02_OTT_OTV_CHEL/variant.m3u8
+#EXTINF:-1 group-title="🎉 Развлекательные", УРАЛ1 | Челябинск
+http://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R02_OTT_URAL1/variant.m3u8
+#EXTINF:-1 group-title="🎉 Развлекательные", ТВ-ИН | Челябинск
+https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_TVIN_MAGN/variant.m3u8
+#EXTINF:-1 group-title="🎉 Развлекательные", Архыз 24 | Карачаево-Черкесия
+https://live.mediacdn.ru/sr1/arhis24/playlist.m3u8
+#EXTINF:-1 group-title="🎉 Развлекательные", Архыз 24 (2) | Карачаево-Черкесия
+https://live.mediacdn.ru/sr1/arhis24/playlist_hdhigh.m3u8
+#EXTINF:-1 group-title="🎉 Развлекательные", Архыз 24 (3) | Карачаево-Черкесия
+https://rt-sth-cherks-htlive.cdn.ngenix.net/hls/CH_R03_ARKHIZ241/variant.m3u8
+#EXTINF:-1 group-title="🎉 Развлекательные", Архыз 24 Light | Карачаево-Черкесия
+http://rt-sth-cherks-htlive.cdn.ngenix.net/hls/CH_R03_OTT_STH_CHERKS_ARKHIZ24LITE/variant.m3u8
+#EXTINF:-1 group-title="🎉 Развлекательные", Грозный | Чеченская республика
+https://balancer.facecast.io/evacoder_hls_hi/UUMLQVAYVlZyH14GRENQVV0G/2/1.m3u8
+#EXTINF:-1 group-title="⚽ Спорт" tvg-id="match-tv" tvg-logo="https://ngrch.github.io/iptv/logos/match.png", Матч!
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8
+#EXTINF:-1 group-title="⚽ Спорт" tvg-id="match-tv" tvg-logo="https://ngrch.github.io/iptv/logos/match.png", Матч! (2)
+http://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a_hd/17_89756005/1080/e6bef86de8a133cd7b27deb040758a00/4796141934.m3u8
+#EXTINF:-1 group-title="⚽ Спорт" tvg-id="match-tv" tvg-logo="https://ngrch.github.io/iptv/logos/match.png", Матч! (3)
+http://stream.mcquack.net/169/index.m3u8
+#EXTINF:-1 group-title="⚽ Спорт", Матч! Арена
+http://31.210.208.171:8080/match_arena/index.m3u8?token=+W2MSER
+#EXTINF:-1 group-title="⚽ Спорт", Матч! Страна
+http://stream.mcquack.net/143/index.m3u8
+#EXTINF:-1 group-title="⚽ Спорт", Матч! Планета
+https://stream8.cinerama.uz/1243/index.m3u8
+#EXTINF:-1 group-title="⚽ Спорт", Матч! Футбол 2
+http://stream.mcquack.net/142/index.m3u8
+#EXTINF:-1 group-title="⚽ Спорт", Матч! Футбол 3
+http://185.57.68.33/110/index.m3u8
+#EXTINF:-1 group-title="⚽ Спорт", Матч! Футбол 3 (2)
+http://176.100.46.245:90/matchfootball3/index.m3u8
+#EXTINF:-1 group-title="⚽ Спорт", Матч! Боец
+http://stream.mcquack.net/112/index.m3u8
+#EXTINF:-1 group-title="⚽ Спорт", Матч! Игра
+http://stream.mcquack.net/188/index.m3u8
+#EXTINF:-1 group-title="⚽ Спорт", Матч! Премьер
+http://stream.mcquack.net/193/index.m3u8
+#EXTINF:-1 group-title="⚽ Спорт", Окко Спорт
+http://stream.mcquack.net/492/index.m3u8
+#EXTINF:-1 group-title="⚽ Спорт", Окко Футбол
+http://stream.mcquack.net/491/index.m3u8
+#EXTINF:-1 group-title="⚽ Спорт", Окко Прайм Спорт
+http://stream.mcquack.net/493/index.m3u8
+#EXTINF:-1 group-title="⚽ Спорт", Удар Udar
+http://5.188.159.128:8070/udar/index.m3u8
+#EXTINF:-1 group-title="⚽ Спорт", Удар Udar (2)
+http://stream.mcquack.net/279/index.m3u8
+#EXTINF:-1 group-title="⚽ Спорт", Волейбол
+https://bl.rutube.ru/livestream/cc1b56aa4955a144f324ad58998513bb/index.m3u8?s=5eCXZGvblic9uGykEPvBYw&e=2082370462&scheme=https
+#EXTINF:-1 group-title="⚽ Спорт", Eurosport 1
+http://178.134.1.158:8081/eurosport/index.m3u8
+#EXTINF:-1 group-title="⚽ Спорт", Eurosport 1 (2)
+http://stream.mcquack.net/176/index.m3u8
+#EXTINF:-1 group-title="⚽ Спорт", Eurosport 2
+https://stream8.cinerama.uz/1452/index.m3u8
+#EXTINF:-1 group-title="⚽ Спорт", Eurosport 2 (2)
+http://stream.mcquack.net/192/index.m3u8
+#EXTINF:-1 group-title="⚽ Спорт", Setanta Sports 1
+https://stream8.cinerama.uz/1263/index.m3u8
+#EXTINF:-1 group-title="⚽ Спорт", Setanta Sports 1 (2)
+http://stream.mcquack.net/234/index.m3u8
+#EXTINF:-1 group-title="⚽ Спорт", Setanta Sports 2
+https://stream8.cinerama.uz/1264/index.m3u8
+#EXTINF:-1 group-title="⚽ Спорт", Setanta Sports 2 (2)
+http://stream.mcquack.net/235/index.m3u8
+#EXTINF:-1 group-title="⚽ Спорт", Sport 1 Baltic
+http://stream.mcquack.net/461/index.m3u8
+#EXTINF:-1 group-title="⚽ Спорт", Старт
+https://bl.webcaster.pro/media/playlist/api_free_fd14ed34164a52d1090e4cb9db93683f/4_79276517/480p/d33bbf3e6ac7c41524eae5d1c3d9258d/4873167902.m3u8
+#EXTINF:-1 group-title="⚽ Спорт", Старт Баскет
+https://bl.webcaster.pro/media/playlist/free_621d169e5c631c638136df3cb136c5c9/33_68881676/480p/b32eaae5fbf1d2b8211543566a1d9a78/4914392769.m3u8
+#EXTINF:-1 group-title="⚽ Спорт", Старт Триумф
+https://bl.webcaster.pro/media/playlist/free_672d700f2f9510be660253786e4406fe_hd/33_85479982/480p/4eaec8986e2012fb936478856fbf3b4b/4818731006.m3u8
+#EXTINF:-1 group-title="⚽ Спорт", Спорт
+http://live-3.otcnet.ru/sportivny/index.m3u8
+#EXTINF:-1 group-title="⚽ Спорт", Viju+ Sport
+https://stream8.cinerama.uz/1229/index.m3u8
+#EXTINF:-1 group-title="⚽ Спорт", Viju+ Sport (2)
+http://stream.mcquack.net/333/index.m3u8
+#EXTINF:-1 group-title="⚽ Спорт", MMA
+https://streams2.sofast.tv/vglive-sk-462904/playlist.m3u8
+#EXTINF:-1 group-title="⚽ Спорт", MMA (2)
+https://stream8.cinerama.uz/1226/index.m3u8
+#EXTINF:-1 group-title="⚽ Спорт", КХЛ KHL
+https://stream8.cinerama.uz/1422/index.m3u8
+#EXTINF:-1 group-title="⚽ Спорт", КХЛ KHL Prime
+https://fs.uplink.kz/khl_prime/index.m3u8?token=onlinetv
+#EXTINF:-1 group-title="⚽ Спорт", КХЛ KHL Prime (2)
+http://stream.mcquack.net/178/index.m3u8
+#EXTINF:-1 group-title="⚽ Спорт", Мото Драйв
+https://stitch.teletarget.ru/vintera/motodrive/index.m3u8
+#EXTINF:-1 group-title="⚽ Спорт", Trace Sport Stars
+https://stream8.cinerama.uz/1274/index.m3u8
+#EXTINF:-1 group-title="⚽ Спорт", WWE
+https://jmp2.uk/rok-ac0caef9123a35df3b884b139340a597.m3u8
+#EXTINF:-1 group-title="👶 Мультфильмы и Детские" tvg-id="karusel" tvg-logo="https://ngrch.github.io/iptv/logos/karusel.png", Карусель
+https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8
+#EXTINF:-1 group-title="👶 Мультфильмы и Детские" tvg-id="karusel" tvg-logo="https://ngrch.github.io/iptv/logos/karusel.png", Карусель (2)
+https://stream8.cinerama.uz/1034/index.m3u8
+#EXTINF:-1 group-title="👶 Мультфильмы и Детские" tvg-id="karusel-pl2" tvg-logo="https://ngrch.github.io/iptv/logos/karusel.png", Карусель +2
+https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_2/variant.m3u8
+#EXTINF:-1 group-title="👶 Мультфильмы и Детские" tvg-id="karusel-pl4" tvg-logo="https://ngrch.github.io/iptv/logos/karusel.png", Карусель +4
+https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_4/variant.m3u8
+#EXTINF:-1 group-title="👶 Мультфильмы и Детские" tvg-id="karusel-pl7" tvg-logo="https://ngrch.github.io/iptv/logos/karusel.png", Карусель +7
+https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_7/variant.m3u8
+#EXTINF:-1 group-title="👶 Мультфильмы и Детские" tvg-id="mult" tvg-logo="https://ngrch.github.io/iptv/logos/mult.png", Мульт
+https://stream8.cinerama.uz/1246/index.m3u8
+#EXTINF:-1 group-title="👶 Мультфильмы и Детские", Маша и Медведь
+https://lbgo.bozztv.com/07/ushba79/index.m3u8
+#EXTINF:-1 group-title="👶 Мультфильмы и Детские", Fan
+http://stream.mcquack.net/420/index.m3u8
+#EXTINF:-1 group-title="👶 Мультфильмы и Детские", Мама
+https://stream8.cinerama.uz/1244/index.m3u8
+#EXTINF:-1 group-title="👶 Мультфильмы и Детские", Мама (2)
+http://stream.mcquack.net/79/index.m3u8
+#EXTINF:-1 group-title="👶 Мультфильмы и Детские", Ducktv
+https://stream8.cinerama.uz/1271/index.m3u8
+#EXTINF:-1 group-title="👶 Мультфильмы и Детские", NickToons
+https://stream8.cinerama.uz/1502/index.m3u8
+#EXTINF:-1 group-title="👶 Мультфильмы и Детские", Nickelodeon
+https://stream8.cinerama.uz/1500/index.m3u8
+#EXTINF:-1 group-title="👶 Мультфильмы и Детские", Nickelodeon (2)
+http://stream.mcquack.net/443/index.m3u8
+#EXTINF:-1 group-title="👶 Мультфильмы и Детские", Nick Jr.
+http://stream.mcquack.net/220/index.m3u8
+#EXTINF:-1 group-title="👶 Мультфильмы и Детские", Смайл
+https://stream8.cinerama.uz/1425/index.m3u8
+#EXTINF:-1 group-title="👶 Мультфильмы и Детские", Смайл (2)
+https://5d23269b3ec0c.streamlock.net/WEB_Smilik/Smilik.stream/index.m3u8
+#EXTINF:-1 group-title="👶 Мультфильмы и Детские", Cartoon Network
+https://bl.rutube.ru/livestream/d2119cfb95146b3983cf05c1fe35e66f/index.m3u8?s=SBAsUrxODR6nk6ktHKTpoQ&e=2090795468&scheme=https
+#EXTINF:-1 group-title="👶 Мультфильмы и Детские", Cartoon Classics
+http://5.188.159.128:8070/Cartoon_Network/index.m3u8
+#EXTINF:-1 group-title="👶 Мультфильмы и Детские", Шаян
+http://s45177.cdn.ngenix.net/hls/CH_R03_SHAYNTV/variant.m3u8
+#EXTINF:-1 group-title="👶 Мультфильмы и Детские", Шаян (2)
+https://shayan.bonus-tv.ru/cdn/shayan/index.m3u8
+#EXTINF:-1 group-title="👶 Мультфильмы и Детские", Чип и Дейл
+http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
+#EXTINF:-1 group-title="👶 Мультфильмы и Детские", Мультиландия
+https://stream8.cinerama.uz/1440/index.m3u8
+#EXTINF:-1 group-title="👶 Мультфильмы и Детские", МультСказки
+http://5.188.158.65:4040/IPTVPLAYMultSkazki.tv/video.m3u8?token=lqRGka5-YwwqF0
+#EXTINF:-1 group-title="👶 Мультфильмы и Детские", NikNik
+https://hostrec.ru/live/wic2AtEFCLwsZcUkAgtZcjlYgjc.m3u8
+#EXTINF:-1 group-title="👶 Мультфильмы и Детские", Рыжий
+https://stream8.cinerama.uz/1407/index.m3u8
+#EXTINF:-1 group-title="👶 Мультфильмы и Детские", О!
+http://stream.mcquack.net/60/index.m3u8
+#EXTINF:-1 group-title="👶 Мультфильмы и Детские", Тооку
+http://live-saha.cdnvideo.ru/saha/tooky/playlist.m3u8
+#EXTINF:-1 group-title="👶 Мультфильмы и Детские", Уникум
+https://stream8.cinerama.uz/1033/index.m3u8
+#EXTINF:-1 group-title="👶 Мультфильмы и Детские", В гостях у сказки
+https://stream8.cinerama.uz/1270/index.m3u8
+#EXTINF:-1 group-title="👶 Мультфильмы и Детские", Tiji
+https://stream8.cinerama.uz/1441/index.m3u8
+#EXTINF:-1 group-title="👶 Мультфильмы и Детские", Tiji (2)
+http://stream.mcquack.net/111/index.m3u8
+#EXTINF:-1 group-title="👶 Мультфильмы и Детские", Gulli Girl
+https://stream8.cinerama.uz/1445/index.m3u8
+#EXTINF:-1 group-title="👶 Мультфильмы и Детские", Gulli Girl (2)
+http://stream.mcquack.net/305/index.m3u8
+#EXTINF:-1 group-title="👶 Мультфильмы и Детские", Капитан Фантастика
+https://stream8.cinerama.uz/1406/index.m3u8
+#EXTINF:-1 group-title="👶 Мультфильмы и Детские", Капитан Фантастика (2)
+http://stream.mcquack.net/144/index.m3u8
+#EXTINF:-1 group-title="👶 Мультфильмы и Детские", Плюс минус 16
+https://media.16pm.ru/live/index.m3u8
+#EXTINF:-1 tvg-id="FILMBOXPlusOne.pl@UkraineBaltics" tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bone.png" group-title="🇱🇻 Латвия",FILMBOX+ One Ukraine & Baltics (450p) [Geo-blocked]
+https://s70378.cdn.ngenix.net/filmbox/index.m3u8
+#EXTINF:-1 tvg-id="Go3Sport1.ee@SD" tvg-logo="https://i.imgur.com/0eZa0qh.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="🇱🇻 Латвия",Go3 Sport 1 (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://stream.mcquack.net/416/index.m3u8
+#EXTINF:-1 tvg-id="Gribuvisuzinat.lv@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6d/%D0%A5%D0%BE%D1%87%D1%83_%D0%B2%D1%81%D1%91_%D0%B7%D0%BD%D0%B0%D1%82%D1%8C.svg" http-referrer="https://void.greenhosting.ru/" group-title="🇱🇻 Латвия",Gribu visu zinat (576p)
+#EXTVLCOPT:http-referrer=https://void.greenhosting.ru/
+https://void.greenhosting.ru/HochuVjeZnat_Mpeg4/index.m3u8
+#EXTINF:-1 tvg-id="KidZoneMax.ee@SD" tvg-logo="https://i.imgur.com/qJSvxE2.png" http-referrer="https://kidzonemax.lt" group-title="🇱🇻 Латвия",KidZone Max SD (1080p) [Geo-blocked]
+#EXTVLCOPT:http-referrer=https://kidzonemax.lt
+https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/560706/index.mpd
+#EXTINF:-1 tvg-id="Kino1.ua@SD" tvg-logo="https://i.imgur.com/FWVxBWI.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="🇱🇻 Латвия",Kino 1 (Ukraine) (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://stream.mcquack.net/395/index.m3u8
+#EXTINF:-1 tvg-id="Kino24.ru@SD" tvg-logo="https://i.imgur.com/QAdDARF.png" group-title="🇱🇻 Латвия",Kino 24 (720p)
+http://sirius.greenhosting.ru/Kino24Ru/video.m3u8
+#EXTINF:-1 tvg-id="LTV1.lv@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/LTV1_%282022%29.svg/960px-LTV1_%282022%29.svg.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="🇱🇻 Латвия",LTV1 (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://stream.mcquack.net/34/index.m3u8
+#EXTINF:-1 tvg-id="LTV7.lv@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/LTV7_Logo_2021.svg/960px-LTV7_Logo_2021.svg.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="🇱🇻 Латвия",LTV7 (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://stream.mcquack.net/371/index.m3u8
+#EXTINF:-1 tvg-id="MovifyKino.lv@SD" tvg-logo="https://i.imgur.com/XIk5EJN.png" http-referrer="https://void.greenhosting.ru/" group-title="🇱🇻 Латвия",Movify Kino (576p)
+#EXTVLCOPT:http-referrer=https://void.greenhosting.ru/
+https://void.greenhosting.ru/MovifyKino_Mpeg4/index.m3u8
+#EXTINF:-1 tvg-id="OTV.ee@SD" tvg-logo="https://web02.antik.sk/assets/img/channels/5c4e6aadc3255df82fedf3221570cdb5.svg" group-title="🇱🇻 Латвия",OTV (Estonia)
+http://88.212.15.17/live/otv/playlist.m3u8
+#EXTINF:-1 tvg-id="Pingviins.lv@SD" tvg-logo="https://i.imgur.com/hfXoJIY.png" group-title="🇱🇻 Латвия",Pingviins (720p)
+https://sirius.greenhosting.ru/PingvinRu/video.m3u8
+#EXTINF:-1 tvg-id="RadioSWHTV.lv@SD" tvg-logo="https://i.imgur.com/cFrNsXn.png" group-title="🇱🇻 Латвия",Radio SWH TV (1080p)
+https://00ff00.latnet.media/edge/swh_tv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ReTV.lv@SD" tvg-logo="https://i.imgur.com/Z3cre5Xm.png" group-title="🇱🇻 Латвия",Re TV (1080p)
+https://retv2132.cloudycdn.services/slive/_definst_/retv_retv_channel_5k7_42787_default_891_hls.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="RTGint.ru@SD" tvg-logo="https://i.imgur.com/ZpUNou4.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="🇱🇻 Латвия",RTG int.
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://213.91.179.28:8000/play/a0bw
+#EXTINF:-1 tvg-id="SeaTV.lv@SD" tvg-logo="https://i.imgur.com/11dzVLi.png" group-title="🇱🇻 Латвия",Sea TV (360p)
+http://dtv.vol.net.ua/Sea_TV_HD/index.m3u8
+#EXTINF:-1 tvg-id="Sport1Baltic.ua@SD" tvg-logo="https://i.imgur.com/aBY7QK4.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="🇱🇻 Латвия",Sport 1 Baltic (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://stream.mcquack.net/461/index.m3u8
+#EXTINF:-1 tvg-id="TNTInternational.ru@SD" tvg-logo="https://i.imgur.com/l0RGbRI.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="🇱🇻 Латвия",TNT International SD (480p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/THT/HLSv3-FTA/THT.m3u8
+#EXTINF:-1 tvg-id="TV3Life.lv@SD" tvg-logo="https://i.imgur.com/Tm8hj45.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="🇱🇻 Латвия",TV3 Life (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://stream.mcquack.net/373/index.m3u8
+#EXTINF:-1 tvg-id="TVJurmala.lv@SD" tvg-logo="https://i.imgur.com/tQHkHD0.png" group-title="🇱🇻 Латвия",TV Jurmala (1080p)
+https://air.star.lv/TV_Jurmala_multistream/index.m3u8
+#EXTINF:-1 tvg-id="TVNET.lv@SD" tvg-logo="https://i.imgur.com/jzv1ssE.png" group-title="🇱🇻 Латвия",TVNET (Latvia) (360p)
+https://player.tvnet.lv/stream/amlst:61659/playlist.m3u8
+#EXTINF:-1 tvg-id="ViasatKinoAction.ua@SD" tvg-logo="https://i.imgur.com/HwsNIDK.png" group-title="🇱🇻 Латвия",Viasat Kino Action (576p)
+http://dtv.vol.net.ua/Viasat_Kino_Action_HD/index.m3u8
+#EXTINF:-1 tvg-id="ViasatKinoComedy.ua@SD" tvg-logo="https://i.imgur.com/qVYt8kP.png" http-referrer="http://live.tvstitch.com/" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36" group-title="🇱🇻 Латвия",Viasat Kino Comedy
+#EXTVLCOPT:http-referrer=http://live.tvstitch.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
+http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoNDQvdHJhY2tzLXYxYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA1OTk4Mzcmc3Q9UzRPS1VZemNocmREQWhnSTJkTDJ5QQ%3D%3D&master=249
+#EXTINF:-1 tvg-id="ViasatKinoWorld.ua@SD" tvg-logo="https://i.imgur.com/GPiE2Rb.png" http-referrer="http://live.tvstitch.com/" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36" group-title="🇱🇻 Латвия",Viasat Kino World
+#EXTVLCOPT:http-referrer=http://live.tvstitch.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
+http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoNDgvdHJhY2tzLXYxYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA1OTk5NDcmc3Q9N3ROblpCZy02WTBka1RuekRIZjU0QQ%3D%3D&master=102
+#EXTINF:-1 tvg-id="VidusdaugavasTelevizija.lv@SD" tvg-logo="https://i.imgur.com/L5U3PQR.png" group-title="🇱🇻 Латвия",Vidusdaugavas Televizija (576p)
+https://straume.vdtv.lv/vdtv2/index.m3u8
