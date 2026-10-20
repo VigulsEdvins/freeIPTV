@@ -1,399 +1,259 @@
 #EXTM3U url-tvg="https://iptvx.one/epg/epg.xml.gz,http://epg.it999.ru/edem.xml.gz,https://iptv-org.github.io/epg/guides/lv/tet.lv.epg.xml"
-#EXTINF:-1 tvg-name="Кинокомедия" group-title="🍿 Современное Зарубежное Кино и Кинозалы" tvg-id="kinokomedia" tvg-logo="https://ngrch.github.io/iptv/logos/kinokomedia.png", Кинокомедия
+#EXTINF:-1 tvg-name="Кинокомедия" group-title="🍿 Современное Зарубежное Кино и Сериалы" tvg-id="kinokomedia" tvg-logo="https://ngrch.github.io/iptv/logos/kinokomedia.png", Кинокомедия
 https://stream8.cinerama.uz/1232/index.m3u8
-#EXTINF:-1 tvg-name="Кинокомедия" group-title="🍿 Современное Зарубежное Кино и Кинозалы" tvg-id="kinokomedia" tvg-logo="https://ngrch.github.io/iptv/logos/kinokomedia.png", Кинокомедия (2)
+#EXTINF:-1 tvg-name="Кинокомедия" group-title="🍿 Современное Зарубежное Кино и Сериалы" tvg-id="kinokomedia" tvg-logo="https://ngrch.github.io/iptv/logos/kinokomedia.png", Кинокомедия (2)
 http://176.118.197.101/Kinokomediya/index.m3u8
-#EXTINF:-1 tvg-name="Кинокомедия International" group-title="🍿 Современное Зарубежное Кино и Кинозалы" tvg-id="kinokomedia-int" tvg-logo="https://ngrch.github.io/iptv/logos/kinokomedia.png", Кинокомедия International
+#EXTINF:-1 tvg-name="Кинокомедия" group-title="🍿 Современное Зарубежное Кино и Сериалы" tvg-id="kinokomedia-int" tvg-logo="https://ngrch.github.io/iptv/logos/kinokomedia.png", Кинокомедия International
 http://stream.mcquack.net/265/index.m3u8
-#EXTINF:-1 tvg-name="Viju TV1000" group-title="🍿 Современное Зарубежное Кино и Кинозалы" tvg-id="tv1000" tvg-logo="https://ngrch.github.io/iptv/logos/viju_tv1000.png", Viju TV1000
+#EXTINF:-1 tvg-name="Viju TV1000" group-title="🍿 Современное Зарубежное Кино и Сериалы" tvg-id="tv1000" tvg-logo="https://ngrch.github.io/iptv/logos/viju_tv1000.png", Viju TV1000
 https://stream8.cinerama.uz/1058/index.m3u8
-#EXTINF:-1 tvg-name="Viju TV1000" group-title="🍿 Современное Зарубежное Кино и Кинозалы" tvg-id="tv1000" tvg-logo="https://ngrch.github.io/iptv/logos/viju_tv1000.png", Viju TV1000 (2)
+#EXTINF:-1 tvg-name="Viju TV1000" group-title="🍿 Современное Зарубежное Кино и Сериалы" tvg-id="tv1000" tvg-logo="https://ngrch.github.io/iptv/logos/viju_tv1000.png", Viju TV1000 (2)
 http://stream.mcquack.net/110/index.m3u8
-#EXTINF:-1 tvg-name="Viju TV1000 Action" group-title="🍿 Современное Зарубежное Кино и Кинозалы" tvg-id="tv1000-action" tvg-logo="https://ngrch.github.io/iptv/logos/viju_action.png", Viju TV1000 Action
+#EXTINF:-1 tvg-name="Viju TV1000 Action" group-title="🍿 Современное Зарубежное Кино и Сериалы" tvg-id="tv1000-action" tvg-logo="https://ngrch.github.io/iptv/logos/viju_action.png", Viju TV1000 Action
 https://stream8.cinerama.uz/1225/index.m3u8
-#EXTINF:-1 tvg-name="Viju TV1000 Action" group-title="🍿 Современное Зарубежное Кино и Кинозалы" tvg-id="tv1000-action" tvg-logo="https://ngrch.github.io/iptv/logos/viju_action.png", Viju TV1000 Action (2)
+#EXTINF:-1 tvg-name="Viju TV1000 Action" group-title="🍿 Современное Зарубежное Кино и Сериалы" tvg-id="tv1000-action" tvg-logo="https://ngrch.github.io/iptv/logos/viju_action.png", Viju TV1000 Action (2)
 http://stream.mcquack.net/100/index.m3u8
-#EXTINF:-1 tvg-name="Viju TV1000 Action" group-title="🍿 Современное Зарубежное Кино и Кинозалы" tvg-id="tv1000-action" tvg-logo="https://ngrch.github.io/iptv/logos/viju_action.png", Viju TV1000 Action (3)
+#EXTINF:-1 tvg-name="Viju TV1000 Action" group-title="🍿 Современное Зарубежное Кино и Сериалы" tvg-id="tv1000-action" tvg-logo="https://ngrch.github.io/iptv/logos/viju_action.png", Viju TV1000 Action (3)
 https://flussonic.mkpnet.ru/tv-0991ea2ac6292de8/video.m3u8
-#EXTINF:-1 tvg-name="Viju Explore" group-title="🍿 Современное Зарубежное Кино и Кинозалы" tvg-id="viasat-explore" tvg-logo="https://ngrch.github.io/iptv/logos/viju_explore.png", Viju Explore
+#EXTINF:-1 tvg-name="Viju Explore" group-title="🍿 Современное Зарубежное Кино и Сериалы" tvg-id="viasat-explore" tvg-logo="https://ngrch.github.io/iptv/logos/viju_explore.png", Viju Explore
 http://stream.mcquack.net/239/index.m3u8
-#EXTINF:-1 tvg-name="Viju Explore" group-title="🍿 Современное Зарубежное Кино и Кинозалы" tvg-id="viasat-explore" tvg-logo="https://ngrch.github.io/iptv/logos/viju_explore.png", Viju Explore (2)
+#EXTINF:-1 tvg-name="Viju Explore" group-title="🍿 Современное Зарубежное Кино и Сериалы" tvg-id="viasat-explore" tvg-logo="https://ngrch.github.io/iptv/logos/viju_explore.png", Viju Explore (2)
 https://flussonic.mkpnet.ru/tv-7c57a4c3f9a896ea/video.m3u8
-#EXTINF:-1 tvg-name="Viju History" group-title="🍿 Современное Зарубежное Кино и Кинозалы" tvg-id="viasat-history" tvg-logo="https://ngrch.github.io/iptv/logos/viju_history.png", Viju History
+#EXTINF:-1 tvg-name="Viju History" group-title="🍿 Современное Зарубежное Кино и Сериалы" tvg-id="viasat-history" tvg-logo="https://ngrch.github.io/iptv/logos/viju_history.png", Viju History
 https://stream8.cinerama.uz/1046/index.m3u8
-#EXTINF:-1 tvg-name="Viju History" group-title="🍿 Современное Зарубежное Кино и Кинозалы" tvg-id="viasat-history" tvg-logo="https://ngrch.github.io/iptv/logos/viju_history.png", Viju History (2)
+#EXTINF:-1 tvg-name="Viju History" group-title="🍿 Современное Зарубежное Кино и Сериалы" tvg-id="viasat-history" tvg-logo="https://ngrch.github.io/iptv/logos/viju_history.png", Viju History (2)
 http://stream.mcquack.net/101/index.m3u8
-#EXTINF:-1 tvg-name="Viju History" group-title="🍿 Современное Зарубежное Кино и Кинозалы" tvg-id="viasat-history" tvg-logo="https://ngrch.github.io/iptv/logos/viju_history.png", Viju History (3)
+#EXTINF:-1 tvg-name="Viju History" group-title="🍿 Современное Зарубежное Кино и Сериалы" tvg-id="viasat-history" tvg-logo="https://ngrch.github.io/iptv/logos/viju_history.png", Viju History (3)
 http://178.124.179.122/HistoryHD/index.m3u8
-#EXTINF:-1 tvg-name="Viju History" group-title="🍿 Современное Зарубежное Кино и Кинозалы" tvg-id="viasat-history" tvg-logo="https://ngrch.github.io/iptv/logos/viju_history.png", Viju History (4)
+#EXTINF:-1 tvg-name="Viju History" group-title="🍿 Современное Зарубежное Кино и Сериалы" tvg-id="viasat-history" tvg-logo="https://ngrch.github.io/iptv/logos/viju_history.png", Viju History (4)
 http://flussonic.mkpnet.ru/tv-687ba838ca927b9a/video.m3u8
-#EXTINF:-1 tvg-name="Viju Nature" group-title="🍿 Современное Зарубежное Кино и Кинозалы" tvg-id="viasat-nature" tvg-logo="https://ngrch.github.io/iptv/logos/viju_nature.png", Viju Nature
+#EXTINF:-1 tvg-name="Viju Nature" group-title="🍿 Современное Зарубежное Кино и Сериалы" tvg-id="viasat-nature" tvg-logo="https://ngrch.github.io/iptv/logos/viju_nature.png", Viju Nature
 https://flussonic.mkpnet.ru/tv-7a85ea25208f5bf7/video.m3u8
-#EXTINF:-1 tvg-name="Viju Nature" group-title="🍿 Современное Зарубежное Кино и Кинозалы" tvg-id="viasat-nature" tvg-logo="https://ngrch.github.io/iptv/logos/viju_nature.png", Viju Nature (2)
+#EXTINF:-1 tvg-name="Viju Nature" group-title="🍿 Современное Зарубежное Кино и Сериалы" tvg-id="viasat-nature" tvg-logo="https://ngrch.github.io/iptv/logos/viju_nature.png", Viju Nature (2)
 https://stream8.cinerama.uz/1228/index.m3u8
-#EXTINF:-1 tvg-name="Кинопремьера" group-title="🍿 Современное Зарубежное Кино и Кинозалы" tvg-id="kinopremiera-hd" tvg-logo="https://ngrch.github.io/iptv/logos/kinopremiera.png", Кинопремьера
+#EXTINF:-1 tvg-name="Кинопремьера" group-title="🍿 Современное Зарубежное Кино и Сериалы" tvg-id="kinopremiera-hd" tvg-logo="https://ngrch.github.io/iptv/logos/kinopremiera.png", Кинопремьера
 http://5.188.159.128:8070/KINOPREMIERA/index.m3u8
-#EXTINF:-1 tvg-name="Кинопремьера" group-title="🍿 Современное Зарубежное Кино и Кинозалы" tvg-id="kinopremiera-hd" tvg-logo="https://ngrch.github.io/iptv/logos/kinopremiera.png", Кинопремьера (2)
+#EXTINF:-1 tvg-name="Кинопремьера" group-title="🍿 Современное Зарубежное Кино и Сериалы" tvg-id="kinopremiera-hd" tvg-logo="https://ngrch.github.io/iptv/logos/kinopremiera.png", Кинопремьера (2)
 http://185.121.1.163:8083/Kinopremyera/index.m3u8
-#EXTINF:-1 tvg-name="Кинопремьера International" group-title="🍿 Современное Зарубежное Кино и Кинозалы" tvg-id="kinopremiera-int" tvg-logo="https://ngrch.github.io/iptv/logos/kinopremiera.png", Кинопремьера International
+#EXTINF:-1 tvg-name="Кинопремьера" group-title="🍿 Современное Зарубежное Кино и Сериалы" tvg-id="kinopremiera-int" tvg-logo="https://ngrch.github.io/iptv/logos/kinopremiera.png", Кинопремьера International
 https://stream8.cinerama.uz/1207/index.m3u8
-#EXTINF:-1 tvg-name="Кинохит" group-title="🍿 Современное Зарубежное Кино и Кинозалы" tvg-id="kinoxit" tvg-logo="https://ngrch.github.io/iptv/logos/kinohit.png", Кинохит
+#EXTINF:-1 tvg-name="Кинохит" group-title="🍿 Современное Зарубежное Кино и Сериалы" tvg-id="kinoxit" tvg-logo="https://ngrch.github.io/iptv/logos/kinohit.png", Кинохит
 http://stream.mcquack.net/126/index.m3u8
-#EXTINF:-1 tvg-name="Кинохит International" group-title="🍿 Современное Зарубежное Кино и Кинозалы" tvg-id="kinoxit-int" tvg-logo="https://ngrch.github.io/iptv/logos/kinohit.png", Кинохит International
+#EXTINF:-1 tvg-name="Кинохит" group-title="🍿 Современное Зарубежное Кино и Сериалы" tvg-id="kinoxit-int" tvg-logo="https://ngrch.github.io/iptv/logos/kinohit.png", Кинохит International
 https://stream8.cinerama.uz/1055/index.m3u8
-#EXTINF:-1 tvg-name="Киносерия" group-title="🍿 Современное Зарубежное Кино и Кинозалы" tvg-id="kinoseria" tvg-logo="https://ngrch.github.io/iptv/logos/kinoseria.png", Киносерия
+#EXTINF:-1 tvg-name="Киносерия" group-title="🍿 Современное Зарубежное Кино и Сериалы" tvg-id="kinoseria" tvg-logo="https://ngrch.github.io/iptv/logos/kinoseria.png", Киносерия
 https://stream8.cinerama.uz/1235/index.m3u8
-#EXTINF:-1 tvg-name="Киносерия" group-title="🍿 Современное Зарубежное Кино и Кинозалы" tvg-id="kinoseria" tvg-logo="https://ngrch.github.io/iptv/logos/kinoseria.png", Киносерия (2)
+#EXTINF:-1 tvg-name="Киносерия" group-title="🍿 Современное Зарубежное Кино и Сериалы" tvg-id="kinoseria" tvg-logo="https://ngrch.github.io/iptv/logos/kinoseria.png", Киносерия (2)
 http://176.118.197.101/Kinoseria/index.m3u8
-#EXTINF:-1 tvg-name="Cinema" group-title="🍿 Современное Зарубежное Кино и Кинозалы" tvg-id="cinema-ru" tvg-logo="https://ngrch.github.io/iptv/logos/cinema.png", Cinema
+#EXTINF:-1 tvg-name="Cinema" group-title="🍿 Современное Зарубежное Кино и Сериалы" tvg-id="cinema-ru" tvg-logo="https://ngrch.github.io/iptv/logos/cinema.png", Cinema
 http://176.118.197.101/Cinema/index.m3u8
-#EXTINF:-1 tvg-name="Cinema" group-title="🍿 Современное Зарубежное Кино и Кинозалы" tvg-id="cinema-ru" tvg-logo="https://ngrch.github.io/iptv/logos/cinema.png", Cinema (2)
+#EXTINF:-1 tvg-name="Cinema" group-title="🍿 Современное Зарубежное Кино и Сериалы" tvg-id="cinema-ru" tvg-logo="https://ngrch.github.io/iptv/logos/cinema.png", Cinema (2)
 https://stream8.cinerama.uz/1227/index.m3u8
-#EXTINF:-1 tvg-name="Мужское кино" group-title="🍿 Современное Зарубежное Кино и Кинозалы" tvg-id="muzhskoe-kino" tvg-logo="https://ngrch.github.io/iptv/logos/muzhskoe.png", Мужское кино
+#EXTINF:-1 tvg-name="Мужское кино" group-title="🍿 Современное Зарубежное Кино и Сериалы" tvg-id="muzhskoe-kino" tvg-logo="https://ngrch.github.io/iptv/logos/muzhskoe.png", Мужское кино
 https://stream8.cinerama.uz/1237/index.m3u8
-#EXTINF:-1 tvg-name="Мужское кино" group-title="🍿 Современное Зарубежное Кино и Кинозалы" tvg-id="muzhskoe-kino" tvg-logo="https://ngrch.github.io/iptv/logos/muzhskoe.png", Мужское кино (2)
+#EXTINF:-1 tvg-name="Мужское кино" group-title="🍿 Современное Зарубежное Кино и Сериалы" tvg-id="muzhskoe-kino" tvg-logo="https://ngrch.github.io/iptv/logos/muzhskoe.png", Мужское кино (2)
 http://stream.mcquack.net/107/index.m3u8
-#EXTINF:-1 tvg-name="Viju+ Sport" group-title="🍿 Современное Зарубежное Кино и Кинозалы", Viju+ Sport
-https://stream8.cinerama.uz/1229/index.m3u8
-#EXTINF:-1 tvg-name="Viju+ Sport" group-title="🍿 Современное Зарубежное Кино и Кинозалы", Viju+ Sport (2)
-http://stream.mcquack.net/333/index.m3u8
-#EXTINF:-1 tvg-name=".black" group-title="🍿 Современное Зарубежное Кино и Кинозалы", .black
+#EXTINF:-1 tvg-name=".black" group-title="🍿 Современное Зарубежное Кино и Сериалы", .black
 http://stream.mcquack.net/263/index.m3u8
-#EXTINF:-1 tvg-name=".Red" group-title="🍿 Современное Зарубежное Кино и Кинозалы", .Red
+#EXTINF:-1 tvg-name=".Red" group-title="🍿 Современное Зарубежное Кино и Сериалы", .Red
 http://stream.mcquack.net/69/index.m3u8
-#EXTINF:-1 tvg-name=".Red" group-title="🍿 Современное Зарубежное Кино и Кинозалы", .Red (2)
+#EXTINF:-1 tvg-name=".Red" group-title="🍿 Современное Зарубежное Кино и Сериалы", .Red (2)
 http://176.100.46.245:90/red/index.m3u8
-#EXTINF:-1 tvg-name=".Sci-Fi" group-title="🍿 Современное Зарубежное Кино и Кинозалы", .Sci-Fi
+#EXTINF:-1 tvg-name=".Sci-Fi" group-title="🍿 Современное Зарубежное Кино и Сериалы", .Sci-Fi
 http://stream.mcquack.net/180/index.m3u8
-#EXTINF:-1 tvg-name="FX" group-title="🍿 Современное Зарубежное Кино и Кинозалы", FX
+#EXTINF:-1 tvg-name="FX" group-title="🍿 Современное Зарубежное Кино и Сериалы", FX
 http://stream.mcquack.net/182/index.m3u8
-#EXTINF:-1 tvg-name="FX Life" group-title="🍿 Современное Зарубежное Кино и Кинозалы", FX Life
+#EXTINF:-1 tvg-name="FX Life" group-title="🍿 Современное Зарубежное Кино и Сериалы", FX Life
 http://stream.mcquack.net/129/index.m3u8
-#EXTINF:-1 tvg-name="Кино ТВ" group-title="🍿 Современное Зарубежное Кино и Кинозалы", Кино ТВ
+#EXTINF:-1 tvg-name="Кино ТВ" group-title="🍿 Современное Зарубежное Кино и Сериалы", Кино ТВ
 http://176.118.197.101/KinoTvHD/index.m3u8
-#EXTINF:-1 tvg-name="OVAA" group-title="🍿 Современное Зарубежное Кино и Кинозалы", OVAA
+#EXTINF:-1 tvg-name="OVAA" group-title="🍿 Современное Зарубежное Кино и Сериалы", OVAA
 http://tv.tuva.ru/ovaa/index.m3u8
-#EXTINF:-1 tvg-name="Viju+ Premiere" group-title="🍿 Современное Зарубежное Кино и Кинозалы", Viju+ Premiere
+#EXTINF:-1 tvg-name="Viju+ Premiere" group-title="🍿 Современное Зарубежное Кино и Сериалы", Viju+ Premiere
 http://stream.mcquack.net/202/index.m3u8
-#EXTINF:-1 tvg-name="Viju+ Serial" group-title="🍿 Современное Зарубежное Кино и Кинозалы", Viju+ Serial
+#EXTINF:-1 tvg-name="Viju+ Serial" group-title="🍿 Современное Зарубежное Кино и Сериалы", Viju+ Serial
 http://stream.mcquack.net/311/index.m3u8
-#EXTINF:-1 tvg-name="Viju+ Megahit" group-title="🍿 Современное Зарубежное Кино и Кинозалы", Viju+ Megahit
+#EXTINF:-1 tvg-name="Viju+ Megahit" group-title="🍿 Современное Зарубежное Кино и Сериалы", Viju+ Megahit
 http://stream.mcquack.net/200/index.m3u8
-#EXTINF:-1 tvg-name="Viju+ Comedy" group-title="🍿 Современное Зарубежное Кино и Кинозалы", Viju+ Comedy
+#EXTINF:-1 tvg-name="Viju+ Comedy" group-title="🍿 Современное Зарубежное Кино и Сериалы", Viju+ Comedy
 https://stream8.cinerama.uz/1061/index.m3u8
-#EXTINF:-1 tvg-name="Viju+ Comedy" group-title="🍿 Современное Зарубежное Кино и Кинозалы", Viju+ Comedy (2)
+#EXTINF:-1 tvg-name="Viju+ Comedy" group-title="🍿 Современное Зарубежное Кино и Сериалы", Viju+ Comedy (2)
 http://stream.mcquack.net/201/index.m3u8
-#EXTINF:-1 tvg-name="Amedia 1" group-title="🍿 Современное Зарубежное Кино и Кинозалы", Amedia 1
+#EXTINF:-1 tvg-name="Amedia 1" group-title="🍿 Современное Зарубежное Кино и Сериалы", Amedia 1
 http://stream.mcquack.net/117/index.m3u8
-#EXTINF:-1 tvg-name="Amedia Hit" group-title="🍿 Современное Зарубежное Кино и Кинозалы", Amedia Hit
+#EXTINF:-1 tvg-name="Amedia Hit" group-title="🍿 Современное Зарубежное Кино и Сериалы", Amedia Hit
 http://stream.mcquack.net/162/index.m3u8
-#EXTINF:-1 tvg-name="Amedia Premium" group-title="🍿 Современное Зарубежное Кино и Кинозалы", Amedia Premium
+#EXTINF:-1 tvg-name="Amedia Premium" group-title="🍿 Современное Зарубежное Кино и Сериалы", Amedia Premium
 http://stream.mcquack.net/151/index.m3u8
-#EXTINF:-1 tvg-name="Viasat Kino Comedy" group-title="🍿 Современное Зарубежное Кино и Кинозалы", Viasat Kino Comedy
+#EXTINF:-1 tvg-name="Viasat Kino Comedy" group-title="🍿 Современное Зарубежное Кино и Сериалы", Viasat Kino Comedy
 http://ukr2.ukrainske.tv/493/video.m3u8
-#EXTINF:-1 tvg-name="Start Air" group-title="🍿 Современное Зарубежное Кино и Кинозалы", Start Air
-http://stream.mcquack.net/128/index.m3u8
-#EXTINF:-1 tvg-name="Star Cinema" group-title="🍿 Современное Зарубежное Кино и Кинозалы", Star Cinema
+#EXTINF:-1 tvg-name="Star Cinema" group-title="🍿 Современное Зарубежное Кино и Сериалы", Star Cinema
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4158
-#EXTINF:-1 tvg-name="Star Family" group-title="🍿 Современное Зарубежное Кино и Кинозалы", Star Family
+#EXTINF:-1 tvg-name="Star Family" group-title="🍿 Современное Зарубежное Кино и Сериалы", Star Family
 https://dash2.antik.sk/live/test_star_family_atktv/playlist.m3u8
-#EXTINF:-1 tvg-name="Комедия" group-title="🍿 Современное Зарубежное Кино и Кинозалы", Комедия
+#EXTINF:-1 tvg-name="Комедия" group-title="🍿 Современное Зарубежное Кино и Сериалы", Комедия
 http://176.118.197.101/Komediya/index.m3u8
-#EXTINF:-1 tvg-name="Комедия" group-title="🍿 Современное Зарубежное Кино и Кинозалы", Комедия (2)
+#EXTINF:-1 tvg-name="Комедия" group-title="🍿 Современное Зарубежное Кино и Сериалы", Комедия (2)
 http://stream.mcquack.net/68/index.m3u8
-#EXTINF:-1 tvg-name="Комедийное" group-title="🍿 Современное Зарубежное Кино и Кинозалы", Комедийное
+#EXTINF:-1 tvg-name="Комедийное" group-title="🍿 Современное Зарубежное Кино и Сериалы", Комедийное
 http://stream.mcquack.net/74/index.m3u8
-#EXTINF:-1 tvg-name="Киноужас" group-title="🍿 Современное Зарубежное Кино и Кинозалы", Киноужас
+#EXTINF:-1 tvg-name="Киноужас" group-title="🍿 Современное Зарубежное Кино и Сериалы", Киноужас
 http://stream.mcquack.net/278/index.m3u8
-#EXTINF:-1 tvg-name="Остросюжетное" group-title="🍿 Современное Зарубежное Кино и Кинозалы", Остросюжетное
+#EXTINF:-1 tvg-name="Остросюжетное" group-title="🍿 Современное Зарубежное Кино и Сериалы", Остросюжетное
 http://stream.mcquack.net/214/index.m3u8
-#EXTINF:-1 tvg-name="Шокирующее" group-title="🍿 Современное Зарубежное Кино и Кинозалы", Шокирующее
+#EXTINF:-1 tvg-name="Шокирующее" group-title="🍿 Современное Зарубежное Кино и Сериалы", Шокирующее
 http://stream.mcquack.net/75/index.m3u8
-#EXTINF:-1 tvg-name="Премиальное" group-title="🍿 Современное Зарубежное Кино и Кинозалы", Премиальное
+#EXTINF:-1 tvg-name="Премиальное" group-title="🍿 Современное Зарубежное Кино и Сериалы", Премиальное
 http://stream.mcquack.net/421/index.m3u8
-#EXTINF:-1 tvg-name="Киномикс" group-title="🍿 Современное Зарубежное Кино и Кинозалы", Киномикс
+#EXTINF:-1 tvg-name="Киномикс" group-title="🍿 Современное Зарубежное Кино и Сериалы", Киномикс
 https://stream8.cinerama.uz/1233/index.m3u8
-#EXTINF:-1 tvg-name="Киномикс" group-title="🍿 Современное Зарубежное Кино и Кинозалы", Киномикс (2)
+#EXTINF:-1 tvg-name="Киномикс" group-title="🍿 Современное Зарубежное Кино и Сериалы", Киномикс (2)
 http://176.118.197.101/Kinomix/index.m3u8
-#EXTINF:-1 tvg-name="Киномикс" group-title="🍿 Современное Зарубежное Кино и Кинозалы", Киномикс (3)
+#EXTINF:-1 tvg-name="Киномикс" group-title="🍿 Современное Зарубежное Кино и Сериалы", Киномикс (3)
 http://stream.mcquack.net/133/index.m3u8
-#EXTINF:-1 tvg-name="Киносвидание" group-title="🍿 Современное Зарубежное Кино и Кинозалы", Киносвидание
+#EXTINF:-1 tvg-name="Киносвидание" group-title="🍿 Современное Зарубежное Кино и Сериалы", Киносвидание
 http://5.188.159.128:8070/kinosvidanie/index.m3u8
-#EXTINF:-1 tvg-name="Киносвидание" group-title="🍿 Современное Зарубежное Кино и Кинозалы", Киносвидание (2)
+#EXTINF:-1 tvg-name="Киносвидание" group-title="🍿 Современное Зарубежное Кино и Сериалы", Киносвидание (2)
 https://stream8.cinerama.uz/1203/index.m3u8
-#EXTINF:-1 tvg-name="Киносвидание" group-title="🍿 Современное Зарубежное Кино и Кинозалы", Киносвидание (3)
+#EXTINF:-1 tvg-name="Киносвидание" group-title="🍿 Современное Зарубежное Кино и Сериалы", Киносвидание (3)
 http://stream.mcquack.net/171/index.m3u8
-#EXTINF:-1 tvg-name="Киносемья" group-title="🍿 Современное Зарубежное Кино и Кинозалы", Киносемья
+#EXTINF:-1 tvg-name="Киносемья" group-title="🍿 Современное Зарубежное Кино и Сериалы", Киносемья
 https://stream8.cinerama.uz/1234/index.m3u8
-#EXTINF:-1 tvg-name="Киносемья" group-title="🍿 Современное Зарубежное Кино и Кинозалы", Киносемья (2)
+#EXTINF:-1 tvg-name="Киносемья" group-title="🍿 Современное Зарубежное Кино и Сериалы", Киносемья (2)
 http://stream.mcquack.net/170/index.m3u8
-#EXTINF:-1 tvg-name="Киносемья" group-title="🍿 Современное Зарубежное Кино и Кинозалы", Киносемья (3)
+#EXTINF:-1 tvg-name="Киносемья" group-title="🍿 Современное Зарубежное Кино и Сериалы", Киносемья (3)
 http://185.121.1.163:8083/Kinosemya/index.m3u8
-#EXTINF:-1 tvg-name="Киноман" group-title="🍿 Современное Зарубежное Кино и Кинозалы", Киноман
+#EXTINF:-1 tvg-name="Киноман" group-title="🍿 Современное Зарубежное Кино и Сериалы", Киноман
 http://185.121.1.163:8083/Kinoman/index.m3u8
-#EXTINF:-1 tvg-name="Киносезон" group-title="🍿 Современное Зарубежное Кино и Кинозалы", Киносезон
+#EXTINF:-1 tvg-name="Киносезон" group-title="🍿 Современное Зарубежное Кино и Сериалы", Киносезон
 https://stitch.teletarget.ru/vintera/movieseason/index.m3u8
-#EXTINF:-1 tvg-name="КиноМеню" group-title="🍿 Современное Зарубежное Кино и Кинозалы", КиноМеню
+#EXTINF:-1 tvg-name="КиноМеню" group-title="🍿 Современное Зарубежное Кино и Сериалы", КиноМеню
 https://stitch.teletarget.ru/vintera/kinomenu/index.m3u8
-#EXTINF:-1 tvg-name="Кинопоказ" group-title="🍿 Современное Зарубежное Кино и Кинозалы", Кинопоказ
+#EXTINF:-1 tvg-name="Кинопоказ" group-title="🍿 Современное Зарубежное Кино и Сериалы", Кинопоказ
 https://stream8.cinerama.uz/1057/index.m3u8
-#EXTINF:-1 tvg-name="Кинопоказ" group-title="🍿 Современное Зарубежное Кино и Кинозалы", Кинопоказ (2)
+#EXTINF:-1 tvg-name="Кинопоказ" group-title="🍿 Современное Зарубежное Кино и Сериалы", Кинопоказ (2)
 http://stream.mcquack.net/64/index.m3u8
-#EXTINF:-1 tvg-name="Кинопоказ" group-title="🍿 Современное Зарубежное Кино и Кинозалы", Кинопоказ (3)
+#EXTINF:-1 tvg-name="Кинопоказ" group-title="🍿 Современное Зарубежное Кино и Сериалы", Кинопоказ (3)
 http://176.118.197.101/Kinopokaz/index.m3u8
-#EXTINF:-1 tvg-name="Hollywood" group-title="🍿 Современное Зарубежное Кино и Кинозалы", Hollywood
+#EXTINF:-1 tvg-name="Hollywood" group-title="🍿 Современное Зарубежное Кино и Сериалы", Hollywood
 https://stream8.cinerama.uz/1443/index.m3u8
-#EXTINF:-1 tvg-name="Иллюзион+" group-title="🍿 Современное Зарубежное Кино и Кинозалы", Иллюзион+
+#EXTINF:-1 tvg-name="Иллюзион+" group-title="🍿 Современное Зарубежное Кино и Сериалы", Иллюзион+
 http://176.118.197.101/Illuzion+/index.m3u8
-#EXTINF:-1 tvg-name="Еврокино" group-title="🍿 Современное Зарубежное Кино и Кинозалы", Еврокино
+#EXTINF:-1 tvg-name="Еврокино" group-title="🍿 Современное Зарубежное Кино и Сериалы", Еврокино
 http://176.118.197.101/Evrokino/index.m3u8
-#EXTINF:-1 tvg-name="Еврокино" group-title="🍿 Современное Зарубежное Кино и Кинозалы", Еврокино (2)
+#EXTINF:-1 tvg-name="Еврокино" group-title="🍿 Современное Зарубежное Кино и Сериалы", Еврокино (2)
 http://stream.mcquack.net/385/index.m3u8
-#EXTINF:-1 tvg-name="Смотрим" group-title="🍿 Современное Зарубежное Кино и Кинозалы", Смотрим
-https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="TV12" group-title="🍿 Современное Зарубежное Кино и Кинозалы", TV12
-http://185.221.213.254:8080/Mafia2/index.m3u8
-#EXTINF:-1 tvg-name="Dunyo bo'ylab" group-title="🍿 Современное Зарубежное Кино и Кинозалы", Dunyo bo'ylab
-https://stream8.cinerama.uz/1006/index.m3u8
-#EXTINF:-1 tvg-name="Хит" group-title="🍿 Современное Зарубежное Кино и Кинозалы", Хит
+#EXTINF:-1 tvg-name="Хит" group-title="🍿 Современное Зарубежное Кино и Сериалы", Хит
 http://stream.mcquack.net/363/index.m3u8
-#EXTINF:-1 tvg-name="Bolt" group-title="🍿 Современное Зарубежное Кино и Кинозалы", Bolt
+#EXTINF:-1 tvg-name="Bolt" group-title="🍿 Современное Зарубежное Кино и Сериалы", Bolt
 http://stream.mcquack.net/73/index.m3u8
-#EXTINF:-1 tvg-name="Blokbaster" group-title="🍿 Современное Зарубежное Кино и Кинозалы", Blokbaster
+#EXTINF:-1 tvg-name="Blokbaster" group-title="🍿 Современное Зарубежное Кино и Сериалы", Blokbaster
 http://stream.mcquack.net/364/index.m3u8
-#EXTINF:-1 tvg-name="Кино 1" group-title="🍿 Современное Зарубежное Кино и Кинозалы", Кино 1
-http://stream.mcquack.net/395/index.m3u8
-#EXTINF:-1 tvg-name="Кино 2" group-title="🍿 Современное Зарубежное Кино и Кинозалы", Кино 2
-http://stream.mcquack.net/465/index.m3u8
-#EXTINF:-1 tvg-name="Наше" group-title="🍿 Современное Зарубежное Кино и Кинозалы", Наше
-http://stream.mcquack.net/217/index.m3u8
-#EXTINF:-1 tvg-name="Наше Мужское" group-title="🍿 Современное Зарубежное Кино и Кинозалы", Наше Мужское
-http://stream.mcquack.net/362/index.m3u8
-#EXTINF:-1 tvg-name="ТВ21" group-title="🍿 Современное Зарубежное Кино и Кинозалы", ТВ21
+#EXTINF:-1 tvg-name="ТВ21" group-title="🍿 Современное Зарубежное Кино и Сериалы", ТВ21
 http://stream.mcquack.net/152/index.m3u8
-#EXTINF:-1 tvg-name="Арт" group-title="🍿 Современное Зарубежное Кино и Кинозалы", Арт
+#EXTINF:-1 tvg-name="Арт" group-title="🍿 Современное Зарубежное Кино и Сериалы", Арт
 http://185.23.80.23:8080/ART/index.m3u8
-#EXTINF:-1 tvg-name="Тайна" group-title="🍿 Современное Зарубежное Кино и Кинозалы", Тайна
+#EXTINF:-1 tvg-name="Тайна" group-title="🍿 Современное Зарубежное Кино и Сериалы", Тайна
 https://bl.rutube.ru/livestream/a11c890a0ec0730ad33bdaaf2d244e1a/index.m3u8?s=hCc3BqSwghCQ0GRhDJ967A&e=2070623490&scheme=https
-#EXTINF:-1 tvg-name="KinoLiving" group-title="🍿 Современное Зарубежное Кино и Кинозалы", KinoLiving
+#EXTINF:-1 tvg-name="KinoLiving" group-title="🍿 Современное Зарубежное Кино и Сериалы", KinoLiving
 http://stream.mcquack.net/445/index.m3u8
-#EXTINF:-1 tvg-name="Fresh Fantastic" group-title="🍿 Современное Зарубежное Кино и Кинозалы", Fresh Fantastic
+#EXTINF:-1 tvg-name="Fresh Fantastic" group-title="🍿 Современное Зарубежное Кино и Сериалы", Fresh Fantastic
 http://stream.mcquack.net/429/index.m3u8
-#EXTINF:-1 tvg-name="Disney XD" group-title="🍿 Современное Зарубежное Кино и Кинозалы", Disney XD
+#EXTINF:-1 tvg-name="Disney XD" group-title="🍿 Современное Зарубежное Кино и Сериалы", Disney XD
 https://kinowalk.hopto.org/disneyxd_live
-#EXTINF:-1 tvg-name="JTX" group-title="🍿 Современное Зарубежное Кино и Кинозалы", JTX
+#EXTINF:-1 tvg-name="JTX" group-title="🍿 Современное Зарубежное Кино и Сериалы", JTX
 https://kinowalk.hopto.org/jtxonline_live
-#EXTINF:-1 tvg-name="FoxKids" group-title="🍿 Современное Зарубежное Кино и Кинозалы", FoxKids
+#EXTINF:-1 tvg-name="FoxKids" group-title="🍿 Современное Зарубежное Кино и Сериалы", FoxKids
 https://kinowalk.hopto.org/foxkids_remastered_live
-#EXTINF:-1 tvg-name="Мультфильмы VHS" group-title="🍿 Современное Зарубежное Кино и Кинозалы", Мультфильмы VHS
-https://kinowalk.hopto.org/myvhs_live
-#EXTINF:-1 tvg-name="grislytoe" group-title="🍿 Современное Зарубежное Кино и Кинозалы", grislytoe
+#EXTINF:-1 tvg-name="grislytoe" group-title="🍿 Современное Зарубежное Кино и Сериалы", grislytoe
 https://kinowalk.hopto.org/grislytoe_live
-#EXTINF:-1 tvg-name="ВсеТВ" group-title="🍿 Современное Зарубежное Кино и Кинозалы", ВсеТВ
+#EXTINF:-1 tvg-name="ВсеТВ" group-title="🍿 Современное Зарубежное Кино и Сериалы", ВсеТВ
 https://kinowalk.hopto.org/maldrvsetv_live
-#EXTINF:-1 tvg-name="Kinowalk" group-title="🍿 Современное Зарубежное Кино и Кинозалы", Kinowalk
+#EXTINF:-1 tvg-name="Kinowalk" group-title="🍿 Современное Зарубежное Кино и Сериалы", Kinowalk
 https://kinowalk.hopto.org/kinowalk_live
-#EXTINF:-1 tvg-name="Legion" group-title="🍿 Современное Зарубежное Кино и Кинозалы", Legion
+#EXTINF:-1 tvg-name="Legion" group-title="🍿 Современное Зарубежное Кино и Сериалы", Legion
 https://kinowalk.hopto.org/legion-tv_live
-#EXTINF:-1 tvg-name="Video_Prokat" group-title="🍿 Современное Зарубежное Кино и Кинозалы", Video_Prokat
+#EXTINF:-1 tvg-name="Video_Prokat" group-title="🍿 Современное Зарубежное Кино и Сериалы", Video_Prokat
 https://kinowalk.hopto.org/video_prokat_live
-#EXTINF:-1 tvg-name="MovieToper" group-title="🍿 Современное Зарубежное Кино и Кинозалы", MovieToper
+#EXTINF:-1 tvg-name="MovieToper" group-title="🍿 Современное Зарубежное Кино и Сериалы", MovieToper
 https://kinowalk.hopto.org/movietoper_live
-#EXTINF:-1 tvg-name="TimeToHorror" group-title="🍿 Современное Зарубежное Кино и Кинозалы", TimeToHorror
+#EXTINF:-1 tvg-name="TimeToHorror" group-title="🍿 Современное Зарубежное Кино и Сериалы", TimeToHorror
 https://kinowalk.hopto.org/timetohorror_live
-#EXTINF:-1 tvg-name="TimeToMovie" group-title="🍿 Современное Зарубежное Кино и Кинозалы", TimeToMovie
+#EXTINF:-1 tvg-name="TimeToMovie" group-title="🍿 Современное Зарубежное Кино и Сериалы", TimeToMovie
 https://kinowalk.hopto.org/timetomovie_live
-#EXTINF:-1 tvg-name="Blockbusters Time" group-title="🍿 Современное Зарубежное Кино и Кинозалы", Blockbusters Time
+#EXTINF:-1 tvg-name="Blockbusters Time" group-title="🍿 Современное Зарубежное Кино и Сериалы", Blockbusters Time
 https://kinowalk.hopto.org/blockbusterstime_live
-#EXTINF:-1 tvg-name="Kinolampa" group-title="🍿 Современное Зарубежное Кино и Кинозалы", Kinolampa
+#EXTINF:-1 tvg-name="Kinolampa" group-title="🍿 Современное Зарубежное Кино и Сериалы", Kinolampa
 https://kinowalk.hopto.org/kinolampa_live
-#EXTINF:-1 tvg-name="VideoArsenal" group-title="🍿 Современное Зарубежное Кино и Кинозалы", VideoArsenal
+#EXTINF:-1 tvg-name="VideoArsenal" group-title="🍿 Современное Зарубежное Кино и Сериалы", VideoArsenal
 https://kinowalk.hopto.org/videoarsenal_live
-#EXTINF:-1 tvg-name="Kino Jam" group-title="🍿 Современное Зарубежное Кино и Кинозалы", Kino Jam
+#EXTINF:-1 tvg-name="Kino Jam" group-title="🍿 Современное Зарубежное Кино и Сериалы", Kino Jam
 https://kinowalk.hopto.org/kinojam_live
-#EXTINF:-1 tvg-name="Scripach" group-title="🍿 Современное Зарубежное Кино и Кинозалы", Scripach
+#EXTINF:-1 tvg-name="Scripach" group-title="🍿 Современное Зарубежное Кино и Сериалы", Scripach
 https://kinowalk.hopto.org/scripachtv_live
-#EXTINF:-1 tvg-name="SeleCaoTV" group-title="🍿 Современное Зарубежное Кино и Кинозалы", SeleCaoTV
+#EXTINF:-1 tvg-name="SeleCaoTV" group-title="🍿 Современное Зарубежное Кино и Сериалы", SeleCaoTV
 https://kinowalk.hopto.org/selecaotv_live
-#EXTINF:-1 tvg-name="SeleCaoTV1" group-title="🍿 Современное Зарубежное Кино и Кинозалы", SeleCaoTV1
+#EXTINF:-1 tvg-name="SeleCaoTV1" group-title="🍿 Современное Зарубежное Кино и Сериалы", SeleCaoTV1
 https://kinowalk.hopto.org/selecaotv1_live
-#EXTINF:-1 tvg-name="SerialTV" group-title="🍿 Современное Зарубежное Кино и Кинозалы", SerialTV
+#EXTINF:-1 tvg-name="SerialTV" group-title="🍿 Современное Зарубежное Кино и Сериалы", SerialTV
 https://kinowalk.hopto.org/serialtv_live
-#EXTINF:-1 tvg-name="Serial4u" group-title="🍿 Современное Зарубежное Кино и Кинозалы", Serial4u
+#EXTINF:-1 tvg-name="Serial4u" group-title="🍿 Современное Зарубежное Кино и Сериалы", Serial4u
 https://kinowalk.hopto.org/serial4u_live
-#EXTINF:-1 tvg-name="Киноужас" group-title="🍿 Современное Зарубежное Кино и Кинозалы", Киноужас
+#EXTINF:-1 tvg-name="Киноужас" group-title="🍿 Современное Зарубежное Кино и Сериалы", Киноужас
 https://kinowalk.hopto.org/kinouzhas_live
-#EXTINF:-1 tvg-name="Alex.Films" group-title="🍿 Современное Зарубежное Кино и Кинозалы", Alex.Films
+#EXTINF:-1 tvg-name="Alex.Films" group-title="🍿 Современное Зарубежное Кино и Сериалы", Alex.Films
 https://kinowalk.hopto.org/alex.films_live
-#EXTINF:-1 tvg-name="Baragozz" group-title="🍿 Современное Зарубежное Кино и Кинозалы", Baragozz
+#EXTINF:-1 tvg-name="Baragozz" group-title="🍿 Современное Зарубежное Кино и Сериалы", Baragozz
 https://kinowalk.hopto.org/baragozz_tv_live
-#EXTINF:-1 tvg-name="Aisman" group-title="🍿 Современное Зарубежное Кино и Кинозалы", Aisman
-https://kinowalk.hopto.org/aisman_live
-#EXTINF:-0 group-title="🍿 Современное Зарубежное Кино и Кинозалы", LampoTV
+#EXTINF:-0 group-title="🍿 Современное Зарубежное Кино и Сериалы", LampoTV
 https://kinowalk.hopto.org/lampotv_live
-#EXTINF:-1 tvg-name="Video Channel" group-title="🍿 Современное Зарубежное Кино и Кинозалы", Video Channel
+#EXTINF:-1 tvg-name="Video Channel" group-title="🍿 Современное Зарубежное Кино и Сериалы", Video Channel
 https://kinowalk.hopto.org/video_channel_live
-#EXTINF:-0 group-title="🍿 Современное Зарубежное Кино и Кинозалы", swat2k
-https://kinowalk.hopto.org/swat2k_live
-#EXTINF:-0 group-title="🍿 Современное Зарубежное Кино и Кинозалы", Wfliq
-https://kinowalk.hopto.org/wfliq_live
-#EXTINF:-1 tvg-name="Комедии" group-title="🍿 Современное Зарубежное Кино и Кинозалы", Комедии
+#EXTINF:-1 tvg-name="Комедии" group-title="🍿 Современное Зарубежное Кино и Сериалы", Комедии
 https://kinowalk.hopto.org/cmexye4ku_live
-#EXTINF:-1 tvg-name="Эквилибриум" group-title="🍿 Современное Зарубежное Кино и Кинозалы", Эквилибриум
+#EXTINF:-1 tvg-name="Эквилибриум" group-title="🍿 Современное Зарубежное Кино и Сериалы", Эквилибриум
 https://kinowalk.hopto.org/equilibrium_live
-#EXTINF:-1 tvg-name="ChowAmigo" group-title="🍿 Современное Зарубежное Кино и Кинозалы", ChowAmigo
-https://kinowalk.hopto.org/chowamigo_live
-#EXTINF:-1 tvg-name="TopMoment" group-title="🍿 Современное Зарубежное Кино и Кинозалы", TopMoment
+#EXTINF:-1 tvg-name="TopMoment" group-title="🍿 Современное Зарубежное Кино и Сериалы", TopMoment
 https://kinowalk.hopto.org/topmoment_live
-#EXTINF:-1 tvg-name="TopMoment Live" group-title="🍿 Современное Зарубежное Кино и Кинозалы", TopMoment Live
+#EXTINF:-1 tvg-name="TopMoment Live" group-title="🍿 Современное Зарубежное Кино и Сериалы", TopMoment Live
 https://kinowalk.hopto.org/topmomentlive_live
-#EXTINF:-1 tvg-name="InMuNa" group-title="🍿 Современное Зарубежное Кино и Кинозалы", InMuNa
-https://kinowalk.hopto.org/inmuna_live
-#EXTINF:-1 tvg-name="VHS кино" group-title="🍿 Современное Зарубежное Кино и Кинозалы", VHS кино
-https://kinowalk.hopto.org/and7610_live
-#EXTINF:-1 tvg-name="Cinema Time" group-title="🍿 Современное Зарубежное Кино и Кинозалы", Cinema Time
+#EXTINF:-1 tvg-name="Cinema Time" group-title="🍿 Современное Зарубежное Кино и Сериалы", Cinema Time
 https://kinowalk.hopto.org/cinematime_live
-#EXTINF:-1 tvg-name="IGROComp" group-title="🍿 Современное Зарубежное Кино и Кинозалы", IGROComp
-https://kinowalk.hopto.org/igrocomp_live
-#EXTINF:-1 tvg-name="Kycman" group-title="🍿 Современное Зарубежное Кино и Кинозалы", Kycman
-https://kinowalk.hopto.org/kycman_live
-#EXTINF:-1 tvg-name="dj Zour" group-title="🍿 Современное Зарубежное Кино и Кинозалы", dj Zour
-https://kinowalk.hopto.org/zsmedia_live
-#EXTINF:-1 tvg-name="Priest_kod" group-title="🍿 Современное Зарубежное Кино и Кинозалы", Priest_kod
-https://kinowalk.hopto.org/priest_kod_live
-#EXTINF:-1 tvg-name="Kinofon" group-title="🍿 Современное Зарубежное Кино и Кинозалы", Kinofon
+#EXTINF:-1 tvg-name="Kinofon" group-title="🍿 Современное Зарубежное Кино и Сериалы", Kinofon
 https://kinowalk.hopto.org/kinofon_live
-#EXTINF:-1 tvg-name="KinoMix 1" group-title="🍿 Современное Зарубежное Кино и Кинозалы", KinoMix 1
+#EXTINF:-1 tvg-name="KinoMix 1" group-title="🍿 Современное Зарубежное Кино и Сериалы", KinoMix 1
 https://kinowalk.hopto.org/yurich_kinomix_live
-#EXTINF:-1 tvg-name="KinoMix 2" group-title="🍿 Современное Зарубежное Кино и Кинозалы", KinoMix 2
+#EXTINF:-1 tvg-name="KinoMix 2" group-title="🍿 Современное Зарубежное Кино и Сериалы", KinoMix 2
 https://kinowalk.hopto.org/dak3767_live
-#EXTINF:-1 tvg-name="Тоха Киноман" group-title="🍿 Современное Зарубежное Кино и Кинозалы", Тоха Киноман
-https://kinowalk.hopto.org/kinomania_stream_live
-#EXTINF:-1 tvg-name="Тоха Стрим" group-title="🍿 Современное Зарубежное Кино и Кинозалы", Тоха Стрим
-https://kinowalk.hopto.org/toxa_stream_live
-#EXTINF:-1 tvg-name="Осторожно Модерн" group-title="🍿 Современное Зарубежное Кино и Кинозалы", Осторожно Модерн
-https://kinowalk.hopto.org/ostorozhnomodern2_live
-#EXTINF:-1 tvg-name="У края бездны" group-title="🍿 Современное Зарубежное Кино и Кинозалы", У края бездны
-https://kinowalk.hopto.org/ddator_live
-#EXTINF:-1 tvg-name="MAX" group-title="🍿 Современное Зарубежное Кино и Кинозалы", MAX
+#EXTINF:-1 tvg-name="MAX" group-title="🍿 Современное Зарубежное Кино и Сериалы", MAX
 https://kinowalk.hopto.org/maximum_live
-#EXTINF:-1 tvg-name="NEZABUDKA" group-title="🍿 Современное Зарубежное Кино и Кинозалы", NEZABUDKA
-https://kinowalk.hopto.org/nezabudka_live
-#EXTINF:-1 tvg-name="FRXNKL1N" group-title="🍿 Современное Зарубежное Кино и Кинозалы", FRXNKL1N
-https://kinowalk.hopto.org/frxnkl1n_live
-#EXTINF:-1 tvg-name="Кладовая Фильмов" group-title="🍿 Современное Зарубежное Кино и Кинозалы", Кладовая Фильмов
+#EXTINF:-1 tvg-name="Кладовая Фильмов" group-title="🍿 Современное Зарубежное Кино и Сериалы", Кладовая Фильмов
 https://kinowalk.hopto.org/skladfilm_live
-#EXTINF:-1 tvg-name="RE_BOOT" group-title="🍿 Современное Зарубежное Кино и Кинозалы", RE_BOOT
+#EXTINF:-1 tvg-name="RE_BOOT" group-title="🍿 Современное Зарубежное Кино и Сериалы", RE_BOOT
 https://kinowalk.hopto.org/re_boot_live
-#EXTINF:-1 tvg-name="1st_witch" group-title="🍿 Современное Зарубежное Кино и Кинозалы", 1st_witch
-https://kinowalk.hopto.org/witch_live
-#EXTINF:-1 tvg-name="Мир Ехо" group-title="🍿 Современное Зарубежное Кино и Кинозалы", Мир Ехо
-https://kinowalk.hopto.org/mirdobro_live
-#EXTINF:-1 tvg-name="film4khdLIVE" group-title="🍿 Современное Зарубежное Кино и Кинозалы", film4khdLIVE
+#EXTINF:-1 tvg-name="film4khdLIVE" group-title="🍿 Современное Зарубежное Кино и Сериалы", film4khdLIVE
 https://kinowalk.hopto.org/film4khdclub_live
-#EXTINF:-1 tvg-name="Эра VHS" group-title="🍿 Современное Зарубежное Кино и Кинозалы", Эра VHS
-https://kinowalk.hopto.org/vhs90s_live
-#EXTINF:-1 tvg-name="АPRICUS" group-title="🍿 Современное Зарубежное Кино и Кинозалы", АPRICUS
-https://kinowalk.hopto.org/apricus_live
-#EXTINF:-1 tvg-name="Фильмоскоп" group-title="🍿 Современное Зарубежное Кино и Кинозалы", Фильмоскоп
-https://kinowalk.hopto.org/filmscope_live
-#EXTINF:-1 tvg-name="Х-TV" group-title="🍿 Современное Зарубежное Кино и Кинозалы", Х-TV
-https://kinowalk.hopto.org/durkalive_live
-#EXTINF:-1 tvg-name="Kira_freak" group-title="🍿 Современное Зарубежное Кино и Кинозалы", Kira_freak
-https://kinowalk.hopto.org/kirafreak_live
-#EXTINF:-1 tvg-name="Dimpon" group-title="🍿 Современное Зарубежное Кино и Кинозалы", Dimpon
-http://kinowalk.hopto.org/dimpon_live
-#EXTINF:-1 tvg-name="100% Детское" group-title="🍿 Современное Зарубежное Кино и Кинозалы", 100% Детское
-https://stream.smotrim.ru/hls3/fasttv05/playlist_3.m3u8
-#EXTINF:-1 tvg-name="100% Классика" group-title="🍿 Современное Зарубежное Кино и Кинозалы", 100% Классика
-https://stream.smotrim.ru/hls3/fasttv03/playlist_3.m3u8
-#EXTINF:-1 tvg-name="100% Любовь" group-title="🍿 Современное Зарубежное Кино и Кинозалы", 100% Любовь
-https://stream.smotrim.ru/hls3/fasttv01/playlist_3.m3u8
-#EXTINF:-1 tvg-name="100% Мужское" group-title="🍿 Современное Зарубежное Кино и Кинозалы", 100% Мужское
-https://stream.smotrim.ru/hls3/fasttv02/playlist_3.m3u8
-#EXTINF:-1 tvg-name="100% Праздник" group-title="🍿 Современное Зарубежное Кино и Кинозалы", 100% Праздник
-https://stream.smotrim.ru/hls3/fasttv04/playlist_3.m3u8
-#EXTINF:-1 tvg-name="100% Факты" group-title="🍿 Современное Зарубежное Кино и Кинозалы", 100% Факты
-https://stream.smotrim.ru/hls3/fasttv06/playlist_3.m3u8
-#EXTINF:-1 tvg-name="Кино 1 International" group-title="🍿 Современное Зарубежное Кино и Кинозалы", Кино 1 International
-https://kino-1.catcast.tv/content/38617/index.m3u8
-#EXTINF:-1 tvg-name="Детское кино" group-title="🍿 Современное Зарубежное Кино и Кинозалы", Детское кино
+#EXTINF:-1 tvg-name="Детское кино" group-title="🍿 Современное Зарубежное Кино и Сериалы", Детское кино
 https://kino-1.catcast.tv/content/40427/index.m3u8
-#EXTINF:-1 tvg-name="КиноАзия" group-title="🍿 Современное Зарубежное Кино и Кинозалы", КиноАзия
+#EXTINF:-1 tvg-name="КиноАзия" group-title="🍿 Современное Зарубежное Кино и Сериалы", КиноАзия
 https://cityeden.catcast.tv/content/34393/index.m3u8
-#EXTINF:-1 tvg-name="КиноКлассика" group-title="🍿 Современное Зарубежное Кино и Кинозалы", КиноКлассика
-https://cityeden.catcast.tv/content/34185/index.m3u8
-#EXTINF:-1 tvg-name="КиноМистика" group-title="🍿 Современное Зарубежное Кино и Кинозалы", КиноМистика
+#EXTINF:-1 tvg-name="КиноМистика" group-title="🍿 Современное Зарубежное Кино и Сериалы", КиноМистика
 https://cityeden.catcast.tv/content/40783/index.m3u8
-#EXTINF:-1 tvg-name="КиноЭкшен" group-title="🍿 Современное Зарубежное Кино и Кинозалы", КиноЭкшен
+#EXTINF:-1 tvg-name="КиноЭкшен" group-title="🍿 Современное Зарубежное Кино и Сериалы", КиноЭкшен
 https://cityeden.catcast.tv/content/41333/index.m3u8
-#EXTINF:-1 tvg-name="КиноАрт" group-title="🍿 Современное Зарубежное Кино и Кинозалы", КиноАрт
+#EXTINF:-1 tvg-name="КиноАрт" group-title="🍿 Современное Зарубежное Кино и Сериалы", КиноАрт
 https://cityeden.catcast.tv/content/38398/index.m3u8
-#EXTINF:-1 tvg-name="КиноДетектив" group-title="🍿 Современное Зарубежное Кино и Кинозалы", КиноДетектив
+#EXTINF:-1 tvg-name="КиноДетектив" group-title="🍿 Современное Зарубежное Кино и Сериалы", КиноДетектив
 https://cityeden.catcast.tv/content/41327/index.m3u8
-#EXTINF:-1 tvg-name="КиноДок" group-title="🍿 Современное Зарубежное Кино и Кинозалы", КиноДок
+#EXTINF:-1 tvg-name="КиноДок" group-title="🍿 Современное Зарубежное Кино и Сериалы", КиноДок
 https://cityeden.catcast.tv/content/38354/index.m3u8
-#EXTINF:-1 tvg-name="КиноДрама" group-title="🍿 Современное Зарубежное Кино и Кинозалы", КиноДрама
+#EXTINF:-1 tvg-name="КиноДрама" group-title="🍿 Современное Зарубежное Кино и Сериалы", КиноДрама
 https://cityeden.catcast.tv/content/45269/index.m3u8
-#EXTINF:-1 tvg-name="КиноКомедия" group-title="🍿 Современное Зарубежное Кино и Кинозалы", КиноКомедия
+#EXTINF:-1 tvg-name="КиноКомедия" group-title="🍿 Современное Зарубежное Кино и Сериалы", КиноКомедия
 https://cityeden.catcast.tv/content/41331/index.m3u8
-#EXTINF:-1 tvg-name="КиноФантастика" group-title="🍿 Современное Зарубежное Кино и Кинозалы", КиноФантастика
+#EXTINF:-1 tvg-name="КиноФантастика" group-title="🍿 Современное Зарубежное Кино и Сериалы", КиноФантастика
 https://cityeden.catcast.tv/content/45268/index.m3u8
-#EXTINF:-1 tvg-name="МедЗдрав" group-title="🍿 Современное Зарубежное Кино и Кинозалы", МедЗдрав
-https://cityeden.catcast.tv/content/47519/index.m3u8
-#EXTINF:-1 tvg-name="Рецепты Гурмана" group-title="🍿 Современное Зарубежное Кино и Кинозалы", Рецепты Гурмана
-https://cityeden.catcast.tv/content/47516/index.m3u8
-#EXTINF:-1 tvg-name="ТелеНовелла" group-title="🍿 Современное Зарубежное Кино и Кинозалы", ТелеНовелла
-https://cityeden.catcast.tv/content/46209/index.m3u8
-#EXTINF:-1 tvg-name="TVBoom" group-title="🍿 Современное Зарубежное Кино и Кинозалы", TVBoom
-https://kb.catcast.tv/content/49702/index.m3u8
-#EXTINF:-1 tvg-name="Андийцы" group-title="🍿 Современное Зарубежное Кино и Кинозалы", Андийцы
-https://v2.catcast.tv/content/34114/index.m3u8
-#EXTINF:-1 tvg-name="HGTN" group-title="🍿 Современное Зарубежное Кино и Кинозалы", HGTN
-https://v2.catcast.tv/content/34251/index.m3u8
-#EXTINF:-1 tvg-name="Шоу Бенни Хилла" group-title="🍿 Современное Зарубежное Кино и Кинозалы", Шоу Бенни Хилла
-https://lbgo.bozztv.com/07/ushba62/index.m3u8
-#EXTINF:-1 tvg-name="Мистер Бин" group-title="🍿 Современное Зарубежное Кино и Кинозалы", Мистер Бин
-https://lbgo.bozztv.com/07/ushba45/index.m3u8
-#EXTINF:-1 tvg-name="Retrovision" group-title="🍿 Современное Зарубежное Кино и Кинозалы", Retrovision
-https://lbgo.bozztv.com/07/ushba-rvision/index.m3u8
-#EXTINF:-1 tvg-name="Retrovision Motor" group-title="🍿 Современное Зарубежное Кино и Кинозалы", Retrovision Motor
-https://lbgo.bozztv.com/07/ushba-rvisionmotor/index.m3u8
-#EXTINF:-1 tvg-name="Retrovision Кинопанорама" group-title="🍿 Современное Зарубежное Кино и Кинозалы", Retrovision Кинопанорама
-https://lbgo.bozztv.com/07/ushba-rvisionkinopanorama/index.m3u8
-#EXTINF:-1 tvg-name="Retrovision Movies" group-title="🍿 Современное Зарубежное Кино и Кинозалы", Retrovision Movies
-https://lbgo.bozztv.com/07/ushba-rvisionmovies/index.m3u8
-#EXTINF:-1 tvg-name="Retrovision Classic" group-title="🍿 Современное Зарубежное Кино и Кинозалы", Retrovision Classic
-https://lbgo.bozztv.com/07/ushba-rvisionclassic/index.m3u8
-#EXTINF:-1 tvg-name="Кинозалы 1" group-title="🍿 Современное Зарубежное Кино и Кинозалы", Кинозалы 1
-https://lbgo.bozztv.com/07/ushba82/index.m3u8
-#EXTINF:-1 tvg-name="Кинозалы 2" group-title="🍿 Современное Зарубежное Кино и Кинозалы", Кинозалы 2
-https://lbgo.bozztv.com/07/ushba-rfilrms-0/index.m3u8
-#EXTINF:-1 tvg-name="Кинозалы 3" group-title="🍿 Современное Зарубежное Кино и Кинозалы", Кинозалы 3
-https://lbgo.bozztv.com/07/ushba-rfilrms-a/index.m3u8
-#EXTINF:-1 tvg-name="Кинозалы 4" group-title="🍿 Современное Зарубежное Кино и Кинозалы", Кинозалы 4
-https://lbgo.bozztv.com/07/ushba-rfilrms-b/index.m3u8
-#EXTINF:-1 tvg-name="Кинозалы 5" group-title="🍿 Современное Зарубежное Кино и Кинозалы", Кинозалы 5
-https://lbgo.bozztv.com/07/ushba-rfilrms-c/index.m3u8
-#EXTINF:-1 tvg-name="Кинозалы 6" group-title="🍿 Современное Зарубежное Кино и Кинозалы", Кинозалы 6
-https://lbgo.bozztv.com/07/ushba-rfilrms-d/index.m3u8
-#EXTINF:-1 tvg-name="Кинозалы 7" group-title="🍿 Современное Зарубежное Кино и Кинозалы", Кинозалы 7
-https://lbgo.bozztv.com/07/ushba-rfilrms-e/index.m3u8
-#EXTINF:-1 tvg-name="Кинозалы 8" group-title="🍿 Современное Зарубежное Кино и Кинозалы", Кинозалы 8
-https://lbgo.bozztv.com/07/ushba-rfilrms-g/index.m3u8
-#EXTINF:-1 tvg-name="Кинозалы 9" group-title="🍿 Современное Зарубежное Кино и Кинозалы", Кинозалы 9
-https://lbgo.bozztv.com/07/ushba-rfilrms-i/index.m3u8
-#EXTINF:-1 tvg-name="Кинозалы 10" group-title="🍿 Современное Зарубежное Кино и Кинозалы", Кинозалы 10
-https://lbgo.bozztv.com/07/ushba-rfilrms-p/index.m3u8
-#EXTINF:-1 tvg-name="Кинозалы 11" group-title="🍿 Современное Зарубежное Кино и Кинозалы", Кинозалы 11
-https://lbgo.bozztv.com/07/ushba-rfilrms-v/index.m3u8
-#EXTINF:-1 tvg-name="Кинозалы 12" group-title="🍿 Современное Зарубежное Кино и Кинозалы", Кинозалы 12
-https://lbgo.bozztv.com/07/ushba-rfilrms-z/index.m3u8
-#EXTINF:-1 tvg-name="Кинозалы 13" group-title="🍿 Современное Зарубежное Кино и Кинозалы", Кинозалы 13
-https://lbgo.bozztv.com/07/ushba64/index.m3u8
-#EXTINF:-1 tvg-name="Кинозалы 14" group-title="🍿 Современное Зарубежное Кино и Кинозалы", Кинозалы 14
-https://lbgo.bozztv.com/07/ushba65/index.m3u8
-#EXTINF:-1 tvg-name="Viju+ Planet" group-title="🍿 Современное Зарубежное Кино и Кинозалы", Viju+ Planet
+#EXTINF:-1 tvg-name="Viju+ Planet" group-title="🍿 Современное Зарубежное Кино и Сериалы", Viju+ Planet
 http://stream.mcquack.net/240/index.m3u8
 #EXTINF:-1 tvg-name="СТС" group-title="🎉 Развлекательные" tvg-id="sts" tvg-logo="https://ngrch.github.io/iptv/logos/sts.png", СТС
 https://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8
@@ -595,14 +455,12 @@ https://stream8.cinerama.uz/1264/index.m3u8
 http://stream.mcquack.net/235/index.m3u8
 #EXTINF:-1 tvg-name="Sport 1 Baltic" group-title="⚽ Спорт", Sport 1 Baltic
 http://stream.mcquack.net/461/index.m3u8
-#EXTINF:-1 tvg-name="Старт" group-title="⚽ Спорт", Старт
-https://bl.webcaster.pro/media/playlist/api_free_fd14ed34164a52d1090e4cb9db93683f/4_79276517/480p/d33bbf3e6ac7c41524eae5d1c3d9258d/4873167902.m3u8
-#EXTINF:-1 tvg-name="Старт Баскет" group-title="⚽ Спорт", Старт Баскет
-https://bl.webcaster.pro/media/playlist/free_621d169e5c631c638136df3cb136c5c9/33_68881676/480p/b32eaae5fbf1d2b8211543566a1d9a78/4914392769.m3u8
-#EXTINF:-1 tvg-name="Старт Триумф" group-title="⚽ Спорт", Старт Триумф
-https://bl.webcaster.pro/media/playlist/free_672d700f2f9510be660253786e4406fe_hd/33_85479982/480p/4eaec8986e2012fb936478856fbf3b4b/4818731006.m3u8
 #EXTINF:-1 tvg-name="Спорт" group-title="⚽ Спорт", Спорт
 http://live-3.otcnet.ru/sportivny/index.m3u8
+#EXTINF:-1 tvg-name="Viju+ Sport" group-title="⚽ Спорт", Viju+ Sport
+https://stream8.cinerama.uz/1229/index.m3u8
+#EXTINF:-1 tvg-name="Viju+ Sport" group-title="⚽ Спорт", Viju+ Sport (2)
+http://stream.mcquack.net/333/index.m3u8
 #EXTINF:-1 tvg-name="MMA" group-title="⚽ Спорт", MMA
 https://streams2.sofast.tv/vglive-sk-462904/playlist.m3u8
 #EXTINF:-1 tvg-name="MMA" group-title="⚽ Спорт", MMA (2)
@@ -744,7 +602,7 @@ http://dtv.vol.net.ua/Sea_TV_HD/index.m3u8
 #EXTINF:-1 tvg-name="Sport 1 Baltic (1080p)" tvg-id="Sport1Baltic.ua@SD" tvg-logo="https://i.imgur.com/aBY7QK4.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="🇱🇻 Латвия",Sport 1 Baltic (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://stream.mcquack.net/461/index.m3u8
-#EXTINF:-1 tvg-name="TNT International(480p)" tvg-id="TNTInternational.ru@SD" tvg-logo="https://i.imgur.com/l0RGbRI.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="🇱🇻 Латвия",TNT International SD (480p)
+#EXTINF:-1 tvg-name="TNT(480p)" tvg-id="TNTInternational.ru@SD" tvg-logo="https://i.imgur.com/l0RGbRI.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="🇱🇻 Латвия",TNT International SD (480p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://cdn4.skygo.mn/live/disk1/THT/HLSv3-FTA/THT.m3u8
 #EXTINF:-1 tvg-name="TV3 Life (1080p)" tvg-id="TV3Life.lv@SD" tvg-logo="https://i.imgur.com/Tm8hj45.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="🇱🇻 Латвия",TV3 Life (1080p)

@@ -27,22 +27,21 @@ def fetch(url):
         return resp.read().decode('utf-8', errors='ignore')
 
 def clean_channel_name(name):
-    # Очищаем название от суффиксов дубликатов (2), (3), FHD, HD для точного поиска в программе передач (EPG)
     t = re.sub(r'\s*\(\d+\)\s*', '', name)
-    t = re.sub(r'\s*\b(HD|SD|FHD|50fps)\b\s*', '', t, flags=re.I)
+    t = re.sub(r'\s*\b(HD|SD|FHD|50fps|International)\b\s*', '', t, flags=re.I)
     return t.strip()
 
 def prepare_header(header, group_name):
     title = header.split(',')[-1].strip()
     clean_name = clean_channel_name(title)
     
-    # Обновляем или добавляем group-title
+    # Обновляем group-title
     if 'group-title=' in header:
         new_h = re.sub(r'group-title=\"[^\"]+\"', f'group-title="{group_name}"', header)
     else:
         new_h = header.replace('#EXTINF:-1 ', f'#EXTINF:-1 group-title="{group_name}" ')
     
-    # Добавляем tvg-name для 100% совпадения с EPG
+    # Добавляем эталонный tvg-name для точной привязки EPG программы
     if 'tvg-name=' not in new_h:
         new_h = new_h.replace('#EXTINF:-1 ', f'#EXTINF:-1 tvg-name="{clean_name}" ')
         
@@ -65,22 +64,86 @@ def main():
     lv_chans = parse_m3u(lv_raw)
 
     categories = {
-        '🍿 Современное Зарубежное Кино и Кинозалы': [],
+        '🍿 Современное Зарубежное Кино и Сериалы': [],
         '🎉 Развлекательные': [],
         '⚽ Спорт': [],
         '👶 Мультфильмы и Детские': [],
         '🇱🇻 Латвия': []
     }
 
-    # Черный список: советские фильмы, старое русское кино, ток-шоу, новости, религия, индийское/турецкое
-    exclude_keywords = [
-        'советск', 'ссср', 'родное кино', 'любимое кино', 'наше кино', 'наше новое',
-        'русский бестселлер', 'русский роман', 'русский детектив', 'русский иллюзион',
-        'мосфильм', 'золотая коллекция', 'дом кино', 'ретро', 'победа', 'душевное',
-        'всё тв', 'viju tv1000 русское', 'нтв сериал', 'нтв хит', 'следствие вели',
-        'пёс', 'скорая помощь', 'ты супер', 'индийск', 'bollywood', 'дорама',
-        'информацион', 'новост', 'религиоз', 'политик', 'россия 24', 'первый', 'нтв', 'вести',
-        'классика кино', 'мы из 90-х', 'vhs forever', 'кассета'
+    # Жесткий черный список: советские фильмы, "Кинозалы 1,2..", любительские стримы, новости, религия
+    exclude_patterns = [
+        r'кинозал[ыа]?\s*\d+',       # Кинозалы 1, Кинозалы 2 и т.д.
+        r'кино\s*\d+',               # Кино 1, Кино 2
+        r'вхс|vhs',
+        r'ссср|ussr',
+        r'90[-‑]?[хx]',
+        r'кассет[аы]',
+        r'ретро',
+        r'retrovision',
+        r'классик',
+        r'советск',
+        r'русск',
+        r'родное',
+        r'любимое',
+        r'наше',
+        r'мосфильм',
+        r'побед[аы]',
+        r'душевн',
+        r'дом кино',
+        r'следствие вели',
+        r'пёс',
+        r'скорая помощь',
+        r'ты супер',
+        r'индийск',
+        r'bollywood',
+        r'дорама',
+        r'информацион',
+        r'новост',
+        r'религиоз',
+        r'фильмоскоп',
+        r'тоха',
+        r'модерн',
+        r'ostorozhnomodern',
+        r'durkalive',
+        r'dimpon',
+        r'нтв сериал',
+        r'нтв хит',
+        r'start air',
+        r'старт',
+        r'мистер бин',
+        r'бенни хилл',
+        r'медздрав',
+        r'гурман',
+        r'новелла',
+        r'tvboom',
+        r'андийцы',
+        r'hgtn',
+        r'dunyo',
+        r'tv12',
+        r'смотрим',
+        r'всё тв',
+        r'igrocomp',
+        r'kycman',
+        r'zour',
+        r'priest',
+        r'nezabudka',
+        r'frxnkl1n',
+        r'х-tv',
+        r'kira_freak',
+        r'aisman',
+        r'swat2k',
+        r'wfliq',
+        r'chowamigo',
+        r'inmuna',
+        r'у края бездны',
+        r'1st_witch',
+        r'мир ехо',
+        r'аpricus',
+        r'россия 24',
+        r'первый',
+        r'нтв',
+        r'вести'
     ]
 
     for meta, url in ru_chans:
@@ -88,34 +151,33 @@ def main():
         group_m = re.search(r'group-title=\"([^\"]+)\"', header)
         group = group_m.group(1) if group_m else ''
         title = header.split(',')[-1].strip()
-        t_low = title.lower()
-        g_low = group.lower()
+        combined = f"{title} {group}".lower()
 
-        # Полная фильтрация по черному списку
-        if any(bad in t_low or bad in g_low for bad in exclude_keywords):
+        # Проверка по черному списку
+        if any(re.search(pat, combined, flags=re.I) for pat in exclude_patterns):
             continue
 
-        # 1. СОВРЕМЕННОЕ ЗАРУБЕЖНОЕ КИНО И КИНОЗАЛЫ
-        is_movie_channel = (
-            any(k in g_low for k in ['кино', 'kinowalk', 'catcast']) or
-            any(w in t_low for w in [
+        # 1. СОВРЕМЕННОЕ ЗАРУБЕЖНОЕ КИНО И СЕРИАЛЫ
+        is_movie = (
+            any(k in group.lower() for k in ['кино', 'kinowalk']) or
+            any(w in title.lower() for w in [
                 'tv1000', 'viju', 'amedia', 'fx', 'sci-fi', '.red', '.black',
-                'hollywood', 'иллюзион', 'остросюжет', 'премиальн', 'шокирующ',
+                'hollywood', 'иллюзион', 'премиальн', 'шокирующ', 'остросюжет',
                 'кинопремьера', 'кинохит', 'киномикс', 'киносемья', 'киносвидание',
                 'киноужас', 'кинокомедия', 'киносерия', 'мужское кино', 'кино тв',
-                'еврокино', 'cinema'
+                'еврокино', 'cinema', 'blockbuster', 'timeto', 'serial', 'movie'
             ])
         )
 
-        if is_movie_channel:
-            new_header = prepare_header(header, '🍿 Современное Зарубежное Кино и Кинозалы')
-            categories['🍿 Современное Зарубежное Кино и Кинозалы'].append(([new_header] + meta[1:], url))
+        if is_movie and not any(k in group.lower() for k in ['спорт', 'детск', 'развлекательн']):
+            new_header = prepare_header(header, '🍿 Современное Зарубежное Кино и Сериалы')
+            categories['🍿 Современное Зарубежное Кино и Сериалы'].append(([new_header] + meta[1:], url))
             continue
 
         # 2. РАЗВЛЕКАТЕЛЬНЫЕ КАНАЛЫ (ТНТ, СТС, Пятница и др.)
         is_ent = (
-            any(k in g_low for k in ['развлекательн']) or
-            any(t in t_low for t in ['тнт', 'стс', 'пятница', '2х2', 'тнт4', 'суббота', 'че'])
+            any(k in group.lower() for k in ['развлекательн']) or
+            any(t in title.lower() for t in ['тнт', 'стс', 'пятница', '2х2', 'тнт4', 'суббота', 'че'])
         )
         if is_ent:
             new_header = prepare_header(header, '🎉 Развлекательные')
@@ -123,14 +185,14 @@ def main():
             continue
 
         # 3. СПОРТ
-        is_sport = any(k in g_low for k in ['спорт']) or 'матч' in t_low or 'sport' in t_low
+        is_sport = any(k in group.lower() for k in ['спорт']) or 'матч' in title.lower() or 'sport' in title.lower()
         if is_sport:
             new_header = prepare_header(header, '⚽ Спорт')
             categories['⚽ Спорт'].append(([new_header] + meta[1:], url))
             continue
 
         # 4. ДЕТСКИЕ И МУЛЬТФИЛЬМЫ
-        is_kids = any(k in g_low for k in ['детск', 'мульт']) or any(m in t_low for m in ['мульт', 'карусель', 'kids', 'disney'])
+        is_kids = any(k in group.lower() for k in ['детск', 'мульт']) or any(m in title.lower() for m in ['мульт', 'карусель', 'kids', 'disney'])
         if is_kids:
             new_header = prepare_header(header, '👶 Мультфильмы и Детские')
             categories['👶 Мультфильмы и Детские'].append(([new_header] + meta[1:], url))
@@ -142,7 +204,7 @@ def main():
         new_header = prepare_header(header, '🇱🇻 Латвия')
         categories['🇱🇻 Латвия'].append(([new_header] + meta[1:], url))
 
-    # Сборка итогового M3U с указанием EPG в заголовке
+    # Сборка итогового файла с программой передач (EPG)
     epg_sources = [
         'https://iptvx.one/epg/epg.xml.gz',
         'http://epg.it999.ru/edem.xml.gz',
@@ -152,7 +214,6 @@ def main():
     total = 0
 
     with open(output_file, 'w', encoding='utf-8') as f:
-        # Указываем EPG телепрограмму для всех каналов
         f.write(f'#EXTM3U url-tvg="{",".join(epg_sources)}"\n')
         for cat_name, items in categories.items():
             print(f"{cat_name}: {len(items)} каналов")
