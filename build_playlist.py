@@ -64,17 +64,23 @@ def main():
     lv_chans = parse_m3u(lv_raw)
 
     categories = {
+        '😂 Ситкомы, Юмор и Шоу (Comedy, ТНТ4)': [],
         '🍿 Современное Зарубежное Кино и Сериалы': [],
-        '🎉 Развлекательные': [],
+        '🎉 Развлекательные (ТНТ, СТС, Пятница)': [],
         '⚽ Спорт': [],
         '👶 Мультфильмы и Детские': [],
         '🇱🇻 Латвия': []
     }
 
+    # Добавляем круглосуточный канал КВН ТВ
+    kvn_meta = ['#EXTINF:-1 tvg-name="КВН ТВ" tvg-id="kvn-tv" tvg-logo="https://epg.iptvx.one/picons/kvn-tv.png" group-title="😂 Ситкомы, Юмор и Шоу (Comedy, ТНТ4)",КВН ТВ']
+    kvn_url = 'https://fs.uplink.kz/kvn_tv/tracks-v1a1/mono.ts.m3u8?token=onlinetv'
+    categories['😂 Ситкомы, Юмор и Шоу (Comedy, ТНТ4)'].append((kvn_meta, kvn_url))
+
     # Жесткий черный список: советские фильмы, "Кинозалы 1,2..", любительские стримы, новости, религия
     exclude_patterns = [
-        r'кинозал[ыа]?\s*\d+',       # Кинозалы 1, Кинозалы 2 и т.д.
-        r'кино\s*\d+',               # Кино 1, Кино 2
+        r'кинозал[ыа]?\s*\d+',
+        r'кино\s*\d+',
         r'вхс|vhs',
         r'ссср|ussr',
         r'90[-‑]?[хx]',
@@ -151,16 +157,27 @@ def main():
         group_m = re.search(r'group-title=\"([^\"]+)\"', header)
         group = group_m.group(1) if group_m else ''
         title = header.split(',')[-1].strip()
+        t_low = title.lower()
         combined = f"{title} {group}".lower()
 
         # Проверка по черному списку
         if any(re.search(pat, combined, flags=re.I) for pat in exclude_patterns):
             continue
 
-        # 1. СОВРЕМЕННОЕ ЗАРУБЕЖНОЕ КИНО И СЕРИАЛЫ
+        # 1. СИТКОМЫ, ЮМОР И ШОУ (ТНТ4, СТС Love, КВН, Суббота, Че, 2х2)
+        is_comedy_show = (
+            any(k in t_low for k in ['тнт4', 'стс love', 'квн', 'юмор', 'comedy', 'анекдот']) or
+            bool(re.search(r'\b(че|суббота|2х2)\b', t_low))
+        )
+        if is_comedy_show:
+            new_header = prepare_header(header, '😂 Ситкомы, Юмор и Шоу (Comedy, ТНТ4)')
+            categories['😂 Ситкомы, Юмор и Шоу (Comedy, ТНТ4)'].append(([new_header] + meta[1:], url))
+            continue
+
+        # 2. СОВРЕМЕННОЕ ЗАРУБЕЖНОЕ КИНО И СЕРИАЛЫ
         is_movie = (
             any(k in group.lower() for k in ['кино', 'kinowalk']) or
-            any(w in title.lower() for w in [
+            any(w in t_low for w in [
                 'tv1000', 'viju', 'amedia', 'fx', 'sci-fi', '.red', '.black',
                 'hollywood', 'иллюзион', 'премиальн', 'шокирующ', 'остросюжет',
                 'кинопремьера', 'кинохит', 'киномикс', 'киносемья', 'киносвидание',
@@ -168,37 +185,36 @@ def main():
                 'еврокино', 'cinema', 'blockbuster', 'timeto', 'serial', 'movie'
             ])
         )
-
-        if is_movie and not any(k in group.lower() for k in ['спорт', 'детск', 'развлекательн']):
+        if is_movie and not any(k in group.lower() for k in ['спорт', 'детск']):
             new_header = prepare_header(header, '🍿 Современное Зарубежное Кино и Сериалы')
             categories['🍿 Современное Зарубежное Кино и Сериалы'].append(([new_header] + meta[1:], url))
             continue
 
-        # 2. РАЗВЛЕКАТЕЛЬНЫЕ КАНАЛЫ (ТНТ, СТС, Пятница и др.)
+        # 3. РАЗВЛЕКАТЕЛЬНЫЕ КАНАЛЫ (ТНТ, СТС, Пятница)
         is_ent = (
-            any(k in group.lower() for k in ['развлекательн']) or
-            any(t in title.lower() for t in ['тнт', 'стс', 'пятница', '2х2', 'тнт4', 'суббота', 'че'])
+            any(k in group.lower() for k in ['развлекательн', 'популярные', 'основные']) and
+            any(t in t_low for t in ['тнт', 'стс', 'пятница'])
         )
         if is_ent:
-            new_header = prepare_header(header, '🎉 Развлекательные')
-            categories['🎉 Развлекательные'].append(([new_header] + meta[1:], url))
+            new_header = prepare_header(header, '🎉 Развлекательные (ТНТ, СТС, Пятница)')
+            categories['🎉 Развлекательные (ТНТ, СТС, Пятница)'].append(([new_header] + meta[1:], url))
             continue
 
-        # 3. СПОРТ
-        is_sport = any(k in group.lower() for k in ['спорт']) or 'матч' in title.lower() or 'sport' in title.lower()
+        # 4. СПОРТ
+        is_sport = any(k in group.lower() for k in ['спорт']) or 'матч' in t_low or 'sport' in t_low
         if is_sport:
             new_header = prepare_header(header, '⚽ Спорт')
             categories['⚽ Спорт'].append(([new_header] + meta[1:], url))
             continue
 
-        # 4. ДЕТСКИЕ И МУЛЬТФИЛЬМЫ
-        is_kids = any(k in group.lower() for k in ['детск', 'мульт']) or any(m in title.lower() for m in ['мульт', 'карусель', 'kids', 'disney'])
+        # 5. ДЕТСКИЕ И МУЛЬТФИЛЬМЫ
+        is_kids = any(k in group.lower() for k in ['детск', 'мульт']) or any(m in t_low for m in ['мульт', 'карусель', 'kids', 'disney'])
         if is_kids:
             new_header = prepare_header(header, '👶 Мультфильмы и Детские')
             categories['👶 Мультфильмы и Детские'].append(([new_header] + meta[1:], url))
             continue
 
-    # 5. ЛАТВИЙСКИЕ КАНАЛЫ
+    # 6. ЛАТВИЙСКИЕ КАНАЛЫ
     for meta, url in lv_chans:
         header = meta[0]
         new_header = prepare_header(header, '🇱🇻 Латвия')

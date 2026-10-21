@@ -1,4 +1,52 @@
 #EXTM3U url-tvg="https://iptvx.one/epg/epg.xml.gz,http://epg.it999.ru/edem.xml.gz,https://iptv-org.github.io/epg/guides/lv/tet.lv.epg.xml"
+#EXTINF:-1 tvg-name="КВН ТВ" tvg-id="kvn-tv" tvg-logo="https://epg.iptvx.one/picons/kvn-tv.png" group-title="😂 Ситкомы, Юмор и Шоу (Comedy, ТНТ4)",КВН ТВ
+https://fs.uplink.kz/kvn_tv/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+#EXTINF:-1 tvg-name="Че" group-title="😂 Ситкомы, Юмор и Шоу (Comedy, ТНТ4)" tvg-id="che" tvg-logo="https://ngrch.github.io/iptv/logos/che.png", Че
+https://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/variant.m3u8
+#EXTINF:-1 tvg-name="Суббота" group-title="😂 Ситкомы, Юмор и Шоу (Comedy, ТНТ4)" tvg-id="super" tvg-logo="https://ngrch.github.io/iptv/logos/subbota.png", Суббота
+https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/variant.m3u8
+#EXTINF:-1 tvg-name="Суббота" group-title="😂 Ситкомы, Юмор и Шоу (Comedy, ТНТ4)" tvg-id="super" tvg-logo="https://ngrch.github.io/iptv/logos/subbota.png", Суббота (2)
+http://stream.mcquack.net/269/index.m3u8
+#EXTINF:-1 tvg-name="Суббота" group-title="😂 Ситкомы, Юмор и Шоу (Comedy, ТНТ4)" tvg-id="super" tvg-logo="https://ngrch.github.io/iptv/logos/subbota.png", Суббота (3)
+https://bl.rutube.ru/livestream/310744c10a5809da38aa445c952976da/index.m3u8?e=2066519758&s=dmUf6BUQzDBTwtQOseAfog&scheme=https
+#EXTINF:-1 tvg-name="ТНТ4" group-title="😂 Ситкомы, Юмор и Шоу (Comedy, ТНТ4)" tvg-id="tnt4" tvg-logo="https://ngrch.github.io/iptv/logos/tnt4.png", ТНТ4
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8
+#EXTINF:-1 tvg-name="ТНТ4" group-title="😂 Ситкомы, Юмор и Шоу (Comedy, ТНТ4)" tvg-id="tnt4" tvg-logo="https://ngrch.github.io/iptv/logos/tnt4.png", ТНТ4 (2)
+https://bl.rutube.ru/livestream/c801a7087e29a097192d74c270fbc6c1/index.m3u8?s=zhnm9INH7ysOhS2LQStm2A&e=2070623480&scheme=https
+#EXTINF:-1 tvg-name="СТС Love" group-title="😂 Ситкомы, Юмор и Шоу (Comedy, ТНТ4)" tvg-id="sts-love" tvg-logo="https://ngrch.github.io/iptv/logos/sts_love.png", СТС Love
+https://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE/variant.m3u8
+#EXTINF:-1 tvg-name="СТС Love" group-title="😂 Ситкомы, Юмор и Шоу (Comedy, ТНТ4)" tvg-id="sts-love" tvg-logo="https://ngrch.github.io/iptv/logos/sts_love.png", СТС Love (2)
+https://flussonic.mkpnet.ru/tv-b9f0884f9a81b8c6/video.m3u8
+#EXTINF:-1 tvg-name="СТС Love (+2)" group-title="😂 Ситкомы, Юмор и Шоу (Comedy, ТНТ4)" tvg-logo="https://ngrch.github.io/iptv/logos/sts_love.png", СТС Love (+2)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE_2/variant.m3u8
+#EXTINF:-1 tvg-name="СТС Love (+4)" group-title="😂 Ситкомы, Юмор и Шоу (Comedy, ТНТ4)" tvg-logo="https://ngrch.github.io/iptv/logos/sts_love.png", СТС Love (+4)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE_4/variant.m3u8
+#EXTINF:-1 tvg-name="Суббота (+2)" group-title="😂 Ситкомы, Юмор и Шоу (Comedy, ТНТ4)" tvg-logo="https://ngrch.github.io/iptv/logos/subbota.png", Суббота (+2)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_2/variant.m3u8
+#EXTINF:-1 tvg-name="Суббота (+4)" group-title="😂 Ситкомы, Юмор и Шоу (Comedy, ТНТ4)" tvg-logo="https://ngrch.github.io/iptv/logos/subbota.png", Суббота (+4)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_4/variant.m3u8
+#EXTINF:-1 tvg-name="Суббота (+7)" group-title="😂 Ситкомы, Юмор и Шоу (Comedy, ТНТ4)" tvg-logo="https://ngrch.github.io/iptv/logos/subbota.png", Суббота (+7)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_7/variant.m3u8
+#EXTINF:-1 tvg-name="ТНТ4 (+2)" group-title="😂 Ситкомы, Юмор и Шоу (Comedy, ТНТ4)" tvg-logo="https://ngrch.github.io/iptv/logos/tnt4.png", ТНТ4 (+2)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_2/variant.m3u8
+#EXTINF:-1 tvg-name="ТНТ4 (+4)" group-title="😂 Ситкомы, Юмор и Шоу (Comedy, ТНТ4)" tvg-logo="https://ngrch.github.io/iptv/logos/tnt4.png", ТНТ4 (+4)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_4/variant.m3u8
+#EXTINF:-1 tvg-name="ТНТ4 (+7)" group-title="😂 Ситкомы, Юмор и Шоу (Comedy, ТНТ4)" tvg-logo="https://ngrch.github.io/iptv/logos/tnt4.png", ТНТ4 (+7)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_7/variant.m3u8
+#EXTINF:-1 tvg-name="Че (+2)" group-title="😂 Ситкомы, Юмор и Шоу (Comedy, ТНТ4)" tvg-logo="https://ngrch.github.io/iptv/logos/che.png", Че (+2)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_CHE_2/variant.m3u8
+#EXTINF:-1 tvg-name="Че (+4)" group-title="😂 Ситкомы, Юмор и Шоу (Comedy, ТНТ4)" tvg-logo="https://ngrch.github.io/iptv/logos/che.png", Че (+4)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_CHE_4/variant.m3u8
+#EXTINF:-1 tvg-name="Че (+7)" group-title="😂 Ситкомы, Юмор и Шоу (Comedy, ТНТ4)" tvg-logo="https://ngrch.github.io/iptv/logos/che.png", Че (+7)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ_7/variant.m3u8
+#EXTINF:-1 tvg-name="Твоё ТВ Юмор" group-title="😂 Ситкомы, Юмор и Шоу (Comedy, ТНТ4)", Твоё ТВ Юмор
+http://tvoetv.space:8080/tvoetv_humor/index.m3u8
+#EXTINF:-1 tvg-name="Viju+ Comedy" group-title="😂 Ситкомы, Юмор и Шоу (Comedy, ТНТ4)", Viju+ Comedy
+https://stream8.cinerama.uz/1061/index.m3u8
+#EXTINF:-1 tvg-name="Viju+ Comedy" group-title="😂 Ситкомы, Юмор и Шоу (Comedy, ТНТ4)", Viju+ Comedy (2)
+http://stream.mcquack.net/201/index.m3u8
+#EXTINF:-1 tvg-name="Viasat Kino Comedy" group-title="😂 Ситкомы, Юмор и Шоу (Comedy, ТНТ4)", Viasat Kino Comedy
+http://ukr2.ukrainske.tv/493/video.m3u8
 #EXTINF:-1 tvg-name="Кинокомедия" group-title="🍿 Современное Зарубежное Кино и Сериалы" tvg-id="kinokomedia" tvg-logo="https://ngrch.github.io/iptv/logos/kinokomedia.png", Кинокомедия
 https://stream8.cinerama.uz/1232/index.m3u8
 #EXTINF:-1 tvg-name="Кинокомедия" group-title="🍿 Современное Зарубежное Кино и Сериалы" tvg-id="kinokomedia" tvg-logo="https://ngrch.github.io/iptv/logos/kinokomedia.png", Кинокомедия (2)
@@ -75,18 +123,12 @@ http://stream.mcquack.net/202/index.m3u8
 http://stream.mcquack.net/311/index.m3u8
 #EXTINF:-1 tvg-name="Viju+ Megahit" group-title="🍿 Современное Зарубежное Кино и Сериалы", Viju+ Megahit
 http://stream.mcquack.net/200/index.m3u8
-#EXTINF:-1 tvg-name="Viju+ Comedy" group-title="🍿 Современное Зарубежное Кино и Сериалы", Viju+ Comedy
-https://stream8.cinerama.uz/1061/index.m3u8
-#EXTINF:-1 tvg-name="Viju+ Comedy" group-title="🍿 Современное Зарубежное Кино и Сериалы", Viju+ Comedy (2)
-http://stream.mcquack.net/201/index.m3u8
 #EXTINF:-1 tvg-name="Amedia 1" group-title="🍿 Современное Зарубежное Кино и Сериалы", Amedia 1
 http://stream.mcquack.net/117/index.m3u8
 #EXTINF:-1 tvg-name="Amedia Hit" group-title="🍿 Современное Зарубежное Кино и Сериалы", Amedia Hit
 http://stream.mcquack.net/162/index.m3u8
 #EXTINF:-1 tvg-name="Amedia Premium" group-title="🍿 Современное Зарубежное Кино и Сериалы", Amedia Premium
 http://stream.mcquack.net/151/index.m3u8
-#EXTINF:-1 tvg-name="Viasat Kino Comedy" group-title="🍿 Современное Зарубежное Кино и Сериалы", Viasat Kino Comedy
-http://ukr2.ukrainske.tv/493/video.m3u8
 #EXTINF:-1 tvg-name="Star Cinema" group-title="🍿 Современное Зарубежное Кино и Сериалы", Star Cinema
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4158
 #EXTINF:-1 tvg-name="Star Family" group-title="🍿 Современное Зарубежное Кино и Сериалы", Star Family
@@ -255,152 +297,38 @@ https://cityeden.catcast.tv/content/41331/index.m3u8
 https://cityeden.catcast.tv/content/45268/index.m3u8
 #EXTINF:-1 tvg-name="Viju+ Planet" group-title="🍿 Современное Зарубежное Кино и Сериалы", Viju+ Planet
 http://stream.mcquack.net/240/index.m3u8
-#EXTINF:-1 tvg-name="СТС" group-title="🎉 Развлекательные" tvg-id="sts" tvg-logo="https://ngrch.github.io/iptv/logos/sts.png", СТС
+#EXTINF:-1 tvg-name="СТС" group-title="🎉 Развлекательные (ТНТ, СТС, Пятница)" tvg-id="sts" tvg-logo="https://ngrch.github.io/iptv/logos/sts.png", СТС
 https://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8
-#EXTINF:-1 tvg-name="СТС" group-title="🎉 Развлекательные" tvg-id="sts" tvg-logo="https://ngrch.github.io/iptv/logos/sts.png", СТС (2)
+#EXTINF:-1 tvg-name="СТС" group-title="🎉 Развлекательные (ТНТ, СТС, Пятница)" tvg-id="sts" tvg-logo="https://ngrch.github.io/iptv/logos/sts.png", СТС (2)
 http://stream.mcquack.net/138/index.m3u8
-#EXTINF:-1 tvg-name="Пятница" group-title="🎉 Развлекательные" tvg-id="piatnica" tvg-logo="https://ngrch.github.io/iptv/logos/pyatnica.png", Пятница
+#EXTINF:-1 tvg-name="Пятница" group-title="🎉 Развлекательные (ТНТ, СТС, Пятница)" tvg-id="piatnica" tvg-logo="https://ngrch.github.io/iptv/logos/pyatnica.png", Пятница
 https://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8
-#EXTINF:-1 tvg-name="Пятница" group-title="🎉 Развлекательные" tvg-id="piatnica" tvg-logo="https://ngrch.github.io/iptv/logos/pyatnica.png", Пятница (2)
+#EXTINF:-1 tvg-name="Пятница" group-title="🎉 Развлекательные (ТНТ, СТС, Пятница)" tvg-id="piatnica" tvg-logo="https://ngrch.github.io/iptv/logos/pyatnica.png", Пятница (2)
 http://stream.mcquack.net/181/index.m3u8
-#EXTINF:-1 tvg-name="ТНТ" group-title="🎉 Развлекательные" tvg-id="tnt" tvg-logo="https://ngrch.github.io/iptv/logos/tnt.png", ТНТ
+#EXTINF:-1 tvg-name="ТНТ" group-title="🎉 Развлекательные (ТНТ, СТС, Пятница)" tvg-id="tnt" tvg-logo="https://ngrch.github.io/iptv/logos/tnt.png", ТНТ
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8
-#EXTINF:-1 tvg-name="ТНТ" group-title="🎉 Развлекательные" tvg-id="tnt" tvg-logo="https://ngrch.github.io/iptv/logos/tnt.png", ТНТ (2)
+#EXTINF:-1 tvg-name="ТНТ" group-title="🎉 Развлекательные (ТНТ, СТС, Пятница)" tvg-id="tnt" tvg-logo="https://ngrch.github.io/iptv/logos/tnt.png", ТНТ (2)
 http://stream.mcquack.net/135/index.m3u8
-#EXTINF:-1 tvg-name="ТНТ" group-title="🎉 Развлекательные" tvg-id="tnt" tvg-logo="https://ngrch.github.io/iptv/logos/tnt.png", ТНТ (3)
+#EXTINF:-1 tvg-name="ТНТ" group-title="🎉 Развлекательные (ТНТ, СТС, Пятница)" tvg-id="tnt" tvg-logo="https://ngrch.github.io/iptv/logos/tnt.png", ТНТ (3)
 https://bl.rutube.ru/livestream/546602986e6a424d74d594876ddb3f04/index.m3u8?s=K-z3nz49R1oGQ-5yPSd8pg&e=2082157024&scheme=https
-#EXTINF:-1 tvg-name="СТС (+2)" group-title="🎉 Развлекательные" tvg-logo="https://ngrch.github.io/iptv/logos/sts.png", СТС (+2)
+#EXTINF:-1 tvg-name="СТС (+2)" group-title="🎉 Развлекательные (ТНТ, СТС, Пятница)" tvg-logo="https://ngrch.github.io/iptv/logos/sts.png", СТС (+2)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_STS_2/variant.m3u8
-#EXTINF:-1 tvg-name="СТС (+4)" group-title="🎉 Развлекательные" tvg-logo="https://ngrch.github.io/iptv/logos/sts.png", СТС (+4)
+#EXTINF:-1 tvg-name="СТС (+4)" group-title="🎉 Развлекательные (ТНТ, СТС, Пятница)" tvg-logo="https://ngrch.github.io/iptv/logos/sts.png", СТС (+4)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_STS_4/variant.m3u8
-#EXTINF:-1 tvg-name="СТС (+7)" group-title="🎉 Развлекательные" tvg-logo="https://ngrch.github.io/iptv/logos/sts.png", СТС (+7)
+#EXTINF:-1 tvg-name="СТС (+7)" group-title="🎉 Развлекательные (ТНТ, СТС, Пятница)" tvg-logo="https://ngrch.github.io/iptv/logos/sts.png", СТС (+7)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_STS_7/variant.m3u8
-#EXTINF:-1 tvg-name="Пятница (+2)" group-title="🎉 Развлекательные" tvg-logo="https://ngrch.github.io/iptv/logos/pyatnica.png", Пятница (+2)
+#EXTINF:-1 tvg-name="Пятница (+2)" group-title="🎉 Развлекательные (ТНТ, СТС, Пятница)" tvg-logo="https://ngrch.github.io/iptv/logos/pyatnica.png", Пятница (+2)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_FRIDAY_2/variant.m3u8
-#EXTINF:-1 tvg-name="Пятница (+4)" group-title="🎉 Развлекательные" tvg-logo="https://ngrch.github.io/iptv/logos/pyatnica.png", Пятница (+4)
+#EXTINF:-1 tvg-name="Пятница (+4)" group-title="🎉 Развлекательные (ТНТ, СТС, Пятница)" tvg-logo="https://ngrch.github.io/iptv/logos/pyatnica.png", Пятница (+4)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA_4/variant.m3u8
-#EXTINF:-1 tvg-name="Пятница (+7)" group-title="🎉 Развлекательные" tvg-logo="https://ngrch.github.io/iptv/logos/pyatnica.png", Пятница (+7)
+#EXTINF:-1 tvg-name="Пятница (+7)" group-title="🎉 Развлекательные (ТНТ, СТС, Пятница)" tvg-logo="https://ngrch.github.io/iptv/logos/pyatnica.png", Пятница (+7)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_FRIDAY_7/variant.m3u8
-#EXTINF:-1 tvg-name="ТНТ (+2)" group-title="🎉 Развлекательные" tvg-logo="https://ngrch.github.io/iptv/logos/tnt.png", ТНТ (+2)
+#EXTINF:-1 tvg-name="ТНТ (+2)" group-title="🎉 Развлекательные (ТНТ, СТС, Пятница)" tvg-logo="https://ngrch.github.io/iptv/logos/tnt.png", ТНТ (+2)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_2/variant.m3u8
-#EXTINF:-1 tvg-name="ТНТ (+4)" group-title="🎉 Развлекательные" tvg-logo="https://ngrch.github.io/iptv/logos/tnt.png", ТНТ (+4)
+#EXTINF:-1 tvg-name="ТНТ (+4)" group-title="🎉 Развлекательные (ТНТ, СТС, Пятница)" tvg-logo="https://ngrch.github.io/iptv/logos/tnt.png", ТНТ (+4)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_4/variant.m3u8
-#EXTINF:-1 tvg-name="ТНТ (+7)" group-title="🎉 Развлекательные" tvg-logo="https://ngrch.github.io/iptv/logos/tnt.png", ТНТ (+7)
+#EXTINF:-1 tvg-name="ТНТ (+7)" group-title="🎉 Развлекательные (ТНТ, СТС, Пятница)" tvg-logo="https://ngrch.github.io/iptv/logos/tnt.png", ТНТ (+7)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_7/variant.m3u8
-#EXTINF:-1 tvg-name="Че" group-title="🎉 Развлекательные" tvg-id="che" tvg-logo="https://ngrch.github.io/iptv/logos/che.png", Че
-https://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/variant.m3u8
-#EXTINF:-1 tvg-name="Суббота" group-title="🎉 Развлекательные" tvg-id="super" tvg-logo="https://ngrch.github.io/iptv/logos/subbota.png", Суббота
-https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/variant.m3u8
-#EXTINF:-1 tvg-name="Суббота" group-title="🎉 Развлекательные" tvg-id="super" tvg-logo="https://ngrch.github.io/iptv/logos/subbota.png", Суббота (2)
-http://stream.mcquack.net/269/index.m3u8
-#EXTINF:-1 tvg-name="Суббота" group-title="🎉 Развлекательные" tvg-id="super" tvg-logo="https://ngrch.github.io/iptv/logos/subbota.png", Суббота (3)
-https://bl.rutube.ru/livestream/310744c10a5809da38aa445c952976da/index.m3u8?e=2066519758&s=dmUf6BUQzDBTwtQOseAfog&scheme=https
-#EXTINF:-1 tvg-name="ТНТ4" group-title="🎉 Развлекательные" tvg-id="tnt4" tvg-logo="https://ngrch.github.io/iptv/logos/tnt4.png", ТНТ4
-https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8
-#EXTINF:-1 tvg-name="ТНТ4" group-title="🎉 Развлекательные" tvg-id="tnt4" tvg-logo="https://ngrch.github.io/iptv/logos/tnt4.png", ТНТ4 (2)
-https://bl.rutube.ru/livestream/c801a7087e29a097192d74c270fbc6c1/index.m3u8?s=zhnm9INH7ysOhS2LQStm2A&e=2070623480&scheme=https
-#EXTINF:-1 tvg-name="СТС Love" group-title="🎉 Развлекательные" tvg-id="sts-love" tvg-logo="https://ngrch.github.io/iptv/logos/sts_love.png", СТС Love
-https://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE/variant.m3u8
-#EXTINF:-1 tvg-name="СТС Love" group-title="🎉 Развлекательные" tvg-id="sts-love" tvg-logo="https://ngrch.github.io/iptv/logos/sts_love.png", СТС Love (2)
-https://flussonic.mkpnet.ru/tv-b9f0884f9a81b8c6/video.m3u8
-#EXTINF:-1 tvg-name="СТС Love (+2)" group-title="🎉 Развлекательные" tvg-logo="https://ngrch.github.io/iptv/logos/sts_love.png", СТС Love (+2)
-https://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE_2/variant.m3u8
-#EXTINF:-1 tvg-name="СТС Love (+4)" group-title="🎉 Развлекательные" tvg-logo="https://ngrch.github.io/iptv/logos/sts_love.png", СТС Love (+4)
-https://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE_4/variant.m3u8
-#EXTINF:-1 tvg-name="Суббота (+2)" group-title="🎉 Развлекательные" tvg-logo="https://ngrch.github.io/iptv/logos/subbota.png", Суббота (+2)
-https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_2/variant.m3u8
-#EXTINF:-1 tvg-name="Суббота (+4)" group-title="🎉 Развлекательные" tvg-logo="https://ngrch.github.io/iptv/logos/subbota.png", Суббота (+4)
-https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_4/variant.m3u8
-#EXTINF:-1 tvg-name="Суббота (+7)" group-title="🎉 Развлекательные" tvg-logo="https://ngrch.github.io/iptv/logos/subbota.png", Суббота (+7)
-https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_7/variant.m3u8
-#EXTINF:-1 tvg-name="ТНТ4 (+2)" group-title="🎉 Развлекательные" tvg-logo="https://ngrch.github.io/iptv/logos/tnt4.png", ТНТ4 (+2)
-https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_2/variant.m3u8
-#EXTINF:-1 tvg-name="ТНТ4 (+4)" group-title="🎉 Развлекательные" tvg-logo="https://ngrch.github.io/iptv/logos/tnt4.png", ТНТ4 (+4)
-https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_4/variant.m3u8
-#EXTINF:-1 tvg-name="ТНТ4 (+7)" group-title="🎉 Развлекательные" tvg-logo="https://ngrch.github.io/iptv/logos/tnt4.png", ТНТ4 (+7)
-https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_7/variant.m3u8
-#EXTINF:-1 tvg-name="Че (+2)" group-title="🎉 Развлекательные" tvg-logo="https://ngrch.github.io/iptv/logos/che.png", Че (+2)
-https://zabava-htlive.cdn.ngenix.net/hls/CH_CHE_2/variant.m3u8
-#EXTINF:-1 tvg-name="Че (+4)" group-title="🎉 Развлекательные" tvg-logo="https://ngrch.github.io/iptv/logos/che.png", Че (+4)
-https://zabava-htlive.cdn.ngenix.net/hls/CH_CHE_4/variant.m3u8
-#EXTINF:-1 tvg-name="Че (+7)" group-title="🎉 Развлекательные" tvg-logo="https://ngrch.github.io/iptv/logos/che.png", Че (+7)
-https://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ_7/variant.m3u8
-#EXTINF:-1 tvg-name="СТС Kids" group-title="🎉 Развлекательные", СТС Kids
-https://stream8.cinerama.uz/1437/index.m3u8
-#EXTINF:-1 tvg-name="СТС Kids" group-title="🎉 Развлекательные", СТС Kids (2)
-http://stream.mcquack.net/197/index.m3u8
-#EXTINF:-1 tvg-name="Продвижение" group-title="🎉 Развлекательные", Продвижение
-http://origin5.mediacdn.ru/live/prodvizhenie_new/index.m3u8
-#EXTINF:-1 tvg-name="Продвижение" group-title="🎉 Развлекательные", Продвижение (2)
-https://prodvizhenie.mediacdn.ru/cdn/prodvizhenie/playlist.m3u8
-#EXTINF:-1 tvg-name="Ностальгия" group-title="🎉 Развлекательные", Ностальгия
-http://176.118.197.101/Nostalgiya/index.m3u8
-#EXTINF:-1 tvg-name="Твоё ТВ" group-title="🎉 Развлекательные", Твоё ТВ
-https://tvoetv.space/tvoetv/index.m3u8
-#EXTINF:-1 tvg-name="Твоё ТВ Юмор" group-title="🎉 Развлекательные", Твоё ТВ Юмор
-http://tvoetv.space:8080/tvoetv_humor/index.m3u8
-#EXTINF:-1 tvg-name="Перец" group-title="🎉 Развлекательные", Перец
-http://stream.mcquack.net/121/index.m3u8
-#EXTINF:-1 tvg-name="TLC" group-title="🎉 Развлекательные", TLC
-http://stream.mcquack.net/168/index.m3u8
-#EXTINF:-1 tvg-name="Сарафан" group-title="🎉 Развлекательные", Сарафан
-https://stream8.cinerama.uz/1249/index.m3u8
-#EXTINF:-1 tvg-name="Сарафан" group-title="🎉 Развлекательные", Сарафан (2)
-http://stream.mcquack.net/81/index.m3u8
-#EXTINF:-1 tvg-name="Теледом" group-title="🎉 Развлекательные", Теледом
-http://iam-profi.ru/hls-live/livepkgr/_definst_/liveevent/td720.m3u8
-#EXTINF:-1 tvg-name="Тео-ТВ" group-title="🎉 Развлекательные", Тео-ТВ
-https://stream.teotv.ru/live/site360/playlist.m3u8
-#EXTINF:-1 tvg-name="Fashion" group-title="🎉 Развлекательные", Fashion
-https://stream8.cinerama.uz/1053/index.m3u8
-#EXTINF:-1 tvg-name="Fashion" group-title="🎉 Развлекательные", Fashion (2)
-https://lbgo.bozztv.com/07/ushba93/index.m3u8
-#EXTINF:-1 tvg-name="Fashion" group-title="🎉 Развлекательные", Fashion (3)
-https://fashionlive.mediacdn.ru/cdn/fashiontv/index.m3u8
-#EXTINF:-1 tvg-name="World Fashion" group-title="🎉 Развлекательные", World Fashion
-http://live-3.otcnet.ru/wfcrus/index.m3u8
-#EXTINF:-1 tvg-name="World Fashion" group-title="🎉 Развлекательные", World Fashion (2)
-https://cdn.wfc.tv/cdn/stream-rus.m3u8
-#EXTINF:-1 tvg-name="Luxury" group-title="🎉 Развлекательные", Luxury
-https://s1.tv-nano.com/Luxury_rec/video.m3u8
-#EXTINF:-1 tvg-name="7 TV" group-title="🎉 Развлекательные", 7 TV
-https://v4.proofix.ru/7tv-live/index.m3u8
-#EXTINF:-1 tvg-name="Толк" group-title="🎉 Развлекательные", Толк
-https://rt-sib-bul-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_BUL_TOLK/variant.m3u8
-#EXTINF:-1 tvg-name="Толк" group-title="🎉 Развлекательные", Толк (2)
-https://live-tolknews.cdnvideo.ru/tolknews/stream/playlist.m3u8
-#EXTINF:-1 tvg-name="RuTube" group-title="🎉 Развлекательные", RuTube
-https://bl.rutube.ru/livestream/9ae8e8a6dc58bdad66190475f9872ecd/index.m3u8?s=U_og5iHG6xVp0V3KXYMB0g&e=2070623479&scheme=https
-#EXTINF:-1 tvg-name="Инсайт" group-title="🎉 Развлекательные", Инсайт
-https://stream8.cinerama.uz/1416/index.m3u8
-#EXTINF:-1 tvg-name="Инсайт" group-title="🎉 Развлекательные", Инсайт (2)
-http://stream.mcquack.net/361/index.m3u8
-#EXTINF:-1 tvg-name="Gagsnetwork" group-title="🎉 Развлекательные", Gagsnetwork
-http://stream.mcquack.net/458/index.m3u8
-#EXTINF:-1 tvg-name="PV+" group-title="🎉 Развлекательные", PV+
-http://stream.mcquack.net/397/index.m3u8
-#EXTINF:-1 tvg-name="Приключения" group-title="🎉 Развлекательные", Приключения
-https://stream8.cinerama.uz/1420/index.m3u8
-#EXTINF:-1 tvg-name="Приключения" group-title="🎉 Развлекательные", Приключения (2)
-http://stream.mcquack.net/198/index.m3u8
-#EXTINF:-1 tvg-name="31 канал | Челябинск" group-title="🎉 Развлекательные", 31 канал | Челябинск
-http://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_OTT_31TVK_CHEL/variant.m3u8
-#EXTINF:-1 tvg-name="ОТВ | Челябинск" group-title="🎉 Развлекательные", ОТВ | Челябинск
-https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R02_OTT_OTV_CHEL/variant.m3u8
-#EXTINF:-1 tvg-name="УРАЛ1 | Челябинск" group-title="🎉 Развлекательные", УРАЛ1 | Челябинск
-http://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R02_OTT_URAL1/variant.m3u8
-#EXTINF:-1 tvg-name="ТВ-ИН | Челябинск" group-title="🎉 Развлекательные", ТВ-ИН | Челябинск
-https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_TVIN_MAGN/variant.m3u8
-#EXTINF:-1 tvg-name="Архыз 24 | Карачаево-Черкесия" group-title="🎉 Развлекательные", Архыз 24 | Карачаево-Черкесия
-https://live.mediacdn.ru/sr1/arhis24/playlist.m3u8
-#EXTINF:-1 tvg-name="Архыз 24| Карачаево-Черкесия" group-title="🎉 Развлекательные", Архыз 24 (2) | Карачаево-Черкесия
-https://live.mediacdn.ru/sr1/arhis24/playlist_hdhigh.m3u8
-#EXTINF:-1 tvg-name="Архыз 24| Карачаево-Черкесия" group-title="🎉 Развлекательные", Архыз 24 (3) | Карачаево-Черкесия
-https://rt-sth-cherks-htlive.cdn.ngenix.net/hls/CH_R03_ARKHIZ241/variant.m3u8
-#EXTINF:-1 tvg-name="Архыз 24 Light | Карачаево-Черкесия" group-title="🎉 Развлекательные", Архыз 24 Light | Карачаево-Черкесия
-http://rt-sth-cherks-htlive.cdn.ngenix.net/hls/CH_R03_OTT_STH_CHERKS_ARKHIZ24LITE/variant.m3u8
-#EXTINF:-1 tvg-name="Грозный | Чеченская республика" group-title="🎉 Развлекательные", Грозный | Чеченская республика
-https://balancer.facecast.io/evacoder_hls_hi/UUMLQVAYVlZyH14GRENQVV0G/2/1.m3u8
 #EXTINF:-1 tvg-name="Матч!" group-title="⚽ Спорт" tvg-id="match-tv" tvg-logo="https://ngrch.github.io/iptv/logos/match.png", Матч!
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8
 #EXTINF:-1 tvg-name="Матч!" group-title="⚽ Спорт" tvg-id="match-tv" tvg-logo="https://ngrch.github.io/iptv/logos/match.png", Матч! (2)
@@ -499,6 +427,10 @@ https://stream8.cinerama.uz/1246/index.m3u8
 https://lbgo.bozztv.com/07/ushba79/index.m3u8
 #EXTINF:-1 tvg-name="Мультфильмы" group-title="👶 Мультфильмы и Детские", Мультфильмы
 https://lbgo.bozztv.com/07/ushba80/index.m3u8
+#EXTINF:-1 tvg-name="СТС Kids" group-title="👶 Мультфильмы и Детские", СТС Kids
+https://stream8.cinerama.uz/1437/index.m3u8
+#EXTINF:-1 tvg-name="СТС Kids" group-title="👶 Мультфильмы и Детские", СТС Kids (2)
+http://stream.mcquack.net/197/index.m3u8
 #EXTINF:-1 tvg-name="Fan" group-title="👶 Мультфильмы и Детские", Fan
 http://stream.mcquack.net/420/index.m3u8
 #EXTINF:-1 tvg-name="Мама" group-title="👶 Мультфильмы и Детские", Мама
