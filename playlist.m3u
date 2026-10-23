@@ -303,27 +303,27 @@ https://bl.rutube.ru/livestream/c801a7087e29a097192d74c270fbc6c1/index.m3u8?s=zh
 https://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE/variant.m3u8
 #EXTINF:-1 tvg-name="СТС Love" group-title="🎉 Развлекательные" tvg-id="sts-love" tvg-logo="https://ngrch.github.io/iptv/logos/sts_love.png", СТС Love (2)
 https://flussonic.mkpnet.ru/tv-b9f0884f9a81b8c6/video.m3u8
-#EXTINF:-1 tvg-name="СТС Love (+2)" group-title="🎉 Развлекательные" tvg-logo="https://ngrch.github.io/iptv/logos/sts_love.png", СТС Love (+2)
+#EXTINF:-1 tvg-name="СТС Love +2" group-title="🎉 Развлекательные" tvg-id="sts-love-pl2" tvg-logo="https://ngrch.github.io/iptv/logos/sts_love.png", СТС Love +2
 https://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE_2/variant.m3u8
-#EXTINF:-1 tvg-name="СТС Love (+4)" group-title="🎉 Развлекательные" tvg-logo="https://ngrch.github.io/iptv/logos/sts_love.png", СТС Love (+4)
+#EXTINF:-1 tvg-name="СТС Love +4" group-title="🎉 Развлекательные" tvg-id="sts-love-pl4" tvg-logo="https://ngrch.github.io/iptv/logos/sts_love.png", СТС Love +4
 https://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE_4/variant.m3u8
-#EXTINF:-1 tvg-name="Суббота (+2)" group-title="🎉 Развлекательные" tvg-logo="https://ngrch.github.io/iptv/logos/subbota.png", Суббота (+2)
+#EXTINF:-1 tvg-name="Суббота +2" group-title="🎉 Развлекательные" tvg-id="super-pl2" tvg-logo="https://ngrch.github.io/iptv/logos/subbota.png", Суббота +2
 https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_2/variant.m3u8
-#EXTINF:-1 tvg-name="Суббота (+4)" group-title="🎉 Развлекательные" tvg-logo="https://ngrch.github.io/iptv/logos/subbota.png", Суббота (+4)
+#EXTINF:-1 tvg-name="Суббота +4" group-title="🎉 Развлекательные" tvg-id="super-pl4" tvg-logo="https://ngrch.github.io/iptv/logos/subbota.png", Суббота +4
 https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_4/variant.m3u8
-#EXTINF:-1 tvg-name="Суббота (+7)" group-title="🎉 Развлекательные" tvg-logo="https://ngrch.github.io/iptv/logos/subbota.png", Суббота (+7)
+#EXTINF:-1 tvg-name="Суббота +7" group-title="🎉 Развлекательные" tvg-id="super-pl7" tvg-logo="https://ngrch.github.io/iptv/logos/subbota.png", Суббота +7
 https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_7/variant.m3u8
-#EXTINF:-1 tvg-name="ТНТ4 (+2)" group-title="🎉 Развлекательные" tvg-logo="https://ngrch.github.io/iptv/logos/tnt4.png", ТНТ4 (+2)
+#EXTINF:-1 tvg-name="ТНТ4 +2" group-title="🎉 Развлекательные" tvg-id="tnt4-pl2" tvg-logo="https://ngrch.github.io/iptv/logos/tnt4.png", ТНТ4 +2
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_2/variant.m3u8
-#EXTINF:-1 tvg-name="ТНТ4 (+4)" group-title="🎉 Развлекательные" tvg-logo="https://ngrch.github.io/iptv/logos/tnt4.png", ТНТ4 (+4)
+#EXTINF:-1 tvg-name="ТНТ4 +4" group-title="🎉 Развлекательные" tvg-id="tnt4-pl4" tvg-logo="https://ngrch.github.io/iptv/logos/tnt4.png", ТНТ4 +4
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_4/variant.m3u8
-#EXTINF:-1 tvg-name="ТНТ4 (+7)" group-title="🎉 Развлекательные" tvg-logo="https://ngrch.github.io/iptv/logos/tnt4.png", ТНТ4 (+7)
+#EXTINF:-1 tvg-name="ТНТ4 +7" group-title="🎉 Развлекательные" tvg-id="tnt4-pl7" tvg-logo="https://ngrch.github.io/iptv/logos/tnt4.png", ТНТ4 +7
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_7/variant.m3u8
-#EXTINF:-1 tvg-name="Че (+2)" group-title="🎉 Развлекательные" tvg-logo="https://ngrch.github.io/iptv/logos/che.png", Че (+2)
+#EXTINF:-1 tvg-name="Че +2" group-title="🎉 Развлекательные" tvg-id="che-pl2" tvg-logo="https://ngrch.github.io/iptv/logos/che.png", Че +2
 https://zabava-htlive.cdn.ngenix.net/hls/CH_CHE_2/variant.m3u8
-#EXTINF:-1 tvg-name="Че (+4)" group-title="🎉 Развлекательные" tvg-logo="https://ngrch.github.io/iptv/logos/che.png", Че (+4)
+#EXTINF:-1 tvg-name="Че +4" group-title="🎉 Развлекательные" tvg-id="che-pl4" tvg-logo="https://ngrch.github.io/iptv/logos/che.png", Че +4
 https://zabava-htlive.cdn.ngenix.net/hls/CH_CHE_4/variant.m3u8
-#EXTINF:-1 tvg-name="Че (+7)" group-title="🎉 Развлекательные" tvg-logo="https://ngrch.github.io/iptv/logos/che.png", Че (+7)
+#EXTINF:-1 tvg-name="Че +7" group-title="🎉 Развлекательные" tvg-id="che-pl7" tvg-logo="https://ngrch.github.io/iptv/logos/che.png", Че +7
 https://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ_7/variant.m3u8
 #EXTINF:-1 tvg-name="СТС Kids" group-title="🎉 Развлекательные", СТС Kids
 https://stream8.cinerama.uz/1437/index.m3u8
