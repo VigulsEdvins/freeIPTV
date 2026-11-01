@@ -15,22 +15,6 @@ https://stream8.cinerama.uz/1225/index.m3u8
 http://stream.mcquack.net/100/index.m3u8
 #EXTINF:-1 tvg-name="Viju TV1000 Action" group-title="🍿 Современное Зарубежное Кино и Сериалы" tvg-id="tv1000-action" tvg-logo="https://ngrch.github.io/iptv/logos/viju_action.png", Viju TV1000 Action (3)
 https://flussonic.mkpnet.ru/tv-0991ea2ac6292de8/video.m3u8
-#EXTINF:-1 tvg-name="Viju Explore" group-title="🍿 Современное Зарубежное Кино и Сериалы" tvg-id="viasat-explore" tvg-logo="https://ngrch.github.io/iptv/logos/viju_explore.png", Viju Explore
-http://stream.mcquack.net/239/index.m3u8
-#EXTINF:-1 tvg-name="Viju Explore" group-title="🍿 Современное Зарубежное Кино и Сериалы" tvg-id="viasat-explore" tvg-logo="https://ngrch.github.io/iptv/logos/viju_explore.png", Viju Explore (2)
-https://flussonic.mkpnet.ru/tv-7c57a4c3f9a896ea/video.m3u8
-#EXTINF:-1 tvg-name="Viju History" group-title="🍿 Современное Зарубежное Кино и Сериалы" tvg-id="viasat-history" tvg-logo="https://ngrch.github.io/iptv/logos/viju_history.png", Viju History
-https://stream8.cinerama.uz/1046/index.m3u8
-#EXTINF:-1 tvg-name="Viju History" group-title="🍿 Современное Зарубежное Кино и Сериалы" tvg-id="viasat-history" tvg-logo="https://ngrch.github.io/iptv/logos/viju_history.png", Viju History (2)
-http://stream.mcquack.net/101/index.m3u8
-#EXTINF:-1 tvg-name="Viju History" group-title="🍿 Современное Зарубежное Кино и Сериалы" tvg-id="viasat-history" tvg-logo="https://ngrch.github.io/iptv/logos/viju_history.png", Viju History (3)
-http://178.124.179.122/HistoryHD/index.m3u8
-#EXTINF:-1 tvg-name="Viju History" group-title="🍿 Современное Зарубежное Кино и Сериалы" tvg-id="viasat-history" tvg-logo="https://ngrch.github.io/iptv/logos/viju_history.png", Viju History (4)
-http://flussonic.mkpnet.ru/tv-687ba838ca927b9a/video.m3u8
-#EXTINF:-1 tvg-name="Viju Nature" group-title="🍿 Современное Зарубежное Кино и Сериалы" tvg-id="viasat-nature" tvg-logo="https://ngrch.github.io/iptv/logos/viju_nature.png", Viju Nature
-https://flussonic.mkpnet.ru/tv-7a85ea25208f5bf7/video.m3u8
-#EXTINF:-1 tvg-name="Viju Nature" group-title="🍿 Современное Зарубежное Кино и Сериалы" tvg-id="viasat-nature" tvg-logo="https://ngrch.github.io/iptv/logos/viju_nature.png", Viju Nature (2)
-https://stream8.cinerama.uz/1228/index.m3u8
 #EXTINF:-1 tvg-name="Кинопремьера" group-title="🍿 Современное Зарубежное Кино и Сериалы" tvg-id="kinopremiera-hd" tvg-logo="https://ngrch.github.io/iptv/logos/kinopremiera.png", Кинопремьера
 http://5.188.159.128:8070/KINOPREMIERA/index.m3u8
 #EXTINF:-1 tvg-name="Кинопремьера" group-title="🍿 Современное Зарубежное Кино и Сериалы" tvg-id="kinopremiera-hd" tvg-logo="https://ngrch.github.io/iptv/logos/kinopremiera.png", Кинопремьера (2)
@@ -41,16 +25,14 @@ https://stream8.cinerama.uz/1207/index.m3u8
 http://stream.mcquack.net/126/index.m3u8
 #EXTINF:-1 tvg-name="Кинохит" group-title="🍿 Современное Зарубежное Кино и Сериалы" tvg-id="kinoxit-int" tvg-logo="https://ngrch.github.io/iptv/logos/kinohit.png", Кинохит International
 https://stream8.cinerama.uz/1055/index.m3u8
-#EXTINF:-1 tvg-name="Киносерия" group-title="🍿 Современное Зарубежное Кино и Сериалы" tvg-id="kinoseria" tvg-logo="https://ngrch.github.io/iptv/logos/kinoseria.png", Киносерия
-https://stream8.cinerama.uz/1235/index.m3u8
-#EXTINF:-1 tvg-name="Киносерия" group-title="🍿 Современное Зарубежное Кино и Сериалы" tvg-id="kinoseria" tvg-logo="https://ngrch.github.io/iptv/logos/kinoseria.png", Киносерия (2)
-http://176.118.197.101/Kinoseria/index.m3u8
 #EXTINF:-1 tvg-name="Cinema" group-title="🍿 Современное Зарубежное Кино и Сериалы" tvg-id="cinema-ru" tvg-logo="https://ngrch.github.io/iptv/logos/cinema.png", Cinema
 http://176.118.197.101/Cinema/index.m3u8
 #EXTINF:-1 tvg-name="Cinema" group-title="🍿 Современное Зарубежное Кино и Сериалы" tvg-id="cinema-ru" tvg-logo="https://ngrch.github.io/iptv/logos/cinema.png", Cinema (2)
 https://stream8.cinerama.uz/1227/index.m3u8
 #EXTINF:-1 tvg-name="Мужское кино" group-title="🍿 Современное Зарубежное Кино и Сериалы" tvg-id="muzhskoe-kino" tvg-logo="https://ngrch.github.io/iptv/logos/muzhskoe.png", Мужское кино
 https://stream8.cinerama.uz/1237/index.m3u8
+#EXTINF:-1 tvg-name="Мужское кино" group-title="🍿 Современное Зарубежное Кино и Сериалы" tvg-id="muzhskoe-kino" tvg-logo="https://ngrch.github.io/iptv/logos/muzhskoe.png", Мужское кино (2)
+http://stream.mcquack.net/107/index.m3u8
 #EXTINF:-1 tvg-name=".black" group-title="🍿 Современное Зарубежное Кино и Сериалы", .black
 http://stream.mcquack.net/263/index.m3u8
 #EXTINF:-1 tvg-name=".Red" group-title="🍿 Современное Зарубежное Кино и Сериалы", .Red
@@ -69,26 +51,12 @@ http://176.118.197.101/KinoTvHD/index.m3u8
 http://tv.tuva.ru/ovaa/index.m3u8
 #EXTINF:-1 tvg-name="Viju+ Premiere" group-title="🍿 Современное Зарубежное Кино и Сериалы", Viju+ Premiere
 http://stream.mcquack.net/202/index.m3u8
-#EXTINF:-1 tvg-name="Viju+ Serial" group-title="🍿 Современное Зарубежное Кино и Сериалы", Viju+ Serial
-http://stream.mcquack.net/311/index.m3u8
 #EXTINF:-1 tvg-name="Viju+ Megahit" group-title="🍿 Современное Зарубежное Кино и Сериалы", Viju+ Megahit
 http://stream.mcquack.net/200/index.m3u8
 #EXTINF:-1 tvg-name="Viju+ Comedy" group-title="🍿 Современное Зарубежное Кино и Сериалы", Viju+ Comedy
 https://stream8.cinerama.uz/1061/index.m3u8
 #EXTINF:-1 tvg-name="Viju+ Comedy" group-title="🍿 Современное Зарубежное Кино и Сериалы", Viju+ Comedy (2)
 http://stream.mcquack.net/201/index.m3u8
-#EXTINF:-1 tvg-name="Amedia 1" group-title="🍿 Современное Зарубежное Кино и Сериалы", Amedia 1
-http://stream.mcquack.net/117/index.m3u8
-#EXTINF:-1 tvg-name="Amedia Hit" group-title="🍿 Современное Зарубежное Кино и Сериалы", Amedia Hit
-http://stream.mcquack.net/162/index.m3u8
-#EXTINF:-1 tvg-name="Amedia Premium" group-title="🍿 Современное Зарубежное Кино и Сериалы", Amedia Premium
-http://stream.mcquack.net/151/index.m3u8
-#EXTINF:-1 tvg-name="Viasat Kino Comedy" group-title="🍿 Современное Зарубежное Кино и Сериалы", Viasat Kino Comedy
-http://ukr2.ukrainske.tv/493/video.m3u8
-#EXTINF:-1 tvg-name="Star Cinema" group-title="🍿 Современное Зарубежное Кино и Сериалы", Star Cinema
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=4158
-#EXTINF:-1 tvg-name="Star Family" group-title="🍿 Современное Зарубежное Кино и Сериалы", Star Family
-https://dash2.antik.sk/live/test_star_family_atktv/playlist.m3u8
 #EXTINF:-1 tvg-name="Комедия" group-title="🍿 Современное Зарубежное Кино и Сериалы", Комедия
 http://176.118.197.101/Komediya/index.m3u8
 #EXTINF:-1 tvg-name="Комедия" group-title="🍿 Современное Зарубежное Кино и Сериалы", Комедия (2)
@@ -123,8 +91,6 @@ http://stream.mcquack.net/170/index.m3u8
 http://185.121.1.163:8083/Kinosemya/index.m3u8
 #EXTINF:-1 tvg-name="Киноман" group-title="🍿 Современное Зарубежное Кино и Сериалы", Киноман
 http://185.121.1.163:8083/Kinoman/index.m3u8
-#EXTINF:-1 tvg-name="Киносезон" group-title="🍿 Современное Зарубежное Кино и Сериалы", Киносезон
-https://stitch.teletarget.ru/vintera/movieseason/index.m3u8
 #EXTINF:-1 tvg-name="КиноМеню" group-title="🍿 Современное Зарубежное Кино и Сериалы", КиноМеню
 https://stitch.teletarget.ru/vintera/kinomenu/index.m3u8
 #EXTINF:-1 tvg-name="Кинопоказ" group-title="🍿 Современное Зарубежное Кино и Сериалы", Кинопоказ
@@ -137,8 +103,6 @@ http://176.118.197.101/Kinopokaz/index.m3u8
 https://stream8.cinerama.uz/1443/index.m3u8
 #EXTINF:-1 tvg-name="Иллюзион+" group-title="🍿 Современное Зарубежное Кино и Сериалы", Иллюзион+
 http://176.118.197.101/Illuzion+/index.m3u8
-#EXTINF:-1 tvg-name="Сапфир" group-title="🍿 Современное Зарубежное Кино и Сериалы", Сапфир
-http://stream.mcquack.net/107/index.m3u8
 #EXTINF:-1 tvg-name="Еврокино" group-title="🍿 Современное Зарубежное Кино и Сериалы", Еврокино
 http://176.118.197.101/Evrokino/index.m3u8
 #EXTINF:-1 tvg-name="Еврокино" group-title="🍿 Современное Зарубежное Кино и Сериалы", Еврокино (2)
@@ -149,16 +113,68 @@ http://stream.mcquack.net/363/index.m3u8
 http://stream.mcquack.net/73/index.m3u8
 #EXTINF:-1 tvg-name="Blokbaster" group-title="🍿 Современное Зарубежное Кино и Сериалы", Blokbaster
 http://stream.mcquack.net/364/index.m3u8
-#EXTINF:-1 tvg-name="ТВ21" group-title="🍿 Современное Зарубежное Кино и Сериалы", ТВ21
-http://stream.mcquack.net/152/index.m3u8
+#EXTINF:-1 tvg-name="Техно 24 Т24" group-title="🍿 Современное Зарубежное Кино и Сериалы", Техно 24 Т24
+https://stream8.cinerama.uz/1037/index.m3u8
+#EXTINF:-1 tvg-name="Арсенал" group-title="🍿 Современное Зарубежное Кино и Сериалы", Арсенал
+https://stream8.cinerama.uz/1414/index.m3u8
 #EXTINF:-1 tvg-name="Арт" group-title="🍿 Современное Зарубежное Кино и Сериалы", Арт
 http://185.23.80.23:8080/ART/index.m3u8
-#EXTINF:-1 tvg-name="Тайна" group-title="🍿 Современное Зарубежное Кино и Сериалы", Тайна
-https://bl.rutube.ru/livestream/a11c890a0ec0730ad33bdaaf2d244e1a/index.m3u8?s=hCc3BqSwghCQ0GRhDJ967A&e=2070623490&scheme=https
-#EXTINF:-1 tvg-name="KinoLiving" group-title="🍿 Современное Зарубежное Кино и Сериалы", KinoLiving
-http://stream.mcquack.net/445/index.m3u8
 #EXTINF:-1 tvg-name="Fresh Fantastic" group-title="🍿 Современное Зарубежное Кино и Сериалы", Fresh Fantastic
 http://stream.mcquack.net/429/index.m3u8
+#EXTINF:-1 tvg-name="Киносерия" group-title="🍿 Современное Зарубежное Кино и Сериалы" tvg-id="kinoseria" tvg-logo="https://ngrch.github.io/iptv/logos/kinoseria.png", Киносерия
+https://stream8.cinerama.uz/1235/index.m3u8
+#EXTINF:-1 tvg-name="Киносерия" group-title="🍿 Современное Зарубежное Кино и Сериалы" tvg-id="kinoseria" tvg-logo="https://ngrch.github.io/iptv/logos/kinoseria.png", Киносерия (2)
+http://176.118.197.101/Kinoseria/index.m3u8
+#EXTINF:-1 tvg-name="Телекафе" group-title="🍿 Современное Зарубежное Кино и Сериалы", Телекафе
+https://stream8.cinerama.uz/1035/index.m3u8
+#EXTINF:-1 tvg-name="Viju+ Serial" group-title="🍿 Современное Зарубежное Кино и Сериалы", Viju+ Serial
+http://stream.mcquack.net/311/index.m3u8
+#EXTINF:-1 tvg-name="Amedia 1" group-title="🍿 Современное Зарубежное Кино и Сериалы", Amedia 1
+http://stream.mcquack.net/117/index.m3u8
+#EXTINF:-1 tvg-name="Amedia Hit" group-title="🍿 Современное Зарубежное Кино и Сериалы", Amedia Hit
+http://stream.mcquack.net/162/index.m3u8
+#EXTINF:-1 tvg-name="Amedia Premium" group-title="🍿 Современное Зарубежное Кино и Сериалы", Amedia Premium
+http://stream.mcquack.net/151/index.m3u8
+#EXTINF:-1 tvg-name="Star Cinema" group-title="🍿 Современное Зарубежное Кино и Сериалы", Star Cinema
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4158
+#EXTINF:-1 tvg-name="Star Family" group-title="🍿 Современное Зарубежное Кино и Сериалы", Star Family
+https://dash2.antik.sk/live/test_star_family_atktv/playlist.m3u8
+#EXTINF:-1 tvg-name="Киносезон" group-title="🍿 Современное Зарубежное Кино и Сериалы", Киносезон
+https://stitch.teletarget.ru/vintera/movieseason/index.m3u8
+#EXTINF:-1 tvg-name="ТВ21" group-title="🍿 Современное Зарубежное Кино и Сериалы", ТВ21
+http://stream.mcquack.net/152/index.m3u8
+#EXTINF:-1 tvg-name="KinoLiving" group-title="🍿 Современное Зарубежное Кино и Сериалы", KinoLiving
+http://stream.mcquack.net/445/index.m3u8
+#EXTINF:-1 tvg-name="Viju History" group-title="🍿 Современное Зарубежное Кино и Сериалы" tvg-id="viasat-history" tvg-logo="https://ngrch.github.io/iptv/logos/viju_history.png", Viju History
+https://stream8.cinerama.uz/1046/index.m3u8
+#EXTINF:-1 tvg-name="Viju History" group-title="🍿 Современное Зарубежное Кино и Сериалы" tvg-id="viasat-history" tvg-logo="https://ngrch.github.io/iptv/logos/viju_history.png", Viju History (2)
+http://stream.mcquack.net/101/index.m3u8
+#EXTINF:-1 tvg-name="Viju History" group-title="🍿 Современное Зарубежное Кино и Сериалы" tvg-id="viasat-history" tvg-logo="https://ngrch.github.io/iptv/logos/viju_history.png", Viju History (3)
+http://178.124.179.122/HistoryHD/index.m3u8
+#EXTINF:-1 tvg-name="Viju History" group-title="🍿 Современное Зарубежное Кино и Сериалы" tvg-id="viasat-history" tvg-logo="https://ngrch.github.io/iptv/logos/viju_history.png", Viju History (4)
+http://flussonic.mkpnet.ru/tv-687ba838ca927b9a/video.m3u8
+#EXTINF:-1 tvg-name="История" group-title="🍿 Современное Зарубежное Кино и Сериалы" tvg-id="istoria" tvg-logo="https://ngrch.github.io/iptv/logos/istoriya.png", История
+https://stream8.cinerama.uz/1266/index.m3u8
+#EXTINF:-1 tvg-name="365 дней" group-title="🍿 Современное Зарубежное Кино и Сериалы", 365 дней
+http://stream.mcquack.net/70/index.m3u8
+#EXTINF:-1 tvg-name="365 дней" group-title="🍿 Современное Зарубежное Кино и Сериалы", 365 дней (2)
+https://stream8.cinerama.uz/1242/index.m3u8
+#EXTINF:-1 tvg-name="Viju Explore" group-title="🍿 Современное Зарубежное Кино и Сериалы" tvg-id="viasat-explore" tvg-logo="https://ngrch.github.io/iptv/logos/viju_explore.png", Viju Explore
+http://stream.mcquack.net/239/index.m3u8
+#EXTINF:-1 tvg-name="Viju Explore" group-title="🍿 Современное Зарубежное Кино и Сериалы" tvg-id="viasat-explore" tvg-logo="https://ngrch.github.io/iptv/logos/viju_explore.png", Viju Explore (2)
+https://flussonic.mkpnet.ru/tv-7c57a4c3f9a896ea/video.m3u8
+#EXTINF:-1 tvg-name="Viju+ Planet" group-title="🍿 Современное Зарубежное Кино и Сериалы", Viju+ Planet
+http://stream.mcquack.net/240/index.m3u8
+#EXTINF:-1 tvg-name="100% Детское" group-title="🍿 Современное Зарубежное Кино и Сериалы", 100% Детское
+https://stream.smotrim.ru/hls3/fasttv05/playlist_3.m3u8
+#EXTINF:-1 tvg-name="100% Любовь" group-title="🍿 Современное Зарубежное Кино и Сериалы", 100% Любовь
+https://stream.smotrim.ru/hls3/fasttv01/playlist_3.m3u8
+#EXTINF:-1 tvg-name="100% Мужское" group-title="🍿 Современное Зарубежное Кино и Сериалы", 100% Мужское
+https://stream.smotrim.ru/hls3/fasttv02/playlist_3.m3u8
+#EXTINF:-1 tvg-name="100% Праздник" group-title="🍿 Современное Зарубежное Кино и Сериалы", 100% Праздник
+https://stream.smotrim.ru/hls3/fasttv04/playlist_3.m3u8
+#EXTINF:-1 tvg-name="100% Факты" group-title="🍿 Современное Зарубежное Кино и Сериалы", 100% Факты
+https://stream.smotrim.ru/hls3/fasttv06/playlist_3.m3u8
 #EXTINF:-1 tvg-name="Disney XD" group-title="🍿 Современное Зарубежное Кино и Сериалы", Disney XD
 https://kinowalk.hopto.org/disneyxd_live
 #EXTINF:-1 tvg-name="JTX" group-title="🍿 Современное Зарубежное Кино и Сериалы", JTX
@@ -253,8 +269,6 @@ https://cityeden.catcast.tv/content/45269/index.m3u8
 https://cityeden.catcast.tv/content/41331/index.m3u8
 #EXTINF:-1 tvg-name="КиноФантастика" group-title="🍿 Современное Зарубежное Кино и Сериалы", КиноФантастика
 https://cityeden.catcast.tv/content/45268/index.m3u8
-#EXTINF:-1 tvg-name="Viju+ Planet" group-title="🍿 Современное Зарубежное Кино и Сериалы", Viju+ Planet
-http://stream.mcquack.net/240/index.m3u8
 #EXTINF:-1 tvg-name="СТС" group-title="🎉 Развлекательные" tvg-id="sts" tvg-logo="https://ngrch.github.io/iptv/logos/sts.png", СТС
 https://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8
 #EXTINF:-1 tvg-name="СТС" group-title="🎉 Развлекательные" tvg-id="sts" tvg-logo="https://ngrch.github.io/iptv/logos/sts.png", СТС (2)
@@ -287,6 +301,14 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_2/variant.m3u8
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_4/variant.m3u8
 #EXTINF:-1 tvg-name="ТНТ +7" group-title="🎉 Развлекательные" tvg-id="tnt-pl7" tvg-logo="https://ngrch.github.io/iptv/logos/tnt.png", ТНТ +7
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_7/variant.m3u8
+#EXTINF:-1 tvg-name="Приключения" group-title="🎉 Развлекательные", Приключения
+https://stream8.cinerama.uz/1420/index.m3u8
+#EXTINF:-1 tvg-name="Приключения" group-title="🎉 Развлекательные", Приключения (2)
+http://stream.mcquack.net/198/index.m3u8
+#EXTINF:-1 tvg-name="Viju Nature" group-title="🎉 Развлекательные" tvg-id="viasat-nature" tvg-logo="https://ngrch.github.io/iptv/logos/viju_nature.png", Viju Nature
+https://flussonic.mkpnet.ru/tv-7a85ea25208f5bf7/video.m3u8
+#EXTINF:-1 tvg-name="Viju Nature" group-title="🎉 Развлекательные" tvg-id="viasat-nature" tvg-logo="https://ngrch.github.io/iptv/logos/viju_nature.png", Viju Nature (2)
+https://stream8.cinerama.uz/1228/index.m3u8
 #EXTINF:-1 tvg-name="Че" group-title="🎉 Развлекательные" tvg-id="che" tvg-logo="https://ngrch.github.io/iptv/logos/che.png", Че
 https://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/variant.m3u8
 #EXTINF:-1 tvg-name="Суббота" group-title="🎉 Развлекательные" tvg-id="super" tvg-logo="https://ngrch.github.io/iptv/logos/subbota.png", Суббота
@@ -303,6 +325,20 @@ https://bl.rutube.ru/livestream/c801a7087e29a097192d74c270fbc6c1/index.m3u8?s=zh
 https://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE/variant.m3u8
 #EXTINF:-1 tvg-name="СТС Love" group-title="🎉 Развлекательные" tvg-id="sts-love" tvg-logo="https://ngrch.github.io/iptv/logos/sts_love.png", СТС Love (2)
 https://flussonic.mkpnet.ru/tv-b9f0884f9a81b8c6/video.m3u8
+#EXTINF:-1 tvg-name="Ю" group-title="🎉 Развлекательные" tvg-id="yu" tvg-logo="https://ngrch.github.io/iptv/logos/you.png", Ю
+https://zabava-htlive.cdn.ngenix.net/hls/CH_U/variant.m3u8
+#EXTINF:-1 tvg-name="Ю" group-title="🎉 Развлекательные" tvg-id="yu" tvg-logo="https://ngrch.github.io/iptv/logos/you.png", Ю (2)
+https://cdn-01.bonus-tv.ru/u/index.m3u8
+#EXTINF:-1 tvg-name="Ю" group-title="🎉 Развлекательные" tvg-id="yu" tvg-logo="https://ngrch.github.io/iptv/logos/you.png", Ю (3)
+https://bl.rutube.ru/livestream/5c9327074e25ca86f3111d4085cbbb65/index.m3u8?e=2066519758&s=9cPc1rCGu6M932eqrifRhQ&scheme=https
+#EXTINF:-1 tvg-name="Ю" group-title="🎉 Развлекательные" tvg-id="yu" tvg-logo="https://ngrch.github.io/iptv/logos/you.png", Ю (4)
+https://flussonic.mkpnet.ru/tv-3b21847ece4b1c19/video.m3u8
+#EXTINF:-1 tvg-name="НСТ" group-title="🎉 Развлекательные" tvg-id="nst" tvg-logo="https://ngrch.github.io/iptv/logos/nst.png", НСТ
+http://176.118.197.101/HCT/index.m3u8
+#EXTINF:-1 tvg-name="Москва Доверие" group-title="🎉 Развлекательные" tvg-id="doverie", Москва Доверие
+https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_DOVERIE/variant.m3u8
+#EXTINF:-1 tvg-name="Москва Доверие" group-title="🎉 Развлекательные" tvg-id="doverie", Москва Доверие (2)
+https://stream.smotrim.ru/hls2/doverie/playlist_3.m3u8
 #EXTINF:-1 tvg-name="СТС Love +2" group-title="🎉 Развлекательные" tvg-id="sts-love-pl2" tvg-logo="https://ngrch.github.io/iptv/logos/sts_love.png", СТС Love +2
 https://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE_2/variant.m3u8
 #EXTINF:-1 tvg-name="СТС Love +4" group-title="🎉 Развлекательные" tvg-id="sts-love-pl4" tvg-logo="https://ngrch.github.io/iptv/logos/sts_love.png", СТС Love +4
@@ -325,10 +361,12 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_CHE_2/variant.m3u8
 https://zabava-htlive.cdn.ngenix.net/hls/CH_CHE_4/variant.m3u8
 #EXTINF:-1 tvg-name="Че +7" group-title="🎉 Развлекательные" tvg-id="che-pl7" tvg-logo="https://ngrch.github.io/iptv/logos/che.png", Че +7
 https://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ_7/variant.m3u8
-#EXTINF:-1 tvg-name="СТС Kids" group-title="🎉 Развлекательные", СТС Kids
-https://stream8.cinerama.uz/1437/index.m3u8
-#EXTINF:-1 tvg-name="СТС Kids" group-title="🎉 Развлекательные", СТС Kids (2)
-http://stream.mcquack.net/197/index.m3u8
+#EXTINF:-1 tvg-name="Ю +2" group-title="🎉 Развлекательные" tvg-id="yu-pl2" tvg-logo="https://ngrch.github.io/iptv/logos/you.png", Ю +2
+https://zabava-htlive.cdn.ngenix.net/hls/CH_U_2/variant.m3u8
+#EXTINF:-1 tvg-name="Ю +4" group-title="🎉 Развлекательные" tvg-id="yu-pl4" tvg-logo="https://ngrch.github.io/iptv/logos/you.png", Ю +4
+https://zabava-htlive.cdn.ngenix.net/hls/CH_U_4/variant.m3u8
+#EXTINF:-1 tvg-name="Ю +7" group-title="🎉 Развлекательные" tvg-id="yu-pl7" tvg-logo="https://ngrch.github.io/iptv/logos/you.png", Ю +7
+https://zabava-htlive.cdn.ngenix.net/hls/CH_U_7/variant.m3u8
 #EXTINF:-1 tvg-name="Продвижение" group-title="🎉 Развлекательные", Продвижение
 http://origin5.mediacdn.ru/live/prodvizhenie_new/index.m3u8
 #EXTINF:-1 tvg-name="Продвижение" group-title="🎉 Развлекательные", Продвижение (2)
@@ -351,18 +389,6 @@ http://stream.mcquack.net/81/index.m3u8
 http://iam-profi.ru/hls-live/livepkgr/_definst_/liveevent/td720.m3u8
 #EXTINF:-1 tvg-name="Тео-ТВ" group-title="🎉 Развлекательные", Тео-ТВ
 https://stream.teotv.ru/live/site360/playlist.m3u8
-#EXTINF:-1 tvg-name="Fashion" group-title="🎉 Развлекательные", Fashion
-https://stream8.cinerama.uz/1053/index.m3u8
-#EXTINF:-1 tvg-name="Fashion" group-title="🎉 Развлекательные", Fashion (2)
-https://lbgo.bozztv.com/07/ushba93/index.m3u8
-#EXTINF:-1 tvg-name="Fashion" group-title="🎉 Развлекательные", Fashion (3)
-https://fashionlive.mediacdn.ru/cdn/fashiontv/index.m3u8
-#EXTINF:-1 tvg-name="World Fashion" group-title="🎉 Развлекательные", World Fashion
-http://live-3.otcnet.ru/wfcrus/index.m3u8
-#EXTINF:-1 tvg-name="World Fashion" group-title="🎉 Развлекательные", World Fashion (2)
-https://cdn.wfc.tv/cdn/stream-rus.m3u8
-#EXTINF:-1 tvg-name="Luxury" group-title="🎉 Развлекательные", Luxury
-https://s1.tv-nano.com/Luxury_rec/video.m3u8
 #EXTINF:-1 tvg-name="7 TV" group-title="🎉 Развлекательные", 7 TV
 https://v4.proofix.ru/7tv-live/index.m3u8
 #EXTINF:-1 tvg-name="Толк" group-title="🎉 Развлекательные", Толк
@@ -379,10 +405,18 @@ http://stream.mcquack.net/361/index.m3u8
 http://stream.mcquack.net/458/index.m3u8
 #EXTINF:-1 tvg-name="PV+" group-title="🎉 Развлекательные", PV+
 http://stream.mcquack.net/397/index.m3u8
-#EXTINF:-1 tvg-name="Приключения" group-title="🎉 Развлекательные", Приключения
-https://stream8.cinerama.uz/1420/index.m3u8
-#EXTINF:-1 tvg-name="Приключения" group-title="🎉 Развлекательные", Приключения (2)
-http://stream.mcquack.net/198/index.m3u8
+#EXTINF:-1 tvg-name="Тайна" group-title="🎉 Развлекательные", Тайна
+https://bl.rutube.ru/livestream/a11c890a0ec0730ad33bdaaf2d244e1a/index.m3u8?s=hCc3BqSwghCQ0GRhDJ967A&e=2070623490&scheme=https
+#EXTINF:-1 tvg-name="RAZ 1" group-title="🎉 Развлекательные", RAZ 1
+http://stream.mcquack.net/463/index.m3u8
+#EXTINF:-1 tvg-name="RAZ 2" group-title="🎉 Развлекательные", RAZ 2
+http://stream.mcquack.net/464/index.m3u8
+#EXTINF:-1 tvg-name="RAZ 3" group-title="🎉 Развлекательные", RAZ 3
+https://dash2.antik.sk/live/kvartal_tv/playlist.m3u8
+#EXTINF:-1 tvg-name="СТС Kids" group-title="🎉 Развлекательные", СТС Kids
+https://stream8.cinerama.uz/1437/index.m3u8
+#EXTINF:-1 tvg-name="СТС Kids" group-title="🎉 Развлекательные", СТС Kids (2)
+http://stream.mcquack.net/197/index.m3u8
 #EXTINF:-1 tvg-name="31 канал | Челябинск" group-title="🎉 Развлекательные", 31 канал | Челябинск
 http://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_OTT_31TVK_CHEL/variant.m3u8
 #EXTINF:-1 tvg-name="ОТВ | Челябинск" group-title="🎉 Развлекательные", ОТВ | Челябинск
@@ -481,8 +515,30 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_2/variant.m3u8
 https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_4/variant.m3u8
 #EXTINF:-1 tvg-name="Карусель +7" group-title="👶 Мультфильмы и Детские" tvg-id="karusel-pl7" tvg-logo="https://ngrch.github.io/iptv/logos/karusel.png", Карусель +7
 https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_7/variant.m3u8
+#EXTINF:-1 tvg-name="2x2" group-title="👶 Мультфильмы и Детские" tvg-id="2na2" tvg-logo="https://ngrch.github.io/iptv/logos/2x2.png", 2x2
+https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8
+#EXTINF:-1 tvg-name="2x2" group-title="👶 Мультфильмы и Детские" tvg-id="2na2" tvg-logo="https://ngrch.github.io/iptv/logos/2x2.png", 2x2 (2)
+https://bl.rutube.ru/livestream/392b4686b770bae2da6bf5ac4574add5/index.m3u8?e=2068731801&s=tenr-yHXUv1wibfka78s2A&scheme=https
+#EXTINF:-1 tvg-name="2x2" group-title="👶 Мультфильмы и Детские" tvg-id="2na2" tvg-logo="https://ngrch.github.io/iptv/logos/2x2.png", 2x2 (3)
+http://185.23.80.23:8080/2x2/index.m3u8
+#EXTINF:-1 tvg-name="Солнце" group-title="👶 Мультфильмы и Детские" tvg-id="solnce" tvg-logo="https://ngrch.github.io/iptv/logos/solnce.png", Солнце
+https://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/variant.m3u8
+#EXTINF:-1 tvg-name="Солнце" group-title="👶 Мультфильмы и Детские" tvg-id="solnce" tvg-logo="https://ngrch.github.io/iptv/logos/solnce.png", Солнце (2)
+https://tv.mediacdn.ru/live/solntse/playlist.m3u8
 #EXTINF:-1 tvg-name="Мульт" group-title="👶 Мультфильмы и Детские" tvg-id="mult" tvg-logo="https://ngrch.github.io/iptv/logos/mult.png", Мульт
 https://stream8.cinerama.uz/1246/index.m3u8
+#EXTINF:-1 tvg-name="2x2 +2" group-title="👶 Мультфильмы и Детские" tvg-id="2na2-pl2" tvg-logo="https://ngrch.github.io/iptv/logos/2x2.png", 2x2 +2
+https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2_2/variant.m3u8
+#EXTINF:-1 tvg-name="2x2 +4" group-title="👶 Мультфильмы и Детские" tvg-id="2na2-pl4" tvg-logo="https://ngrch.github.io/iptv/logos/2x2.png", 2x2 +4
+https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2_4/variant.m3u8
+#EXTINF:-1 tvg-name="2x2 +7" group-title="👶 Мультфильмы и Детские" tvg-id="2na2-pl7" tvg-logo="https://ngrch.github.io/iptv/logos/2x2.png", 2x2 +7
+https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2_7/variant.m3u8
+#EXTINF:-1 tvg-name="Солнце +2" group-title="👶 Мультфильмы и Детские" tvg-id="solnce-pl2" tvg-logo="https://ngrch.github.io/iptv/logos/solnce.png", Солнце +2
+https://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_2/variant.m3u8
+#EXTINF:-1 tvg-name="Солнце +4" group-title="👶 Мультфильмы и Детские" tvg-id="solnce-pl4" tvg-logo="https://ngrch.github.io/iptv/logos/solnce.png", Солнце +4
+https://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_4/variant.m3u8
+#EXTINF:-1 tvg-name="Солнце +7" group-title="👶 Мультфильмы и Детские" tvg-id="solnce-pl7" tvg-logo="https://ngrch.github.io/iptv/logos/solnce.png", Солнце +7
+https://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_7/variant.m3u8
 #EXTINF:-1 tvg-name="Маша и Медведь" group-title="👶 Мультфильмы и Детские", Маша и Медведь
 https://lbgo.bozztv.com/07/ushba79/index.m3u8
 #EXTINF:-1 tvg-name="Мультфильмы" group-title="👶 Мультфильмы и Детские", Мультфильмы
